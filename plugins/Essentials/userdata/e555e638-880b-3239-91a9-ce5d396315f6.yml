@@ -1,0 +1,19 @@
+lastAccountName: '12123414'
+timestamps:
+  login: 1500182990532
+  logout: 1500183136850
+ipAddress: 176.49.153.157
+lastlocation:
+  world: main
+  x: -77.06875195826254
+  y: 7.0
+  z: 269.5368115977038
+  yaw: -142.50003
+  pitch: 38.09996
+logoutlocation:
+  world: main
+  x: 632.4858852842844
+  y: 9.0
+  z: 991.3994992082744
+  yaw: 1.3482361
+  pitch: -6.1500263

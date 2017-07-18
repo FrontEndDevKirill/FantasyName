@@ -1,0 +1,364 @@
+{
+  "creative": {
+    "froms": [
+      {
+        "world": "main",
+        "x": -94.0,
+        "y": 67.0,
+        "z": 238.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "tos": [
+      {
+        "world": "creative",
+        "x": -343.1845593331297,
+        "y": 5.738921082437984,
+        "z": 465.70859766464105,
+        "yaw": 311.85025,
+        "pitch": 31.050034
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "donate": {
+    "froms": [
+      {
+        "world": "world",
+        "x": 2353.0,
+        "y": 81.0,
+        "z": 878.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "donate1": {
+    "tos": [
+      {
+        "world": "world",
+        "x": 2352.637071887907,
+        "y": 80.0,
+        "z": 877.6836828891411,
+        "yaw": 182.24997,
+        "pitch": 51.899975
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "end": {
+    "froms": [
+      {
+        "world": "survival",
+        "x": 6.0,
+        "y": 63.0,
+        "z": 252.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "hardcore": {
+    "froms": [
+      {
+        "world": "main",
+        "x": -94.0,
+        "y": 67.0,
+        "z": 228.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "main1": {
+    "froms": [
+      {
+        "world": "world",
+        "x": 2353.0,
+        "y": 81.0,
+        "z": 866.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "tos": [
+      {
+        "world": "main",
+        "x": -82.69052547252485,
+        "y": 63.0,
+        "z": 259.5498331159881,
+        "yaw": 2.249878,
+        "pitch": 18.149954
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "minigames": {
+    "froms": [
+      {
+        "world": "main",
+        "x": -66.0,
+        "y": 67.0,
+        "z": 238.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "tos": [
+      {
+        "world": "minigames",
+        "x": -268.69549428165027,
+        "y": 67.0,
+        "z": -86.58717948665344,
+        "yaw": 2.1000001,
+        "pitch": 13.800031
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "minigames1": {
+    "froms": [
+      {
+        "world": "main",
+        "x": 667.0,
+        "y": 8.0,
+        "z": 978.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "tos": [
+      {
+        "world": "minigames",
+        "x": -268.5073290429141,
+        "y": 68.2525665138245,
+        "z": -86.9992345852661,
+        "yaw": 0.9000003,
+        "pitch": 14.700006
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "minigames2": {
+    "froms": [
+      {
+        "world": "main",
+        "x": 667.0,
+        "y": 8.0,
+        "z": 990.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "tos": [
+      {
+        "world": "minigames",
+        "x": -268.5073290429141,
+        "y": 68.2525665138245,
+        "z": -86.9992345852661,
+        "yaw": 0.9000003,
+        "pitch": 14.700006
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "sky1": {
+    "froms": [
+      {
+        "world": "main",
+        "x": 597.0,
+        "y": 8.0,
+        "z": 990.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "sky2": {
+    "froms": [
+      {
+        "world": "main",
+        "x": 597.0,
+        "y": 8.0,
+        "z": 978.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "skyblock": {
+    "froms": [
+      {
+        "world": "main",
+        "x": -66.0,
+        "y": 67.0,
+        "z": 228.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "sur1": {
+    "froms": [
+      {
+        "world": "main",
+        "x": 638.0,
+        "y": 8.0,
+        "z": 1019.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "tos": [
+      {
+        "world": "survival",
+        "x": 31.557161023082642,
+        "y": 66.15448664976346,
+        "z": 244.72382051041618,
+        "yaw": 89.10235,
+        "pitch": 26.249949
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "sur2": {
+    "froms": [
+      {
+        "world": "main",
+        "x": 626.0,
+        "y": 8.0,
+        "z": 1019.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "tos": [
+      {
+        "world": "survival",
+        "x": 31.557161023082642,
+        "y": 66.15448664976346,
+        "z": 244.72382051041618,
+        "yaw": 89.10235,
+        "pitch": 26.249949
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "sur3": {
+    "froms": [
+      {
+        "world": "main",
+        "x": 626.0,
+        "y": 8.0,
+        "z": 949.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "tos": [
+      {
+        "world": "survival",
+        "x": 31.557161023082642,
+        "y": 66.15448664976346,
+        "z": 244.72382051041618,
+        "yaw": 89.10235,
+        "pitch": 26.249949
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  },
+  "sur4": {
+    "froms": [
+      {
+        "world": "main",
+        "x": 638.0,
+        "y": 8.0,
+        "z": 949.0,
+        "yaw": 0.0,
+        "pitch": 0.0
+      }
+    ],
+    "tos": [
+      {
+        "world": "survival",
+        "x": 31.557161023082642,
+        "y": 66.15448664976346,
+        "z": 244.72382051041618,
+        "yaw": 89.10235,
+        "pitch": 26.249949
+      }
+    ],
+    "entities": true,
+    "vehicles": false,
+    "inventory": "TRUE",
+    "material": "PORTAL",
+    "cost": 0.0
+  }
+}

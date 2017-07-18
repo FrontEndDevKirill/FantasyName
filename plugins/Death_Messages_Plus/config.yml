@@ -1,0 +1,91 @@
+# Welcome to the Death Messages Plus config file.
+# This is a very easy to configure file.
+# Here are a few keys you need to know.
+# %player% Is the player who died. IE: itunes89 died
+# %world% The world the user died in. IE: itunes89 died in the world: world_the_end
+# %displayname% This is the users display name. IE: Owner itunes89 died.
+# %killer% Is the killer. This can be a mob or a player depending on the message. IE: itunes89 was slain by skipperguy12 or itunes89 was slain by a zombie
+# this can also be objects such as a cactie, lava or the void if they fall out.
+# Now for color codes the fun part!
+# To see what the colors look like check this out: http:www.minecraftwiki.netwikiFormatting_codes#Color_codes
+# &b = Aqua 
+# &0 = Black
+# &l = Bold
+# &3 = Dark Aqua
+# &1 = Dark Blue
+# &8 = Dark Gray 
+# &2  = Dark Green
+# &4 = Dark Red
+# &6 = Gold
+# &7 = Gray
+# &a = Green
+# &o = Italic
+# &k = Random character(s)
+# &c = Red
+# &r = Reset 	WARNING: If you have &r%player% &resetdied by %killer% Everything after the reset will be back the basic color.
+# &m = Strike
+# &n = Underline
+# &f = White
+# &e = Yellow
+# This allows for huge customizability!
+
+# So with this, lets begin!
+
+#Drowned - Fired when a player dies because of air loss
+drowned: '%player% утонул'
+#Hit the ground too hard
+hit-the-ground-too-hard: '%player% убился об землю'
+
+#Player versus Player (PvP)
+
+#was slain by
+was-slain-by: '%player% был убит %killer%'
+#was shot by - Only happens for kills using a bow
+was-shot-by: '%player% был застрелен %killer%'
+#was killed by  - Only happens for kills using a splash potion
+was-killed-by: '%player% был застрелен %killer%'
+
+
+#fell out of the world
+fell-out-of-world: '%player% вышел за пределы мира'
+#tried to swim in lava
+tried-to-swin-in-lava: '&c%player% пытался плавать в лаве.'
+#went up in flames
+went-up-in-flames: '&c%player% загорелся' 
+#burned to death - I'm not sure what difference if, I know there is one though.
+burned-to-death: '&c%player% сгорел заживо'
+#blew up - Creepers, Ghasts and TNT cause this message.
+blew-up: '%player% взорвался!'
+
+
+#Hostile Mobs
+
+#was slain by - Remember these are caused by mobs, not people.
+was-slain-by-mob: '%player% был убит %killer%'
+#was shot by - Only caused by mobs with projectile attacks
+was-shot-by-mob: '%player% был застрелен %killer%'
+#was fireballed by - Only caused by Blazes and Ghasts
+was-shot-by-mob: '%player% получил удар огненным шаром от  %killer%'
+#was killed by  - Only caused by Witches
+was-killed-by-mob: '%player% был убит %killer%'
+
+#was killed by magic - Potion of Harming - When shot from a dispenser
+was-killed-by-magic: '%player% был убит магией'
+#suffocated in a wall 
+suffocated-in-a-wall: '%player% задохнулся встене'
+#was pricked to death
+was-pricked-to-death: '%player% заколот досмерти'
+#starved to death
+starved-to-death: '%player% умер от голода'
+#was shot by arrow - Dispenser when using arrows
+was-shot-by-arrow: '%player% был убит стрелой '
+#died Other (also caused by kill command)
+died: '%player% умер в мире %world%'
+#withered away - Caused by withers
+withered-away: '%player% засох'
+#was killed while trying to hurt - Thorns Enchantment - Only caused by mobs that can wear armor
+was-killed-while-trying-to-hurt: '%player% был убит при ударе %killer%'
+#was pummeled by - Happens when killed by a Snowball, a Chicken Egg or an Ender Pearl
+was-pummeled-by: '%player% был избит досмерти %killer%'
+#was squashed by a falling anvil - Caused when a anvil kills you
+was-squashed-by-a-falling-anvil: '%player% был раздавлен упавшей наковальней'

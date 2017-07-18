@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Golder
+timestamps:
+  login: 1499678556089
+  lastteleport: 1499678615694
+  logout: 1499678657621
+ipAddress: 82.117.245.191
+lastlocation:
+  world: creative
+  x: -346.77417477554116
+  y: 4.0
+  z: 478.2455830169971
+  yaw: 98.8515
+  pitch: 23.700037
+logoutlocation:
+  world: main
+  x: -79.46954241524969
+  y: 64.0
+  z: 265.1026378013171
+  yaw: 180.29985
+  pitch: 6.74995
+money: '201.0'

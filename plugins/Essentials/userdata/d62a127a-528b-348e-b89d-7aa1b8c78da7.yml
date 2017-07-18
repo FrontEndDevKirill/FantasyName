@@ -1,0 +1,21 @@
+lastAccountName: eair
+timestamps:
+  login: 1500275165505
+  lastteleport: 1500234092046
+  logout: 1500275170086
+ipAddress: 31.31.30.163
+logoutlocation:
+  world: main
+  x: 635.0
+  y: 9.5
+  z: 980.0
+  yaw: 3.0
+  pitch: -1.05
+socialspy: false
+lastlocation:
+  world: world
+  x: 2350.4732299653388
+  y: 9.0
+  z: 851.5393787664188
+  yaw: -1.782135
+  pitch: 16.049816

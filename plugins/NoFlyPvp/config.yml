@@ -1,0 +1,57 @@
+settings:
+    msgtimeout: 5               # Seconds To Wait Before The Same Message Is Sent To A Player
+    updatecheck: true           # Allows The Plugin To Check For New Versions
+    notifyadmins: true          # Sends A Message To Admins Of A New Version
+    block:
+        pvp: true               # Block PVP While Flying
+        potions: true           # Block Potions While Flying
+        bowfire: true           # Block Shooting A Bow While Flying (Overrides Player/Mob Bow Damage)
+        bowdamageplayer: true  # Block Shooting A Player With A Bow While Flying
+        bowdamagemob: false     # Block Shooting A Mob With A Bow While Flying
+        blockbreak: false       # Block Breaking Blocks While Flying
+        blockplace: false        # Block Placing Blocks While Flying
+        bucketempty: false       # Block Emptying Buckets While Flying
+        bucketfill: false       # Block Filling Buckets While Flying
+        pickupitem: false        # Block Picking Up Items While Flying
+    pvp:
+        disableflyonhit: false  # Turn Off Fly When Hit By A Player (Aka DiveBomb)
+        fallminhealth: 0.5      # Minimum Health To Leave A Player Whose Fly Was Turned Off
+        mobdisablefly: false    # Mobs That Deal Damage To A Player Turn Off Their Fly
+    messages:
+        # Messages Sent To Player
+        # Warning Messages Are An Alert Of What They Are Not Allowed To Do
+        # Disable Messages Are To Tell The Player They Must Disable Flying
+        # To Continue What They Want To Do
+        # If A Message Is Set To '' That Message Will Be Ignored And Not Sent
+        pvp:
+            warning: '&cВыключите &eКреатив или &eФлай'
+            disable: '&cВыключите &eКреатив или &eФлай'
+        potion:
+            warning: '&cВыключите &eКреатив или &eФлай'
+            disable: '&cВыключите &eКреатив или &eФлай'
+        bowfire:
+            warning: '&cВыключите &eКреатив или &eФлай'
+            disable: '&cВыключите &eКреатив или &eФлай'
+        bowdamageplayer:
+            warning: '&cВыключите &eКреатив или &eФлай'
+            disable: '&cВыключите &eКреатив или &eФлай'
+        bowdamagemob:
+            warning: '&cYou Are Not Allowed To Shoot Bows At Mobs While Flying Is Enabled'
+            disable: '&cYou Must Disable Flying To Attack With Bows Again'
+        blockbreak:
+            warning: '&cYou Are Not Allowed To Break Blocks While Flying Is Enabled'
+            disable: '&cYou Must Disable Flying To Break Blocks Again'
+        blockplace:
+            warning: '&cYou Are Not Allowed To Place Blocks While Flying Is Enabled'
+            disable: '&cYou Must Disable Flying To Place Blocks Again'
+        bucketempty:
+            warning: '&cYou Are Not Allowed To Empty Buckets While Flying Is Enabled'
+            disable: '&cYou Must Disable Flying To Empty Buckets Again'
+        bucketfill:
+            warning: '&cYou Are Not Allowed To Fill Buckets While Flying Is Enabled'
+            disable: '&cYou Must Disable Flying To Fill Buckets Again'
+        pickupitem:
+            warning: '&cYou Are Not Allowed To Pick Up Items While Flying Is Enabled'
+            disable: '&cYou Must Disable Flying To Pick Up Items Again'
+        divebomb:
+            warning: '&4MAYDAY. MAYDAY. MAYDAY. You Are Going Down!!!!'

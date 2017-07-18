@@ -1,0 +1,39 @@
+#  ----------------------------------------------------
+#  AutoMessage Configuration File
+#  ----------------------------------------------------
+#  Message Configuration:
+#     Messages are handled in lists to allow for advanced customization!
+#     Feel free to add color codes by using & in your messages!
+#     To split a message onto multiple lines use the \n delimiter!
+#     Lines starting with / will be run as a command!
+#     To add single apostrophes into a message use ''.
+#     For a complete tutorial go to http://dev.bukkit.org/server-mods/automessage.
+#     If you are unfamiliar with YAML use the in-game commands: /am help
+
+settings:
+  enabled: true
+  min-players: 2
+  log-to-console: false
+message-lists:
+  regular:
+    enabled: true
+    interval: 90
+    expiry: -1
+    random: true
+    messages:
+    - '&e[&c✉&e] &3\n &7↱ &eБудь вкурсе обновлений сервера!\n &7↦ &eПодписывайся на
+      группу в контакте! \n &7↳ &eСсылка на группу » &cvk.com/gold_mine_gold\n&7'
+    - '&e[&c✉&e] &eПокупать донат только у » &cНа сайте : fantasy-mine.mcdonate.ru'
+    - '&e[&c✉&e] &eНаша группа в контакте » &cvk.com/gold_mine_gold'
+    - '&e[&c✉&e] &eМеню сервера » &c/menu'
+    - "&e[&c✉&e] &eКуча полезных возможностей » &c/donate\\n&eТакже можно купить н\
+      а сайте : \t,  \t  &cfantasy-mine.mcdonate.ru"
+    - '&e[&c✉&e] &eАйпи сервера » &cfantasy-mine.ru:30038'
+    - '&e[&c✉&e] &eРандомный телепорт » &c/rp'
+    - '&e[&c✉&e] &eПаспорт на сервере, вводи » &c/pass'
+    - '&e[&c✉&e] &eВыделись среди друзей, купи донат! Они будут в восторге! Вводи
+      &c/donate'
+    - '&e[&c✉&e] &eИгровой магазин сервера &4[&6/shop&4]&e'
+    - '&e[&c✉&e] &eПолучи &5PRO &eбесплатно &4[&6/code WinnyLaPooh&4]&e'
+    - '&e[&c✉&e] &eНе хочешь строить себе дом ? Есть решение ...\n &4[&6/warp city&4]&e\n
+      &eты можешь купить или арендовать себе дом у админов!'

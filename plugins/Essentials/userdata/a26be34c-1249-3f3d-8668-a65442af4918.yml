@@ -1,0 +1,22 @@
+lastAccountName: tulaoloko
+timestamps:
+  login: 1500173389997
+  lastteleport: 1500173417363
+  kits:
+    start: 1500173636503
+  logout: 1500173863706
+ipAddress: 212.106.56.137
+lastlocation:
+  world: main
+  x: -80.0
+  y: 7.0
+  z: 265.0
+  yaw: -81.44969
+  pitch: 44.01501
+logoutlocation:
+  world: survival
+  x: 7.401539197189274
+  y: 62.0
+  z: 252.75233192187204
+  yaw: 244.83661
+  pitch: 67.626915

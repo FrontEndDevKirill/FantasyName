@@ -1,0 +1,79 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&4&l* &1Выбор лобби &4&l*'
+
+  # rows - the num6er of rows of the chest - REQUIRED
+  rows: 1
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'lob;lobby;лобби'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item to 0)
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+1:
+  COMMAND: 'mw goto main'
+  NAME: '&b&lLOBBY'
+  LORE:
+    - '&6Вернуться в лобби'
+  ID: nether_star
+  KEEP-OPEN: false
+  POSITION-X: 1
+  POSITION-Y: 1
+2:
+  COMMAND: 'mw goto survival'
+  NAME: '&a&lSurvival'
+  LORE:
+    - '&6Режим выживания'
+  ID: diamond_pickaxe
+  KEEP-OPEN: false
+  POSITION-X: 2
+  POSITION-Y: 1
+3:
+  COMMAND: 'mw goto minigames'
+  NAME: '&c&lMiniGames'
+  LORE:
+    - '&6Мини-игры'
+  ID: tnt
+  KEEP-OPEN: false
+  POSITION-X: 3
+  POSITION-Y: 1
+4:
+  COMMAND: 'mw goto creative'
+  NAME: '&3&lCreative'
+  LORE:
+    - '&6Креатив мир. Дай волю фантазии'
+  ID: bedrock
+  KEEP-OPEN: false
+  POSITION-X: 4
+  POSITION-Y: 1
+5:
+  COMMAND: 'mw goto askyblock'
+  NAME: '&9&lSkyBlock'
+  LORE:
+    - '&6СкайБлок развивай свой остров'
+  ID: grass
+  KEEP-OPEN: false
+  POSITION-X: 5
+  POSITION-Y: 1
+6:
+  COMMAND: 'mw goto hardcore'
+  NAME: '&8&lHardCore'
+  LORE:
+    - '&6А ты рискнешь?'
+  ID: slimeblock
+  KEEP-OPEN: false
+  POSITION-X: 6
+  POSITION-Y: 1

@@ -1,0 +1,272 @@
+# Locale settings. Supported at the moment: en (english), hu (hungarian)
+Locale: en
+
+# Update Check when starting the server
+CheckUpdate: true
+
+# %currency value (e.g. Dollar, Forint, Euro or symbol)
+Currency: "$"
+
+# Set True, if you want give money if the player kill mobs in the MobArena - RESTART REQUIRED
+EarnMoneyInMobArena: false
+
+# Multiworld support, you can disable this plugin on some worlds. ( e.g.: world_the_end )
+DisableOnTheseWorlds:
+    - world_the_end
+
+# This option disable that the player earn money, if the mob spawned from spawner or spawner egg.
+AllowSpawnerFarming: false
+
+# You can enable or disable that, the players get message if he/she earn money.
+SendMessageWhenEarnMoney: true
+
+# The money multiplier. You can change it on double coins weekend. Money * Multiplier.
+GlobalMultiplier: 1
+
+# 1st line: The mob's name, do not change it!
+# 2nd line (Enabled): If you want give money for this mob kill
+# 3rd line (Negative): If you want negative cash (withdraw) then set true
+# 4th line (MinMoney): The minimum money for kill
+# 5th line (MaxMoney): The maximum money for kill
+# 6th line (Chance): Chance for earn money - Min 1, max 100 (in percent)
+
+# String List:
+# %currency = Currency value
+# %money = Earned money
+# %playername = Killer player's name
+# %victim = Killed player's name
+
+# If you would like give fix money, then must MinMoney equal with MaxMoney!
+
+PIG:
+   Enabled: true
+   Negative: false
+   MinMoney: 1
+   MaxMoney: 2
+   Chance: 100
+   
+SHEEP:
+   Enabled: true
+   Negative: false
+   MinMoney: 1
+   MaxMoney: 2
+   Chance: 100
+   
+CHICKEN:
+   Enabled: true
+   Negative: false
+   MinMoney: 1
+   MaxMoney: 2
+   Chance: 100
+   
+COW:
+   Enabled: true
+   Negative: false
+   MinMoney: 1
+   MaxMoney: 2
+   Chance: 100
+
+HORSE:
+   Enabled: true
+   Negative: false
+   MinMoney: 1
+   MaxMoney: 2
+   Chance: 100
+
+RABBIT:
+   Enabled: true
+   Negative: false
+   MinMoney: 1
+   MaxMoney: 2
+   Chance: 100
+   
+WOLF:
+   Enabled: true
+   Negative: false
+   MinMoney: 1
+   MaxMoney: 2
+   Chance: 100
+   
+OCELOT:
+   Enabled: true
+   Negative: false
+   MinMoney: 1
+   MaxMoney: 2
+   Chance: 100
+   
+BAT:
+   Enabled: true
+   Negative: false
+   MinMoney: 5
+   MaxMoney: 10
+   Chance: 100
+   
+BLAZE:
+   Enabled: true
+   Negative: false
+   MinMoney: 25
+   MaxMoney: 25
+   Chance: 100
+   
+CAVE_SPIDER:
+   Enabled: true
+   Negative: false
+   MinMoney: 25
+   MaxMoney: 25
+   Chance: 100
+   
+CREEPER:
+   Enabled: true
+   Negative: false
+   MinMoney: 25
+   MaxMoney: 25
+   Chance: 100
+   
+ENDER_DRAGON:
+   Enabled: true
+   Negative: false
+   MinMoney: 500
+   MaxMoney: 500
+   Chance: 100
+   
+ENDERMAN:
+   Enabled: true
+   Negative: false
+   MinMoney: 35
+   MaxMoney: 35
+   Chance: 100
+
+ENDERMITE:
+   Enabled: true
+   Negative: false
+   MinMoney: 1
+   MaxMoney: 2
+   Chance: 100
+   
+GHAST:
+   Enabled: true
+   Negative: false
+   MinMoney: 35
+   MaxMoney: 35
+   Chance: 100
+   
+GIANT:
+   Enabled: true
+   Negative: false
+   MinMoney: 35
+   MaxMoney: 35
+   Chance: 100
+
+GUARDIAN:
+   Enabled: true
+   Negative: false
+   MinMoney: 35
+   MaxMoney: 35
+   Chance: 100
+
+IRON_GOLEM:
+   Enabled: true
+   Negative: true
+   MinMoney: 10
+   MaxMoney: 10
+   Chance: 100
+   
+MAGMA_CUBE:
+   Enabled: true
+   Negative: false
+   MinMoney: 25
+   MaxMoney: 25
+   Chance: 100
+   
+MUSHROOM_COW:
+   Enabled: true
+   Negative: false
+   MinMoney: 5
+   MaxMoney: 5
+   Chance: 100
+   
+PIG_ZOMBIE:
+   Enabled: true
+   Negative: false
+   MinMoney: 35
+   MaxMoney: 35
+   Chance: 100
+   
+PLAYER:
+   Enabled: true
+   Negative: false
+   MinMoney: 0
+   MaxMoney: 0
+   CashTransferPercent: 10
+   CashTransferLimit: 0
+   Chance: 100
+   
+SILVERFISH:
+   Enabled: true
+   Negative: false
+   MinMoney: 15
+   MaxMoney: 15
+   Chance: 100
+   
+SKELETON:
+   Enabled: true
+   Negative: false
+   MinMoney: 25
+   MaxMoney: 25
+   Chance: 100
+   
+SLIME:
+   Enabled: true
+   Negative: false
+   MinMoney: 25
+   MaxMoney: 25
+   Chance: 100
+
+SNOWMAN:
+   Enabled: true
+   Negative: true
+   MinMoney: 10
+   MaxMoney: 10
+   Chance: 100
+   
+SPIDER:
+   Enabled: true
+   Negative: false
+   MinMoney: 25
+   MaxMoney: 25
+   Chance: 100
+   
+SQUID:
+   Enabled: true
+   Negative: false
+   MinMoney: 5
+   MaxMoney: 5
+   Chance: 100
+   
+VILLAGER:
+   Enabled: true
+   Negative: true
+   MinMoney: 100
+   MaxMoney: 100
+   Chance: 100
+   
+WITCH:
+   Enabled: true
+   Negative: false
+   MinMoney: 35
+   MaxMoney: 35
+   Chance: 100
+   
+WITHER:
+   Enabled: true
+   Negative: false
+   MinMoney: 350
+   MaxMoney: 350
+   Chance: 100
+   
+ZOMBIE:
+   Enabled: true
+   Negative: false
+   MinMoney: 25
+   MaxMoney: 25
+   Chance: 100

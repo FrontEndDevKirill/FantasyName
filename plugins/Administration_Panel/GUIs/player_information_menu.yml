@@ -1,0 +1,182 @@
+title: "&6Информания о игроках"
+
+slots: 18
+
+buttons:
+
+  0:
+  
+    type: HEALTH
+    
+    item: POTION
+    
+    slot: 0
+    
+    # <3 will be replaced with a little Heart. ;)
+    title: "&c%curHealth% / %maxHealth% <3"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target% Здоровье."
+     
+  1:
+  
+    type: FOOD
+    
+    item: POTION
+    
+    slot: 1
+    
+    title: "&6%food% еда"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target% еда."
+      
+  2:
+  
+    type: EXPERIENCE_LEVEL
+    
+    item: POTION
+    
+    slot: 2
+    
+    title: "&a%exp% XP (Lvl. %level%)"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target% Опыт."
+      
+  3:
+  
+    type: GAMEMODE
+    
+    item: LEATHER_CHESTPLATE
+    
+    slot: 3
+    
+    title: "&5Gamemode: &d%gamemode%"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target% gamemode."
+      
+  4:
+  
+    type: GHOSTMODE
+    
+    item: CHAINMAIL_CHESTPLATE
+    
+    slot: 4
+    
+    title: "&8Невидемость: &7%ghostmode%"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target% невидемость."
+      
+  5:
+  
+    type: FLYMODE
+    
+    item: FEATHER
+    
+    slot: 5
+    
+    title: "&3Полет: &b%flymode%"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target% Полет."
+      
+  6:
+  
+    type: IP
+    
+    item: REDSTONE
+    
+    slot: 6
+    
+    title: "&4IP: &c%ip%"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target%'s IP Адрес."
+      
+  7:
+  
+    type: INVENTORY
+    
+    item: CHEST
+    
+    slot: 7
+    
+    title: "&2Открыть инвентарь ..."
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&fОткрыть %target% инвентарь."
+      
+  8:
+  
+    type: ENDER_CHEST
+    
+    item: ENDER_CHEST
+    
+    slot: 8
+    
+    title: "&2Открыть Эндерсундук..."
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&fОткрыть %target% Эндерсундук."
+      
+  16:
+  
+    type: KICK_PLAYER
+    
+    item: LEATHER_BOOTS
+    
+    slot: 16
+    
+    title: "&cКикнуть этого игрока ..."
+    
+    permission: "player-informations.kick-player"
+    
+    lore:
+    
+      1: "&fКикнуть этого игрока."
+      
+  17:
+  
+    type: BAN_PLAYER
+    
+    item: DIAMOND_BOOTS
+    
+    slot: 17
+    
+    title: "&4Забанить этого игрока ..."
+    
+    permission: "player-informations.ban-player"
+    
+    lore:
+    
+      1: "&fЗабанить этого игрока."

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///D:/Downloads/400px-Inverted_pyramid_2.svg.png" added="2017-03-22T15:26:57Z" modified="2017-03-22T17:52:15Z" visited="2017-03-22T15:26:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-22T17:52:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/drawing.svg" added="2017-03-22T20:10:13Z" modified="2017-03-23T06:27:07Z" visited="2017-03-22T20:10:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-23T06:27:07Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_1.png" added="2017-03-22T21:38:24Z" modified="2017-03-29T22:10:22Z" visited="2017-03-22T21:38:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-29T22:10:22Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/drawing2.svg" added="2017-03-23T06:21:44Z" modified="2017-03-23T06:21:44Z" visited="2017-03-23T06:21:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-23T06:21:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/simple_svg.svg" added="2017-03-23T06:31:13Z" modified="2017-03-23T06:31:13Z" visited="2017-03-23T06:31:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-23T06:31:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_1.svg" added="2017-03-29T22:12:59Z" modified="2017-04-05T20:03:31Z" visited="2017-03-29T22:12:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-04-05T20:03:31Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_2.png" added="2017-03-29T22:21:06Z" modified="2017-03-29T22:21:06Z" visited="2017-03-29T22:21:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-29T22:21:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_2.svg" added="2017-03-29T22:25:20Z" modified="2017-03-29T22:25:20Z" visited="2017-03-29T22:25:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-29T22:25:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_3.png" added="2017-03-29T22:25:47Z" modified="2017-03-29T22:25:47Z" visited="2017-03-29T22:25:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-29T22:25:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_3.svg" added="2017-03-29T22:40:20Z" modified="2017-03-29T22:41:19Z" visited="2017-03-29T22:40:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-29T22:41:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_4.png" added="2017-03-29T22:41:41Z" modified="2017-03-29T22:41:41Z" visited="2017-03-29T22:41:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-29T22:41:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_4.svg" added="2017-03-29T22:43:15Z" modified="2017-03-29T22:43:15Z" visited="2017-03-29T22:43:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-29T22:43:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_5.png" added="2017-03-29T22:44:29Z" modified="2017-03-29T22:44:29Z" visited="2017-03-29T22:44:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-29T22:44:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_5.svg" added="2017-03-29T23:13:58Z" modified="2017-03-30T05:44:19Z" visited="2017-03-29T23:13:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-30T05:44:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/Screenshot_6.png" added="2017-03-30T05:29:24Z" modified="2017-03-30T05:29:24Z" visited="2017-03-30T05:29:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-30T05:29:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///E:/%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0(3%20%D0%BB%D0%B0%D0%B1%D0%B0)/Omfattning1.svg" added="2017-03-30T05:33:23Z" modified="2017-03-30T05:33:23Z" visited="2017-03-30T05:33:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-03-30T05:33:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///D:/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/2017/Geometry/drawing1.svg" added="2017-04-12T19:21:41Z" modified="2017-04-12T19:21:41Z" visited="2017-04-12T19:21:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape.exe" exec="&apos;inkscape.exe %u&apos;" modified="2017-04-12T19:21:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

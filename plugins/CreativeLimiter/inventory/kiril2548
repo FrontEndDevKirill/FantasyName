@@ -1,0 +1,51 @@
+CREATIVE:
+  inv:
+  - ==: org.bukkit.inventory.ItemStack
+    type: SIGN
+  - ==: org.bukkit.inventory.ItemStack
+    type: STONE
+    damage: 6
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  armor:
+  - null
+  - null
+  - null
+  - null

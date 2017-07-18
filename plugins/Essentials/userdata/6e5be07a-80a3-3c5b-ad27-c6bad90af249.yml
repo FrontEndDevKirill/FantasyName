@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Jack
+timestamps:
+  login: 1499613218809
+  logout: 1499619542980
+ipAddress: 91.222.251.50
+lastlocation:
+  world: world
+  x: 2380.5
+  y: 87.0
+  z: 875.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: main
+  x: -79.46954241524969
+  y: 64.0
+  z: 265.1026378013171
+  yaw: 184.0499
+  pitch: 0.5999493
+afk: false
+money: '305.0'

@@ -1,0 +1,74 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&4&l* &1Донат Услуги &4&l*'
+
+  # rows - the num6er of rows of the chest - REQUIRED
+  rows: 2
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'donate2;donat2;донат2'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item to 0)
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+1:
+  COMMAND: 'tell:&e&lПокупать донат у админа: &6&l&nFhavyre&4&lили на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&cРазбан&7] &d50 &bрублей'
+  LORE:
+    - '&7[&2+&7] &bСнятие бана по причине: &7[&cЛЮБАЯ&7]'
+  ID: wool
+  KEEP-OPEN: false
+  POSITION-X: 1
+  POSITION-Y: 1
+2:
+  COMMAND: 'tell:&e&lПокупать донат у админа: &6&l&nFhavyre&4&lили на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&cКупить доллары 1000$&7] &d10 &bрублей'
+  LORE:
+    - '&7[&2+&7] &bВалюта сервера зачислеться вам на счет'
+  ID: wool:1
+  KEEP-OPEN: false
+  POSITION-X: 2
+  POSITION-Y: 1
+3:
+  COMMAND: 'tell:&e&lПокупать донат у админа: &6&l&nFhavyre&4&lили на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&cЛицензия на магазин&7] &b1 рубль'
+  LORE:
+    - '&7[&2+&7] &bЛицензия нужна &7[&cЧто бы открыть свой магазин&7]'
+  ID: wool:2
+  KEEP-OPEN: false
+  POSITION-X: 3
+  POSITION-Y: 1
+4:
+  COMMAND: 'tell:&e&lПокупать донат у админа: &6&l&nFhavyre&4&lили на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&cWarp у вас дома&7] &bбесплатно'
+  LORE:
+    - '&7[&2+&7] &bОбратись к Fhavyre или zLane &7[&cОни поставят вам wapr в нужном месте&7]'
+    - '&7[&6Правила:&7]'
+    - '&7[&2+&7] &bУ вас обязательно должен быть магазин или какая-то мини-игра'
+    - '&7[&2+&7] &bВ магазине должно быть не меньше 10 предметов на продажу'
+    - '&7[&2+&7] &bВ мини-игре должны быть призы'
+    - '&7[&2+&7] &bЦена должна быть меньше чем в магазине сервера!'
+  ID: wool:3
+  KEEP-OPEN: false
+  POSITION-X: 4
+  POSITION-Y: 1
+back:
+  COMMAND: 'open:menu.yml; sound: ENTITY_ARROW_SHOOT, 3.0, 3.0'
+  NAME: '&aВ Меню'
+  ID: 381
+  POSITION-X: 5
+  POSITION-Y: 2

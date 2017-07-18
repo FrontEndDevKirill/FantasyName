@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: LaggerDen
+timestamps:
+  login: 1500058920748
+  lastteleport: 1500059137554
+  logout: 1500059145106
+ipAddress: 91.77.251.119
+lastlocation:
+  world: world
+  x: 683.7673556804233
+  y: 245.0
+  z: 2059.326183277454
+  yaw: 26.549896
+  pitch: -1.0499976
+logoutlocation:
+  world: world
+  x: 685.90706111788
+  y: 245.0
+  z: 2050.8560502058053
+  yaw: -145.79999
+  pitch: -12.749996

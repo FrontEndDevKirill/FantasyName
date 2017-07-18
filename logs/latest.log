@@ -1,0 +1,1452 @@
+[09:18:57] [Server thread/INFO]: Starting minecraft server version 1.8
+[09:18:57] [Server thread/INFO]: Loading properties
+[09:18:57] [Server thread/INFO]: Default game type: SURVIVAL
+[09:18:57] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-550ebac-7019900 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[09:18:57] [Server thread/INFO]: Debug logging is disabled
+[09:18:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:18:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:18:57] [Server thread/INFO]: Generating keypair
+[09:18:57] [Server thread/INFO]: Starting Minecraft server on 85.10.197.22:30038
+[09:18:57] [Server thread/WARN]: Plugin `Administration_Panel v1.1.0' uses the space-character (0x20) in its name `Administration Panel' - this is discouraged
+[09:18:57] [Server thread/ERROR]: Ambiguous plugin name `Essentials' for files `plugins/Essentials-2.x-SNAPSHOT.jar' and `plugins/Essentials.jar' in `plugins'
+[09:18:57] [Server thread/ERROR]: Ambiguous plugin name `EssentialsSpawn' for files `plugins/EssentialsSpawn.jar' and `plugins/EssentialsSpawn-2.x-SNAPSHOT.jar' in `plugins'
+[09:18:57] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[09:18:58] [Server thread/INFO]: [ChatGame] Loading ChatGame v1.8
+[09:18:58] [Server thread/INFO]: [EmeraldDonation] Loading EmeraldDonation v0.3
+[09:18:58] [Server thread/INFO]: [Administration_Panel] Loading Administration_Panel v1.1.0
+[09:18:58] [Server thread/INFO]: [DynPad] Loading DynPad v1.5
+[09:18:58] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
+[09:18:58] [Server thread/INFO]: [GiftCode] Loading GiftCode v1.3.1
+[09:18:58] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.1.1
+[09:18:58] [Server thread/INFO]: [ViaVersion] ViaVersion 1.1.1 is now loaded, injecting!
+[09:18:58] [Server thread/INFO]: [SignColorz] Loading SignColorz v1.2
+[09:18:58] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[09:18:58] [Server thread/INFO]: [TimTheEnchanter] Loading TimTheEnchanter v2.0
+[09:18:58] [Server thread/INFO]: [HealthBar] Loading HealthBar v1.8.3
+[09:18:58] [Server thread/INFO]: [OpenInv] Loading OpenInv v3.0.6
+[09:18:58] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[09:18:58] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
+[09:18:58] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.5.5
+[09:18:58] [Server thread/INFO]: [SurvivalGames] Loading SurvivalGames v0.5.9
+[09:18:58] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.8.4
+[09:18:58] [Server thread/INFO]: [ColorHelp] Loading ColorHelp v1.2
+[09:18:58] [Server thread/INFO]: [CustomJoin] Loading CustomJoin v1.0
+[09:18:58] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.1.0-SNAPSHOT-b320
+[09:18:59] [Server thread/INFO]: [MCCore] Loading MCCore v1.58
+[09:18:59] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1022
+[09:18:59] [Server thread/INFO]: onLoad: Early set up of static API, configuration, logging.
+[09:18:59] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[09:18:59] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.8
+[09:18:59] [Server thread/INFO]: [AutoSaveWorld] Loading AutoSaveWorld v4.15.dev
+[09:18:59] [Server thread/INFO]: [ItemFixer] Loading ItemFixer v2.6.3
+[09:18:59] [Server thread/INFO]: [gwm_Library] Loading GWMLibrary v1.5
+[09:18:59] [Server thread/INFO]: [gwm_Library] GWM Bukkit Library loaded!
+[09:18:59] [Server thread/INFO]: [OPSRegion] Loading OPSRegion v1.0
+[09:18:59] [Server thread/INFO]: [Death_Messages_Plus] Loading Death_Messages_Plus v1.05
+[09:18:59] [Server thread/INFO]: [MCDonate] Loading MCDonate v0.20
+[09:18:59] [Server thread/INFO]: [iConomy] Loading iConomy v7.0
+[09:18:59] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[09:19:00] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[09:19:00] [Server thread/INFO]: [SuperSpleef] Loading SuperSpleef vB 0.1.7
+[09:19:00] [Server thread/INFO]: [NoFlyPvp] Loading NoFlyPvp v1.1.4
+[09:19:00] [Server thread/INFO]: [GifterPlus] Loading GifterPlus v0.2
+[09:19:00] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.2
+[09:19:00] [Server thread/INFO]: [AntiRelog] Loading AntiRelog v1.3.2
+[09:19:00] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.1-SNAPSHOT
+[09:19:00] [Server thread/INFO]: [RandomPort] Loading RandomPort v3.0
+[09:19:00] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[09:19:00] [Server thread/INFO]: [ChangeSkin] Loading ChangeSkin v2.3.2
+[09:19:00] [Server thread/INFO]: [UralClans2] Loading UralClans2 v2.2.8
+[09:19:00] [Server thread/INFO]: [ChestShop] Loading ChestShop v3.46
+[09:19:00] [Server thread/INFO]: [AuthMe] Loading AuthMe v3.4
+[09:19:00] [Server thread/INFO]: [ChatGuard] Loading ChatGuard v7.4
+[09:19:00] [Server thread/INFO]: [KillerMoney] Loading KillerMoney v2.1
+[09:19:00] [Server thread/INFO]: [LWC] Loading LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+[09:19:00] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2
+[09:19:00] [Server thread/INFO]: [CratesPlus] Loading CratesPlus v4.4.1
+[09:19:00] [Server thread/INFO]: [Marriage] Loading Marriage v2.0.13
+[09:19:00] [Server thread/INFO]: [Marriage] Completed plugin pre-load stage.
+[09:19:00] [Server thread/INFO]: [SkyWars] Loading SkyWars v2.1.0
+[09:19:00] [Server thread/INFO]: [uCars] Loading uCars v19
+[09:19:00] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[09:19:00] [Server thread/INFO]: [Quests] Loading Quests v2.0.0
+[09:19:00] [Server thread/INFO]: [ServerSigns] Loading ServerSigns v4.2.1-DEV
+[09:19:00] [Server thread/INFO]: [TitleManager] Loading TitleManager v1.5.12
+[09:19:00] [Server thread/INFO]: [MarioKart] Loading MarioKart v7
+[09:19:00] [Server thread/INFO]: [Timeismoney] Loading Timeismoney v1.3
+[09:19:00] [Server thread/INFO]: [BowSpleef] Loading BowSpleef vB 0.2.0
+[09:19:00] [Server thread/INFO]: [ServerlistMOTD] Loading ServerlistMOTD v10.0.1
+[09:19:00] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[09:19:00] [Server thread/INFO]: [ASkyBlock] Loading ASkyBlock v3.0.6.9
+[09:19:00] [Server thread/INFO]: [TNTRun] Loading TNTRun v1.1
+[09:19:00] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[09:19:00] [Server thread/INFO]: [InfoBoardReborn] Loading InfoBoardReborn v1.7.0
+[09:19:00] [Server thread/INFO]: [BedwarsRel] Loading BedwarsRel v1.3.6
+[09:19:00] [Server thread/INFO]: [ColoredTags] Loading ColoredTags v2.1.3
+[09:19:00] [Server thread/INFO]: [SuperBuildBattle] Loading SuperBuildBattle v11.0
+[09:19:00] [Server thread/INFO]: [AncientGates] Loading AncientGates v2.1
+[09:19:00] [Server thread/INFO]: [BuyRegion] Loading BuyRegion v1.1.1
+[09:19:00] [Server thread/INFO]: [ChatEx] Loading ChatEx v1.6
+[09:19:00] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v0.3.7
+[09:19:00] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v1.4
+[09:19:00] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.1.0-SNAPSHOT-b320
+[09:19:00] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[09:19:00] [Server thread/INFO]: [AutoSaveWorld] Enabling AutoSaveWorld v4.15.dev
+[09:19:00] [Server thread/INFO]: [LWC] Enabling LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+[09:19:00] [Server thread/INFO]: [LWC] Loaded 209 locale strings (0 overrides)
+[09:19:00] [Server thread/INFO]: [LWC] Permissions API: §4VaultPermissions
+[09:19:00] [Server thread/INFO]: [LWC] Currency API: §4VaultCurrency
+[09:19:00] [Server thread/INFO]: [LWC] Connecting to SQLite
+[09:19:00] [Server thread/INFO]: [LWC] Performing any necessary database updates
+[09:19:00] [Server thread/INFO]: [LWC] Using database: Native
+[09:19:00] [Server thread/INFO]: [LWC] Precached 651 protections
+[09:19:00] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[09:19:00] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[09:19:00] [Server thread/WARN]: iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[09:19:00] [Server thread/WARN]: if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[09:19:00] [Server thread/WARN]: it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[09:19:00] [Server thread/INFO]: [Vault] [Economy] iConomy 6 found: Waiting
+[09:19:00] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[09:19:00] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[09:19:00] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[09:19:00] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[09:19:00] [Server thread/INFO]: [ASkyBlock] Enabling ASkyBlock v3.0.6.9
+[09:19:01] [Server thread/INFO]: [ASkyBlock] HOPPER will be limited to 30
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (BEETROOT_BLOCK) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (BLACK_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (BLUE_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (BOAT_ACACIA) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (BOAT_BIRCH) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (BOAT_DARK_OAK) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (BOAT_JUNGLE) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (BOAT_SPRUCE) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (BONE_BLOCK) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (BROWN_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (CHORUS_FLOWER) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (CHORUS_PLANT) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (CYAN_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (END_BRICKS) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (FROSTED_ICE) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (GRASS_PATH) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (GRAY_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (GREEN_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (LIGHT_BLUE_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (LIME_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (MAGENTA_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (MAGMA) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (NETHER_WART_BLOCK) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (OBSERVER) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (ORANGE_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (PINK_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (PURPLE_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (PURPUR_BLOCK) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (PURPUR_DOUBLE_SLAB) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (PURPUR_PILLAR) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (PURPUR_SLAB) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (PURPUR_STAIRS) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (RED_NETHER_BRICK) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (RED_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (SILVER_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (WHITE_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/WARN]: [ASkyBlock] Unknown material (YELLOW_SHULKER_BOX) in blockvalues.yml blocks section. Skipping...
+[09:19:01] [Server thread/ERROR]: Level (Novice) for challenge glassmaker does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Novice) for challenge breadmaker does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Novice) for challenge dyemaker does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Novice) for challenge papermaker does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Novice) for challenge cobblemaker does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Novice) for challenge seedbank does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Novice) for challenge stewmaker does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Novice) for challenge builder does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Competent) for challenge grinder does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Competent) for challenge farmer does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Competent) for challenge angler does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Competent) for challenge treecutter does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Competent) for challenge cookiemaker does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Competent) for challenge craftsman does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Competent) for challenge homestead does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Expert) for challenge nether does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Expert) for challenge enderpearls does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Expert) for challenge slimeballfarmer does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Expert) for challenge baker does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Expert) for challenge pioneer does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Expert) for challenge mason does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge shepherd does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge alchemist does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge dj does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge gemcollector does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge culinaryartist does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge beaconator does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge ittakesavillage does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge myprecious does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge snowplay does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge itsaparty does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Advanced) for challenge itsamonsterparty does not exist. Check challenges.yml.
+[09:19:01] [Server thread/ERROR]: Level (Elite) for challenge acidduke does not exist. Check challenges.yml.
+[09:19:01] [Server thread/INFO]: [ASkyBlock] Loaded default island schematic.
+[09:19:01] [Server thread/WARN]: Spawner setting of WITHER_SKELETON is unknown for this server. Skipping.
+[09:19:01] [Server thread/INFO]: [ASkyBlock] Loaded default nether schematic.
+[09:19:01] [Server thread/INFO]: [ASkyBlock] Loading schematic Оригинал (island.schematic) for all players, order 1
+[09:19:01] [Server thread/WARN]: Spawner setting of WITHER_SKELETON is unknown for this server. Skipping.
+[09:19:01] [Server thread/INFO]: [ASkyBlock] Loading schematic Остров ада (nether.schematic) for all players, order 0
+[09:19:01] [Server thread/INFO]: [ASkyBlock] Loading schematic Остров Дуэт (double.schematic) for all players, order 2
+[09:19:01] [Server thread/INFO]: [ASkyBlock] Loading schematic §lЧёрные §bБриллианты (harder.schematic) for all players, order 3
+[09:19:01] [Server thread/INFO]: [ASkyBlock] Loading offline messages...
+[09:19:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:19:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:19:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:19:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:19:01] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[09:19:01] [Server thread/INFO]: Preparing level "world"
+[09:19:01] [Server thread/INFO]: -------- World Settings For [world] --------
+[09:19:01] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:01] [Server thread/INFO]: Anti X-Ray: true
+[09:19:01] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:01] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:01] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:01] [Server thread/INFO]: Structure Info Saving: true
+[09:19:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:01] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:01] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:01] [Server thread/INFO]: View Distance: 10
+[09:19:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:01] [Server thread/INFO]: Clear tick list: false
+[09:19:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:01] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[09:19:01] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:01] [Server thread/INFO]: Anti X-Ray: true
+[09:19:01] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:01] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:01] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:01] [Server thread/INFO]: Structure Info Saving: true
+[09:19:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:01] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:01] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:01] [Server thread/INFO]: View Distance: 10
+[09:19:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:01] [Server thread/INFO]: Clear tick list: false
+[09:19:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:01] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[09:19:01] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:01] [Server thread/INFO]: Anti X-Ray: true
+[09:19:01] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:01] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:01] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:01] [Server thread/INFO]: Structure Info Saving: true
+[09:19:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:01] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:01] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:01] [Server thread/INFO]: View Distance: 10
+[09:19:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:01] [Server thread/INFO]: Clear tick list: false
+[09:19:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:01] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4603673054668157229)
+[09:19:01] [Server thread/WARN]: Skipping Piece with id Iglu
+[09:19:01] [Server thread/WARN]: Skipping Piece with id Iglu
+[09:19:01] [Server thread/WARN]: Skipping Piece with id Iglu
+[09:19:01] [Server thread/INFO]: -------- World Settings For [ASkyBlock] --------
+[09:19:01] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:01] [Server thread/INFO]: Anti X-Ray: true
+[09:19:01] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:01] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:01] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:01] [Server thread/INFO]: Structure Info Saving: true
+[09:19:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:01] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:01] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:01] [Server thread/INFO]: View Distance: 10
+[09:19:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:01] [Server thread/INFO]: Clear tick list: false
+[09:19:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:01] [Server thread/INFO]: Preparing start region for level 3 (Seed: 7211417751451658244)
+[09:19:02] [Server thread/INFO]: Creating ASkyBlock's Nether...
+[09:19:02] [Server thread/INFO]: -------- World Settings For [ASkyBlock_nether] --------
+[09:19:02] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:02] [Server thread/INFO]: Anti X-Ray: true
+[09:19:02] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:02] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:02] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:02] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:02] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:02] [Server thread/INFO]: Structure Info Saving: true
+[09:19:02] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:02] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:02] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:02] [Server thread/INFO]: View Distance: 10
+[09:19:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:02] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:02] [Server thread/INFO]: Clear tick list: false
+[09:19:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:02] [Server thread/INFO]: Preparing start region for level 4 (Seed: 5130010182938331852)
+[09:19:02] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:03] [Server thread/INFO]: Preparing spawn area: 95%
+[09:19:03] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4040761176002526705)
+[09:19:05] [Server thread/INFO]: Preparing spawn area: 50%
+[09:19:05] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4040761176002526705)
+[09:19:06] [Server thread/INFO]: Preparing spawn area: 91%
+[09:19:06] [Server thread/INFO]: Preparing start region for level 3 (Seed: 7211417751451658244)
+[09:19:06] [Server thread/INFO]: Preparing start region for level 4 (Seed: 5130010182938331852)
+[09:19:06] [Server thread/INFO]: [ChatGame] Enabling ChatGame v1.8
+[09:19:06] [Server thread/INFO]: [EmeraldDonation] Enabling EmeraldDonation v0.3
+[09:19:06] [Server thread/INFO]: [Administration_Panel] Enabling Administration_Panel v1.1.0
+[09:19:06] [Server thread/INFO]: [Администрация]: Administration_Panel v1.1.0 has been enabled!
+[09:19:06] [Server thread/INFO]: [DynPad] Enabling DynPad v1.5
+[09:19:06] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
+[09:19:06] [Server thread/INFO]: -------- World Settings For [BedWars] --------
+[09:19:06] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:06] [Server thread/INFO]: Anti X-Ray: true
+[09:19:06] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:06] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:06] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:06] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:06] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:06] [Server thread/INFO]: Structure Info Saving: true
+[09:19:06] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:06] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:06] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:06] [Server thread/INFO]: View Distance: 10
+[09:19:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:06] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:06] [Server thread/INFO]: Clear tick list: false
+[09:19:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:06] [Server thread/INFO]: Preparing start region for level 5 (Seed: 545803762713840987)
+[09:19:07] [Server thread/INFO]: -------- World Settings For [HG] --------
+[09:19:07] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:07] [Server thread/INFO]: Anti X-Ray: true
+[09:19:07] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:07] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:07] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:07] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:07] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:07] [Server thread/INFO]: Structure Info Saving: true
+[09:19:07] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:07] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:07] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:07] [Server thread/INFO]: View Distance: 10
+[09:19:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:07] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:07] [Server thread/INFO]: Clear tick list: false
+[09:19:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:07] [Server thread/INFO]: Preparing start region for level 6 (Seed: 209926787)
+[09:19:07] [Server thread/INFO]: -------- World Settings For [SkyWars] --------
+[09:19:07] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:07] [Server thread/INFO]: Anti X-Ray: true
+[09:19:07] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:07] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:07] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:07] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:07] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:07] [Server thread/INFO]: Structure Info Saving: true
+[09:19:07] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:07] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:07] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:07] [Server thread/INFO]: View Distance: 10
+[09:19:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:07] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:07] [Server thread/INFO]: Clear tick list: false
+[09:19:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:07] [Server thread/INFO]: Preparing start region for level 7 (Seed: -5316760405840296316)
+[09:19:07] [Server thread/INFO]: -------- World Settings For [carting] --------
+[09:19:07] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:07] [Server thread/INFO]: Anti X-Ray: true
+[09:19:07] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:07] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:07] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:07] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:07] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:07] [Server thread/INFO]: Structure Info Saving: true
+[09:19:07] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:07] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:07] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:07] [Server thread/INFO]: View Distance: 10
+[09:19:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:07] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:07] [Server thread/INFO]: Clear tick list: false
+[09:19:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:07] [Server thread/INFO]: Preparing start region for level 8 (Seed: -7231095233875040465)
+[09:19:08] [Server thread/INFO]: Preparing spawn area for carting, 61%
+[09:19:09] [Server thread/INFO]: -------- World Settings For [creative] --------
+[09:19:09] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:09] [Server thread/INFO]: Anti X-Ray: true
+[09:19:09] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:09] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:09] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:09] [Server thread/INFO]: Structure Info Saving: true
+[09:19:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:09] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:09] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:09] [Server thread/INFO]: View Distance: 10
+[09:19:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:09] [Server thread/INFO]: Clear tick list: false
+[09:19:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:09] [Server thread/INFO]: Preparing start region for level 9 (Seed: 4875957466979340071)
+[09:19:09] [Server thread/INFO]: -------- World Settings For [lobby] --------
+[09:19:09] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:09] [Server thread/INFO]: Anti X-Ray: true
+[09:19:09] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:09] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:09] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:09] [Server thread/INFO]: Structure Info Saving: true
+[09:19:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:09] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:09] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:09] [Server thread/INFO]: View Distance: 10
+[09:19:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:09] [Server thread/INFO]: Clear tick list: false
+[09:19:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:09] [Server thread/INFO]: Preparing start region for level 10 (Seed: 6798541225522475852)
+[09:19:10] [Server thread/INFO]: Preparing spawn area for lobby, 73%
+[09:19:11] [Server thread/INFO]: -------- World Settings For [lobby1] --------
+[09:19:11] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:11] [Server thread/INFO]: Anti X-Ray: true
+[09:19:11] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:11] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:11] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:11] [Server thread/INFO]: Structure Info Saving: true
+[09:19:11] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:11] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:11] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:11] [Server thread/INFO]: View Distance: 10
+[09:19:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:11] [Server thread/INFO]: Clear tick list: false
+[09:19:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:11] [Server thread/INFO]: Preparing start region for level 11 (Seed: -7771342485745830286)
+[09:19:11] [Server thread/INFO]: -------- World Settings For [lobby2] --------
+[09:19:11] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:11] [Server thread/INFO]: Anti X-Ray: true
+[09:19:11] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:11] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:11] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:11] [Server thread/INFO]: Structure Info Saving: true
+[09:19:11] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:11] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:11] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:11] [Server thread/INFO]: View Distance: 10
+[09:19:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:11] [Server thread/INFO]: Clear tick list: false
+[09:19:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:11] [Server thread/INFO]: Preparing start region for level 12 (Seed: -4556232813610208730)
+[09:19:12] [Server thread/INFO]: Preparing spawn area for lobby2, 85%
+[09:19:12] [Server thread/INFO]: -------- World Settings For [main] --------
+[09:19:12] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:12] [Server thread/INFO]: Anti X-Ray: true
+[09:19:12] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:12] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:12] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:12] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:12] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:12] [Server thread/INFO]: Structure Info Saving: true
+[09:19:12] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:12] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:12] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:12] [Server thread/INFO]: View Distance: 10
+[09:19:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:12] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:12] [Server thread/INFO]: Clear tick list: false
+[09:19:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:12] [Server thread/INFO]: Preparing start region for level 13 (Seed: 6121949190273473151)
+[09:19:13] [Server thread/INFO]: -------- World Settings For [minigames] --------
+[09:19:13] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:13] [Server thread/INFO]: Anti X-Ray: true
+[09:19:13] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:13] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:13] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:13] [Server thread/INFO]: Structure Info Saving: true
+[09:19:13] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:13] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:13] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:13] [Server thread/INFO]: View Distance: 10
+[09:19:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:13] [Server thread/INFO]: Clear tick list: false
+[09:19:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:13] [Server thread/INFO]: Preparing start region for level 14 (Seed: 1146878957039619795)
+[09:19:14] [Server thread/INFO]: -------- World Settings For [survival] --------
+[09:19:14] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:14] [Server thread/INFO]: Anti X-Ray: true
+[09:19:14] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:14] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:14] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:14] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:14] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:14] [Server thread/INFO]: Structure Info Saving: true
+[09:19:14] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:14] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:14] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:14] [Server thread/INFO]: View Distance: 10
+[09:19:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:14] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:14] [Server thread/INFO]: Clear tick list: false
+[09:19:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:14] [Server thread/INFO]: Preparing start region for level 15 (Seed: -288057630852487893)
+[09:19:15] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
+[09:19:15] [Server thread/INFO]: [GiftCode] Enabling GiftCode v1.3.1
+[09:19:15] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.1.1
+[09:19:15] [Server thread/INFO]: [SignColorz] Enabling SignColorz v1.2
+[09:19:15] [Server thread/INFO]: [SignColorz] v1.2enabled!
+[09:19:15] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[09:19:15] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[09:19:15] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
+[09:19:15] [Server thread/INFO]: [TimTheEnchanter] Enabling TimTheEnchanter v2.0
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "sharpness". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "sharp". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "smite". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "baneofarthropods". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "knockback". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "fireaspect". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "looting". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "loot". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "efficiency". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "efficient". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "silktouch". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "unbreaking". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "fortune". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "power". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "punch". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] Ignoring custom name "flame". Bad enchantment ID
+[09:19:15] [Server thread/INFO]: [Tim] There are some who call me... Tim?
+[09:19:15] [Server thread/INFO]: [HealthBar] Enabling HealthBar v1.8.3
+[09:19:15] [Server thread/INFO]: [OpenInv] Enabling OpenInv v3.0.6
+[09:19:15] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[09:19:15] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[09:19:15] [Server thread/INFO]: git-Spigot-550ebac-7019900 (MC: 1.8)
+[09:19:15] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[09:19:16] [Server thread/INFO]: Using locale ru
+[09:19:16] [Server thread/INFO]: Using locale ru
+[09:19:16] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[09:19:16] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[09:19:16] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[09:19:16] [Server thread/INFO]: [Essentials] Payment method found (Vault - Economy: iConomy  version: 1.5.6-b49)
+[09:19:16] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
+[09:19:16] [Server thread/INFO]: [ClearLag] Loading modules...
+[09:19:16] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[09:19:16] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[09:19:16] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[09:19:16] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5
+[09:19:16] [Server thread/INFO]: [SurvivalGames] Enabling SurvivalGames v0.5.9
+[09:19:16] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.8.4
+[09:19:16] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[09:19:16] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[09:19:16] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 2372.0 Y: 89.0 Z: 872.0
+[09:19:16] [Server thread/INFO]: [ColorHelp] Enabling ColorHelp v1.2
+[09:19:16] [Server thread/INFO]: [ColorHelp] Plugin successfully started!
+[09:19:16] [Server thread/INFO]: [ColorHelp] http://dev.bukkit.org/bukkit-plugins/colorhelp
+[09:19:16] [Server thread/INFO]: [CustomJoin] Enabling CustomJoin v1.0
+[09:19:16] [Server thread/INFO]: [MCCore] Enabling MCCore v1.58
+[09:19:16] [Server thread/INFO]: Server version: 10800
+[09:19:16] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1022
+[09:19:16] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.8 / Spigot-CB-1.8_R1
+[09:19:16] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[09:19:16] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[09:19:16] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[09:19:16] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[09:19:16] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[09:19:16] [Server thread/WARN]: [NoCheatPlus] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.0.2 or later for Minecraft 1.10 | ProtocolLib 4.0.1 or 4.0.0 for Minecraft 1.9.x | ProtocolLib 3.7.0 or 3.7 for Minecraft 1.9.x | ProtocolLib 3.6.5 or 3.6.4 for Minecraft 1.8.x | ProtocolLib 3.6.6 for PaperSpigot 1.8.x | ProtocolLib 3.6.4 before Minecraft 1.9
+[09:19:16] [Server thread/INFO]: [NoCheatPlus] Version 3.15.0-SNAPSHOT-sMD5NET-b1022 is enabled.
+[09:19:16] [Server thread/INFO]: [ItemFixer] Enabling ItemFixer v2.6.3
+[09:19:16] [Server thread/INFO]: [ItemFixer] ItemFixer включен
+[09:19:16] [Server thread/INFO]: [gwm_Library] Enabling GWMLibrary v1.5
+[09:19:16] [Server thread/INFO]: [gwm_Library] GWM Bukkit Library enabled!
+[09:19:16] [Server thread/INFO]: [OPSRegion] Enabling OPSRegion v1.0
+[09:19:16] [Server thread/INFO]: [Death_Messages_Plus] Enabling Death_Messages_Plus v1.05
+[09:19:16] [Server thread/INFO]: Death_Messages_Plus Version 1.05 Has been enabled! :D
+[09:19:16] [Server thread/INFO]: File is there.
+[09:19:16] [Server thread/INFO]: [MCDonate] Enabling MCDonate v0.20
+[09:19:16] [Server thread/INFO]: [MCDonate]: Version 0.25 run!
+[09:19:16] [Server thread/WARN]: [AutoSaveWorld] Plugin MCDonate attempted to establish connection http://mcdonate.ru/api/daemonAddr in main server thread
+[09:19:16] [Server thread/WARN]: [AutoSaveWorld] Plugin MCDonate attempted to establish connection socket://mcdonate.ru:80 in main server thread
+[09:19:16] [Server thread/INFO]: [MCDonate] Choosed a connection: 91.228.153.17:10001
+[09:19:16] [Server thread/WARN]: [AutoSaveWorld] Plugin MCDonate attempted to establish connection http://mcdonate.ru/api/shop.php?serverid=6fd9ea9bc5&payment_code=testplugin&username=fantasymineshop&password=5d0ee8e3bf910d9cfc0730772c4aa110&plugin_version=0.25ontext=getItemByCodeickname=noname&user_ip=hidden in main server thread
+[09:19:17] [Server thread/INFO]: [MCDonate]: OK!
+[09:19:17] [Server thread/INFO]: [iConomy] Enabling iConomy v7.0
+[09:19:17] [Server thread/INFO]: [iConomy - April Fools] Enabled (47 ms)
+[09:19:17] [Server thread/INFO]: [iConomy] Hello, I'm Nijikokun. Yes, this is an April Fools joke, but '/money top' was fixed! Enjoy :) - Rare Version!
+[09:19:17] [Server thread/INFO]: [Vault][Economy] iConomy 7 hooked.
+[09:19:17] [Thread-19/INFO]: [iConomy - April Fools] Purged accounts with default balance.
+[09:19:17] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[09:19:17] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[09:19:17] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[09:19:17] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[09:19:17] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[09:19:17] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[09:19:17] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[09:19:17] [Server thread/INFO]: [SuperSpleef] Enabling SuperSpleef vB 0.1.7
+[09:19:17] [Server thread/INFO]: [Spleef] Loading 1 games
+[09:19:17] [Server thread/INFO]: [Spleef]Checking for arena on index 1
+[09:19:17] [Server thread/INFO]: Loading Arena: 1
+[09:19:17] [Server thread/INFO]: Loaded 414/414 blocks into the floor of Spleef arena 1
+[09:19:17] [Server thread/INFO]: 1 Enabling!
+[09:19:17] [Server thread/INFO]: [Super Spleef]No save file on disk for arena 1
+[09:19:17] [Server thread/INFO]: METRICS STARTING
+[09:19:17] [Server thread/INFO]: [NoFlyPvp] Enabling NoFlyPvp v1.1.4
+[09:19:17] [Server thread/WARN]: [AutoSaveWorld] Plugin NoFlyPvp attempted to establish connection http://dev.bukkit.org/server-mods/noflypvp/files.rss in main server thread
+[09:19:17] [Server thread/WARN]: [AutoSaveWorld] Plugin NoFlyPvp attempted to establish connection socket://dev.bukkit.org:80 in main server thread
+[09:19:17] [Server thread/WARN]: [Fatal Error] :1:1: Premature end of file.
+
+[09:19:17] [Server thread/INFO]: [NoFlyPvp] Enabled version v1.1.4
+[09:19:17] [Server thread/INFO]: [GifterPlus] Enabling GifterPlus v0.2
+[09:19:17] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.2
+[09:19:17] [Server thread/INFO]: [AntiRelog] Enabling AntiRelog v1.3.2
+[09:19:17] [Server thread/INFO]: _________AntiRelog++_________
+[09:19:17] [Server thread/INFO]: Using Essentials: true
+[09:19:17] [Server thread/INFO]: Enable apple cooldown: true Cooldown: 40
+[09:19:17] [Server thread/INFO]: Checks enabled: true
+[09:19:17] [Server thread/INFO]: Remove death message: false
+[09:19:17] [Server thread/INFO]: Remove kick message: false
+[09:19:17] [Server thread/INFO]: Remove leave message: false
+[09:19:17] [Server thread/INFO]: Remove join message: false
+[09:19:17] [Server thread/INFO]: Kill on leave: true
+[09:19:17] [Server thread/INFO]: Kill on command: true
+[09:19:17] [Server thread/INFO]: _____________________________
+[09:19:17] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.1-SNAPSHOT
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world_nether) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (world_the_end) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (ASkyBlock) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (ASkyBlock) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (ASkyBlock) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (ASkyBlock) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'ASkyBlock'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (ASkyBlock_nether) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (ASkyBlock_nether) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (ASkyBlock_nether) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (ASkyBlock_nether) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'ASkyBlock_nether'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (BedWars) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (BedWars) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (BedWars) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (BedWars) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'BedWars'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (HG) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (HG) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (HG) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (HG) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'HG'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (SkyWars) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (SkyWars) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (SkyWars) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (SkyWars) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SkyWars'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (carting) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (carting) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (carting) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (carting) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'carting'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (creative) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (creative) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (creative) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (creative) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creative'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'lobby'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby1) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby1) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby1) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby1) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'lobby1'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby2) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby2) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby2) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (lobby2) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'lobby2'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (main) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (main) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (main) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (main) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (minigames) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (minigames) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'minigames'
+[09:19:17] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[09:19:17] [Server thread/INFO]: [WorldGuard] (survival) All fire spread is disabled.
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[09:19:17] [Server thread/INFO]: [WorldGuard] Loading region data...
+[09:19:18] [Server thread/INFO]: [RandomPort] Enabling RandomPort v3.0
+[09:19:18] [Server thread/INFO]: [RandomPort] has been enabled.
+[09:19:18] [Server thread/INFO]: [RandomPort] has successfully loaded setup from the configuration file!
+[09:19:18] [Server thread/INFO]: [RandomPort]is avoiding Block Id's [7, 8, 9, 10, 11]
+[09:19:18] [Server thread/INFO]: [RandomPort] has found PermissionsEx! Using Pex for permissions!
+[09:19:18] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[09:19:18] [Server thread/INFO]: [ChangeSkin] Enabling ChangeSkin v2.3.2
+[09:19:18] [Server thread/INFO]: HikariPool-1 - Started.
+[09:19:18] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (org.sqlite.Conn.getNetworkTimeout()I)
+[09:19:18] [Server thread/INFO]: [UralClans2] Enabling UralClans2 v2.2.8
+[09:19:18] [Server thread/INFO]: [UralClans2] Соединение с базой данных успешно установлено.
+[09:19:18] [Server thread/INFO]: [UralClans2] База кланов загружена.
+[09:19:18] [Server thread/INFO]: [UralClans2] Плагин включен (21 ms).
+[09:19:18] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.46
+[09:19:18] [Server thread/INFO]: [ChestShop] LWC version 4.3.1 (b767-git-MANUAL) (November 15, 2012) loaded.
+[09:19:18] [Server thread/INFO]: [ChestShop] Vault loaded - using iConomy 7
+[09:19:18] [Server thread/INFO]: [AuthMe] Enabling AuthMe v3.4
+[09:19:18] [Server thread/INFO]: [AuthMe] Loading Configuration File...
+[09:19:18] [Server thread/INFO]: [AuthMe] Set Language: en
+[09:19:18] [Server thread/INFO]: [AuthMe] Vault plugin detected, hook with PermissionsEx system
+[09:19:18] [Server thread/WARN]: [AuthMe] ERROR: Please Update your ChestShop version!
+[09:19:18] [Server thread/INFO]: [AuthMe] Hook with Essentials plugin
+[09:19:18] [Server thread/INFO]: [AuthMe] Hook with EssentialsSpawn plugin
+[09:19:18] [Thread-24/INFO]: [AuthMe] SQLite driver loaded
+[09:19:18] [Thread-24/INFO]: [AuthMe] SQLite Setup finished
+[09:19:18] [Server thread/INFO]: [AuthMe] LICENSE : This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com
+[09:19:18] [Server thread/INFO]: [AuthMe] Authme 3.4 enabled
+[09:19:18] [Server thread/INFO]: [ChatGuard] Enabling ChatGuard v7.4
+[09:19:18] [Server thread/INFO]: [ChatGuard] ChatGuard enabled!
+[09:19:18] [Server thread/INFO]: [KillerMoney] Enabling KillerMoney v2.1
+[09:19:18] [Server thread/INFO]: [KillerMoney] Wrong locale setup, using "en"
+[09:19:18] [Server thread/INFO]: [KillerMoney] Vault initialized
+[09:19:18] [Server thread/INFO]: [KillerMoney] Metrics initialized
+[09:19:18] [Server thread/INFO]: [KillerMoney] MobArena initialization failed
+[09:19:18] [Server thread/WARN]: [AutoSaveWorld] Plugin KillerMoney attempted to establish connection https://api.curseforge.com/servermods/files?projectIds=55732 in main server thread
+[09:19:18] [Server thread/WARN]: [AutoSaveWorld] Plugin KillerMoney attempted to establish connection socket://api.curseforge.com:443 in main server thread
+[09:19:19] [Thread-26/WARN]: [ChatGuard] The updater could not find any files for the project id 50092
+[09:19:19] [Server thread/INFO]: There are no files for this project
+[09:19:19] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2
+[09:19:19] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, adding support for player relative variables.
+[09:19:19] [Server thread/INFO]: [CratesPlus] Enabling CratesPlus v4.4.1
+[09:19:19] [Server thread/INFO]: CratesPlus Version 4.4.1
+[09:19:19] [Server thread/INFO]: HolographicDisplays was found, hooking in!
+[09:19:19] [Server thread/INFO]: [Marriage] Enabling Marriage v2.0.13
+[09:19:19] [Server thread/INFO]: [Marriage] Loading config...
+[09:19:19] [Server thread/INFO]: REQUEST_EXPRY
+[09:19:19] [Server thread/INFO]: ENABLE_PRIEST
+[09:19:19] [Server thread/INFO]: COOLDOWN_KISS
+[09:19:19] [Server thread/INFO]: GENDER_IN_LIST
+[09:19:19] [Server thread/INFO]: PM_FORMAT
+[09:19:19] [Server thread/INFO]: CHAT_FORMAT
+[09:19:19] [Server thread/INFO]: CHATSPY_FORMAT
+[09:19:19] [Server thread/INFO]: FORCE_FORMAT
+[09:19:19] [Server thread/INFO]: FORCE_GENDER_FORMAT
+[09:19:19] [Server thread/INFO]: PREFIX_MALE
+[09:19:19] [Server thread/INFO]: PREFIX_FEMALE
+[09:19:19] [Server thread/INFO]: PREFIX_GENDERLESS
+[09:19:19] [Server thread/INFO]: KISSES_ENABLED
+[09:19:19] [Server thread/INFO]: KISSES_AMOUNT_MIN
+[09:19:19] [Server thread/INFO]: KISSES_AMOUNT_MAX
+[09:19:19] [Server thread/INFO]: EXP_BOOST_ENABLED
+[09:19:19] [Server thread/INFO]: EXP_BOOST_DISTANCE
+[09:19:19] [Server thread/INFO]: EXP_BOOST_MULTIPLIER
+[09:19:19] [Server thread/INFO]: EXP_BOOST_ANNOUNCE
+[09:19:19] [Server thread/INFO]: PLOTSQUARED_AUTO_TRUST
+[09:19:19] [Server thread/INFO]: ECONOMY_ENABLED
+[09:19:19] [Server thread/INFO]: ECONOMY_SHOW_PRICE
+[09:19:19] [Server thread/INFO]: PRICE_MARRY
+[09:19:19] [Server thread/INFO]: PRICE_TELEPORT
+[09:19:19] [Server thread/INFO]: PRICE_SETHOME
+[09:19:19] [Server thread/INFO]: PRICE_HEAL
+[09:19:19] [Server thread/INFO]: PRICE_DIVORCE
+[09:19:19] [Server thread/INFO]: ENABLE_UPDATE_CHACKER
+[09:19:19] [Server thread/INFO]: ENABLE_CHANGELOG
+[09:19:19] [Server thread/INFO]: UPDATER_CHANNEL
+[09:19:19] [Server thread/INFO]: DISABLED_COMMANDS
+[09:19:19] [Thread-27/WARN]: [HolographicDisplays] The author of this plugin has misconfigured the Updater system.
+[09:19:19] [Thread-27/WARN]: [HolographicDisplays] The project ID (75097) provided for updating is invalid.
+[09:19:19] [Thread-27/WARN]: [HolographicDisplays] Please notify the author of this error.
+[09:19:19] [Server thread/INFO]: [Marriage] Hooked with PermissionsEx using Vault!
+[09:19:19] [Server thread/INFO]: [Marriage] Loading dependencies...
+[09:19:19] [Server thread/INFO]: [Marriage] Loading listeners...
+[09:19:19] [Server thread/INFO]: [Marriage] Loading database...
+[09:19:19] [Server thread/INFO]: [Marriage] Loading commands...
+[09:19:19] [Server thread/INFO]: [Marriage] Loading updater...
+[09:19:19] [Server thread/INFO]: [Marriage] Loading converter...
+[09:19:19] [Server thread/INFO]: [Marriage] Completed plugin load stage.
+[09:19:19] [Server thread/INFO]: [SkyWars] Enabling SkyWars v2.1.0
+[09:19:19] [Server thread/INFO]: [SkyWars] [Translations] Loading locale en.
+[09:19:19] [Server thread/INFO]: [SkyWars] Using WorldEdit hook for arena creation.
+[09:19:19] [Server thread/INFO]: [SkyWars] [Score] Using JSON backend
+[09:19:19] [Server thread/WARN]: [SkyWars] Not enabling kit bowman due to it having a cost and economy support not being enabled.
+[09:19:19] [Server thread/WARN]: [SkyWars] Not enabling kit whacker due to it having a cost and economy support not being enabled.
+[09:19:19] [Server thread/WARN]: [SkyWars] Not enabling kit potions due to it having a cost and economy support not being enabled.
+[09:19:19] [Server thread/WARN]: [SkyWars] Not enabling kit full-donor-armor due to it having a cost and economy support not being enabled.
+[09:19:19] [Server thread/INFO]: [uCars] Enabling uCars v19
+[09:19:19] [Server thread/INFO]: [uCars] uCars has been enabled!
+[09:19:19] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[09:19:20] [Server thread/INFO]: [Quests] Enabling Quests v2.0.0
+[09:19:20] [Server thread/INFO]: [Quests] Enabled.
+[09:19:20] [Server thread/INFO]: [ServerSigns] Enabling ServerSigns v4.2.1-DEV
+[09:19:20] [Server thread/INFO]: [ServerSigns] Successfully hooked into dependencies
+[09:19:20] [Server thread/INFO]: [ServerSigns] Version 4.2.1-DEV is now enabled.
+[09:19:20] [Server thread/INFO]: [TitleManager] Enabling TitleManager v1.5.12
+[09:19:20] [Server thread/INFO]: [MarioKart] Enabling MarioKart v7
+[09:19:21] [Server thread/INFO]: Reading config...
+[09:19:21] [Server thread/INFO]: [uCars] Successfully hooked into by: MarioKart
+[09:19:21] [Server thread/INFO]: [MarioKart] Config loaded!
+[09:19:21] [Server thread/INFO]: [MarioKart] Loaded 3 songs!
+[09:19:21] [Server thread/INFO]: Loading tracks...
+[09:19:21] [Server thread/INFO]: Loading information!
+[09:19:21] [Server thread/INFO]: [MarioKart] Loading upgrades...
+[09:19:21] [Server thread/INFO]: [MarioKart] MarioKart v7 has been enabled!
+[09:19:21] [Server thread/INFO]: [Timeismoney] Enabling Timeismoney v1.3
+[09:19:21] [Server thread/INFO]: [Timeismoney] Vault dependency found. Economy plugin found: iConomy 7
+[09:19:21] [Server thread/INFO]: Timeismoney is now enabled
+[09:19:21] [Server thread/INFO]: [BowSpleef] Enabling BowSpleef vB 0.2.0
+[09:19:21] [Server thread/INFO]: [BowSpleef] Loading 1 games
+[09:19:21] [Server thread/INFO]: [BowSpleef]Checking for arena on index 1
+[09:19:21] [Server thread/INFO]: Loading Arena: 1
+[09:19:22] [Server thread/INFO]: Loaded 600/600 blocks into the floor of BowSpleef arena 1
+[09:19:22] [Server thread/INFO]: 1 Enabling!
+[09:19:22] [Server thread/INFO]: [Bow Spleef]No save file on disk for arena 1
+[09:19:22] [Server thread/INFO]: METRICS STARTING
+[09:19:22] [Server thread/INFO]: [ServerlistMOTD] Enabling ServerlistMOTD v10.0.1
+[09:19:22] [Server thread/INFO]: [TNTRun] Enabling TNTRun v1.1
+[09:19:22] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[09:19:22] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'HG' - Env: NORMAL - Type: FLAT & seed: 209926787
+[09:19:22] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[09:19:22] [Server thread/WARN]: [Multiverse-Core] Original Location: X: -842 Y: 5 Z: 783 P: 0 Y: 0 
+[09:19:22] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'HG' is located at: HG:-844.50,5.00,779.50:0.00:0.00
+[09:19:23] [Server thread/INFO]: [Multiverse-Core] 16 - World(s) loaded.
+[09:19:23] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[09:19:23] [Server thread/INFO]: [AuthMe] Hook with Multiverse-Core for SpawnLocations
+[09:19:23] [Server thread/INFO]: [InfoBoardReborn] Enabling InfoBoardReborn v1.7.0
+[09:19:23] [Server thread/INFO]: Metrics was started!
+[09:19:23] [Server thread/INFO]: [BedwarsRel] Enabling BedwarsRel v1.3.6
+[09:19:24] [Server thread/INFO]: [BedWars] Game 'BedWars' successfully loaded!
+[09:19:24] [Server thread/INFO]: [BedWars] Game 'BedWars' successfully loaded!
+[09:19:24] [Server thread/INFO]: [ColoredTags] Enabling ColoredTags v2.1.3
+[09:19:24] [Server thread/INFO]: [ColoredTags] Hooked HealthBar plugin!
+[09:19:24] [Server thread/INFO]: [SuperBuildBattle] Enabling SuperBuildBattle v11.0
+[09:19:24] [Server thread/INFO]: [AncientGates] Enabling AncientGates v2.1
+[09:19:24] [Server thread/INFO]: [AncientGates] Loading conf from disk
+[09:19:24] [Thread-33/WARN]: [ColoredTags] The updater could not find any files for the project id 58499
+[09:19:24] [Server thread/INFO]: [BuyRegion] Enabling BuyRegion v1.1.1
+[09:19:24] [Server thread/INFO]: [BuyRegion] BuyRegion - By JDigital1337 - Перевод Schmarotzer
+[09:19:24] [Server thread/INFO]: [ChatEx] Enabling ChatEx v1.6
+[09:19:24] [Server thread/INFO]: [ChatEx] Loading updater by TheJeterLP. Project id: 65863
+[09:19:24] [Server thread/INFO]: [ChatEx] Loading updater-config...
+[09:19:24] [Server thread/INFO]: [ChatEx] Done!
+[09:19:24] [Server thread/INFO]: [ChatEx] Updatechecker is enabled.
+[09:19:24] [Server thread/INFO]: [ChatEx] Successfully hooked into: PermissionsEx
+[09:19:24] [Server thread/INFO]: [ChatEx] Listener registered with Priority: LOWEST
+[09:19:24] [Server thread/INFO]: [ChatEx] is now enabled!
+[09:19:24] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v0.3.7
+[09:19:24] [Server thread/INFO]: [MineResetLite] Loading mine from file 'mine.mine.yml'...
+[09:19:24] [Server thread/INFO]: [MineResetLite] MineResetLite version 0.3.7 enabled!
+[09:19:24] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v1.4
+[09:19:24] [Server thread/WARN]: [Multiverse-Inventories] Group: 'creative' is not formatted correctly!
+[09:19:24] [Server thread/WARN]: [Multiverse-Inventories] Group: 'adventure' is not formatted correctly!
+[09:19:24] [Server thread/INFO]: [Multiverse-Inventories 1.4] enabled.
+[09:19:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:19:25] [Server thread/INFO]: Done (23.790s)! For help, type "help" or "?"
+[09:19:25] [Server thread/INFO]: Starting GS4 status listener
+[09:19:25] [Server thread/INFO]: Starting remote control listener
+[09:19:25] [Query Listener #1/INFO]: Query running on 85.10.197.22:30038
+[09:19:25] [RCON Listener #2/INFO]: RCON running on 85.10.197.22:36548
+[09:19:25] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[09:19:25] [Craft Scheduler Thread - 1/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/LWC
+[09:19:25] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[09:19:25] [Server thread/INFO]: [SkyWars] Loading world 'SkyWarsArenaWorld'.
+[09:19:25] [Craft Scheduler Thread - 9/INFO]: [Marriage] Purged 0 player entries in 1ms
+[09:19:25] [Server thread/INFO]: -------- World Settings For [SkyWarsArenaWorld] --------
+[09:19:25] [Server thread/INFO]: Mob Spawn Range: 4
+[09:19:25] [Server thread/INFO]: Anti X-Ray: true
+[09:19:25] [Server thread/INFO]: 	Engine Mode: 1
+[09:19:25] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:19:25] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:19:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:19:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:19:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:19:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:19:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:19:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:19:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:19:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:19:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:19:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:19:25] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:19:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:19:25] [Server thread/INFO]: Random Lighting Updates: false
+[09:19:25] [Server thread/INFO]: Structure Info Saving: true
+[09:19:25] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:19:25] [Server thread/INFO]: Max Entity Collisions: 8
+[09:19:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:19:25] [Server thread/INFO]: Max TNT Explosions: 100
+[09:19:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:19:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:19:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:19:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:19:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:19:25] [Server thread/INFO]: View Distance: 10
+[09:19:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:19:25] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:19:25] [Server thread/INFO]: Clear tick list: false
+[09:19:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:19:25] [Server thread/INFO]: Preparing start region for level 16 (Seed: 0)
+[09:19:25] [Craft Scheduler Thread - 3/INFO]: [ItemFixer] Не удалось проверить обновление :( // Can't check update
+[09:19:25] [Craft Scheduler Thread - 3/INFO]: [ItemFixer] Напишите ошибку ниже сюда: http://rubukkit.org/threads/119485
+[09:19:25] [Craft Scheduler Thread - 3/WARN]: [ItemFixer] Ошибка: 
+java.io.FileNotFoundException: http://151.80.108.152/version.txt
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1872) ~[?:1.8.0_131]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474) ~[?:1.8.0_131]
+	at java.net.URL.openStream(URL.java:1045) ~[?:1.8.0_131]
+	at ru.xtime.nbtfix.Main.run(Main.java:287) [ItemFixer.jar:?]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftTask.run(CraftTask.java:71) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) [spigot.jar:git-Spigot-550ebac-7019900]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_131]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+[09:19:25] [Server thread/INFO]: [WorldGuard] (SkyWarsArenaWorld) TNT ignition is PERMITTED.
+[09:19:25] [Server thread/INFO]: [WorldGuard] (SkyWarsArenaWorld) Lighters are PERMITTED.
+[09:19:25] [Server thread/INFO]: [WorldGuard] (SkyWarsArenaWorld) Lava fire is blocked.
+[09:19:25] [Server thread/INFO]: [WorldGuard] (SkyWarsArenaWorld) All fire spread is disabled.
+[09:19:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SkyWarsArenaWorld'
+[09:19:25] [Server thread/INFO]: [SkyWars] Done loading world 'SkyWarsArenaWorld'.
+[09:19:25] [Craft Scheduler Thread - 4/INFO]: [TitleManager] Searching for updates.
+[09:19:26] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+[09:19:26] [Craft Scheduler Thread - 5/WARN]: [Fatal Error] :1:1: Premature end of file.
+
+[09:19:26] [Server thread/INFO]: [ASkyBlock] Silencing command feedback for Ops...
+[09:19:26] [Server thread/INFO]: [ASkyBlock] If you do not want this, do /gamerule sendCommandFeedback true
+[09:19:26] [Server thread/INFO]: [ASkyBlock] Checking for new updates...
+[09:19:26] [Craft Scheduler Thread - 24/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[09:19:26] [Server thread/INFO]: [AncientGates] Loading gates from disk
+[09:19:26] [Server thread/INFO]: [AncientGates] Loading gates into memory
+[09:19:26] [Craft Scheduler Thread - 3/INFO]: [Metrics] Connection reset
+[09:19:26] [Craft Scheduler Thread - 2/INFO]: [Metrics] Connection reset
+[09:19:26] [Craft Scheduler Thread - 11/INFO]: [Metrics] Unexpected end of file from server
+[09:19:26] [Craft Scheduler Thread - 17/INFO]: [Metrics] Unexpected end of file from server
+[09:19:26] [Craft Scheduler Thread - 22/INFO]: [Metrics] Unexpected end of file from server
+[09:19:26] [Craft Scheduler Thread - 4/INFO]: [TitleManager] An update was found!
+[09:19:26] [Server thread/INFO]: [AncientGates] Enabled
+[09:19:26] [Server thread/INFO]: [ASkyBlock] Loading island grid...
+[09:19:26] [Server thread/INFO]: [ASkyBlock] Loading islands.yml
+[09:19:26] [Server thread/INFO]: [ASkyBlock] Loading warps...
+[09:19:26] [Server thread/INFO]: [ASkyBlock] All files loaded. Ready to play...
+[09:19:26] [Server thread/INFO]: [ASkyBlock] Metrics loaded.
+[09:19:26] [Craft Scheduler Thread - 20/INFO]: [Vault] Checking for Updates ... 
+[09:19:27] [Craft Scheduler Thread - 20/INFO]: [Vault] No new version available
+[09:19:27] [Server thread/INFO]: [Quests] 3 Quest(s) loaded.
+[09:19:27] [Server thread/INFO]: [Quests] 5 Event(s) loaded.
+[09:19:27] [Server thread/INFO]: [Quests] 824 Phrase(s) loaded.
+[09:19:27] [Server thread/WARN]: [AutoSaveWorld] Plugin Quests attempted to establish connection http://www.blackvein.net/php/quests_del.php?arg1=85.10.197.22rg2=30038 in main server thread
+[09:19:29] [Server thread/WARN]: [AutoSaveWorld] Plugin Quests attempted to establish connection socket://www.blackvein.net:80 in main server thread
+[09:19:29] [Server thread/WARN]: [AutoSaveWorld] Plugin Quests attempted to establish connection http://ww1.blackvein.net/?subid1=45df18a4-6ac0-11e7-b7c7-088781023e9e in main server thread
+[09:19:32] [Server thread/WARN]: [AutoSaveWorld] Plugin Quests attempted to establish connection socket://ww1.blackvein.net:80 in main server thread
+[09:19:32] [Server thread/WARN]: [Quests] An error occurred removing old data from the snooper database!
+[09:19:32] [Server thread/WARN]: [AutoSaveWorld] Plugin Quests attempted to establish connection http://www.blackvein.net/php/quests.php?arg1=85.10.197.22rg2=30038rg3=zorotexrg4=New+minecraft+serverrg5=3rg6=falserg7=2017-07-17+09%3A19%3A32.142 in main server thread
+[09:19:32] [Server thread/WARN]: [AutoSaveWorld] Plugin Quests attempted to establish connection socket://www.blackvein.net:80 in main server thread
+[09:19:32] [Server thread/WARN]: [AutoSaveWorld] Plugin Quests attempted to establish connection http://ww1.blackvein.net/?subid1=476f3758-6ac0-11e7-85dd-0887810241e4 in main server thread
+[09:19:32] [Server thread/WARN]: [AutoSaveWorld] Plugin Quests attempted to establish connection socket://ww1.blackvein.net:80 in main server thread
+[09:19:32] [Server thread/WARN]: [Quests] An error occurred inserting data into the snooper database!
+[09:19:32] [Server thread/INFO]: ItemStack{NETHER_STAR x 1}
+[09:19:32] [Server thread/INFO]: sharpness:4
+[09:19:32] [Server thread/INFO]: ItemStack{PAPER x 1}
+[09:19:32] [Server thread/INFO]: fire:2
+[09:19:32] [Craft Scheduler Thread - 17/INFO]: Checking for updates via Spigot...
+[09:19:32] [Craft Scheduler Thread - 17/INFO]: [ДонатКейсы] No update was found, you are running the latest version. Will check again later.
+[09:19:32] [Craft Scheduler Thread - 17/INFO]: [MarioKart] Attempting to resolve resource pack URL... (This may take a while)
+[09:19:32] [Craft Scheduler Thread - 17/INFO]: [MarioKart] Resolved ResourcePack URL to: http://minecraft.curseforge.com/texture-packs/74301-mario-kart-resource-pack/files/latest
+[09:19:32] [Server thread/INFO]: [ASkyBlock] No update available.
+[09:19:33] [Craft Scheduler Thread - 17/INFO]: [MarioKart] Using resource pack: http://bit.ly/1pgkpfy
+[09:19:34] [Craft Scheduler Thread - 20/INFO]: [BowSpleef]Pushing stats to server
+[09:19:34] [Server thread/WARN]: [AutoSaveWorld] Plugin ChatEx attempted to establish connection https://api.curseforge.com/servermods/files?projectIds=65863 in main server thread
+[09:19:47] [Timer-4/INFO]: [WorldGuard] Region data changes made in 'minigames' have been background saved
+[09:21:11] [Netty Server IO #1/ERROR]: [ServerlistMOTD] Unhandled exception occured in onPacketSending(PacketEvent) for ServerlistMOTD
+java.lang.ExceptionInInitializerError
+	at com.comphenix.protocol.wrappers.BukkitConverters$15.getSpecificValue(BukkitConverters.java:747) ~[ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.wrappers.BukkitConverters$15.getSpecificValue(BukkitConverters.java:739) ~[ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.wrappers.BukkitConverters$IgnoreNullConverter.getSpecific(BukkitConverters.java:147) ~[ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.reflect.StructureModifier.readInternal(StructureModifier.java:230) ~[ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.reflect.StructureModifier.read(StructureModifier.java:198) ~[ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at de.strumswell.serverlistmotd.bukkit.events.ServerlistProtocol$1.onPacketSending(ServerlistProtocol.java:32) ~[ServerlistMOTD.jar:?]
+	at com.comphenix.protocol.injector.SortedPacketListenerList.invokeSendingListener(SortedPacketListenerList.java:195) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.injector.SortedPacketListenerList.invokePacketSending(SortedPacketListenerList.java:149) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.injector.PacketFilterManager.handlePacket(PacketFilterManager.java:608) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.injector.PacketFilterManager.invokePacketSending(PacketFilterManager.java:584) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector.packetQueued(ProtocolInjector.java:309) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector.onPacketSending(ProtocolInjector.java:269) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.injector.netty.ChannelInjector.processSending(ChannelInjector.java:396) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.injector.netty.ChannelInjector.encode(ChannelInjector.java:450) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at com.comphenix.protocol.injector.netty.ChannelInjector$3.encode(ChannelInjector.java:257) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:111) [spigot.jar:git-Spigot-550ebac-7019900]
+	at com.comphenix.protocol.injector.netty.ChannelInjector$3.write(ChannelInjector.java:263) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:657) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:715) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:650) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:657) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:715) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:705) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:740) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:895) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:241) [spigot.jar:git-Spigot-550ebac-7019900]
+	at com.comphenix.protocol.injector.netty.ChannelProxy.writeAndFlush(ChannelProxy.java:327) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at net.minecraft.server.v1_8_R1.NetworkManager.a(NetworkManager.java:132) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.NetworkManager.handle(NetworkManager.java:101) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PacketStatusListener.a(PacketStatusListener.java:131) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PacketStatusInStart.a(SourceFile:23) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PacketStatusInStart.a(SourceFile:8) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.NetworkManager.a(NetworkManager.java:84) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.NetworkManager.channelRead0(NetworkManager.java:249) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:103) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:332) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:318) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:168) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:332) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:318) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:163) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:332) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:318) [spigot.jar:git-Spigot-550ebac-7019900]
+	at com.comphenix.protocol.injector.netty.ChannelInjector$4.channelRead(ChannelInjector.java:273) [ProtocolLib.jar:4.1.0-SNAPSHOT-b320]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:332) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:318) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:163) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:332) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:318) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.LegacyPingHandler.channelRead(SourceFile:94) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:332) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:318) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:150) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:332) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:318) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:787) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:125) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:507) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:378) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:350) [spigot.jar:git-Spigot-550ebac-7019900]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [spigot.jar:git-Spigot-550ebac-7019900]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: java.lang.IllegalArgumentException: Unable to find a field null with the type com.google.gson.Gson in net.minecraft.server.v1_8_R1.PacketStatusOutServerInfo
+	at com.comphenix.protocol.reflect.FuzzyReflection.getFieldByType(FuzzyReflection.java:400) ~[?:?]
+	at com.comphenix.protocol.reflect.accessors.Accessors.getFieldAccessor(Accessors.java:57) ~[?:?]
+	at com.comphenix.protocol.wrappers.WrappedServerPing.<clinit>(WrappedServerPing.java:71) ~[?:?]
+	... 64 more
+[09:21:11] [Netty Server IO #1/ERROR]: Parameters: 
+  net.minecraft.server.v1_8_R1.PacketStatusOutServerInfo@2f676cc5[
+    b=net.minecraft.server.v1_8_R1.ServerPing@6487011e
+  ]
+
+[09:21:15] [User Authenticator #1/INFO]: UUID of player Fhavyre is 85136f24-357f-3898-ae13-0043e8d7a7be
+[09:21:15] [Server thread/ERROR]: null
+java.lang.NoSuchMethodException: me.blackvein.quests.Quester$1.hardClear(java.lang.Object)
+	at java.lang.Class.getMethod(Class.java:1786) ~[?:1.8.0_131]
+	at me.blackvein.quests.Quester.hardClear(Quester.java:3398) [Quests.jar:?]
+	at me.blackvein.quests.Quester.loadData(Quester.java:2507) [Quests.jar:?]
+	at me.blackvein.quests.PlayerListener.onPlayerJoin(PlayerListener.java:784) [Quests.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PlayerList.onPlayerJoin(PlayerList.java:272) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PlayerList.a(PlayerList.java:156) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.LoginListener.b(LoginListener.java:109) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.LoginListener.c(LoginListener.java:41) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.NetworkManager.a(NetworkManager.java:159) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.ServerConnection.c(ServerConnection.java:82) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:800) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:316) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:634) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:537) [spigot.jar:git-Spigot-550ebac-7019900]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+[09:21:15] [Server thread/INFO]: [Essentials] Found new UUID for Fhavyre. Replacing 5e121425-fe90-32fd-a219-c8470490b318 with 85136f24-357f-3898-ae13-0043e8d7a7be
+[09:21:16] [Server thread/ERROR]: Could not pass event PlayerChangedWorldEvent to Multiverse-Inventories v1.4
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:305) ~[spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PlayerList.moveToWorld(PlayerList.java:588) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.craftbukkit.v1_8_R1.entity.CraftPlayer.teleport(CraftPlayer.java:475) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.craftbukkit.v1_8_R1.entity.CraftEntity.teleport(CraftEntity.java:223) [spigot.jar:git-Spigot-550ebac-7019900]
+	at fr.xephi.authme.listener.AuthMePlayerListener.onPlayerJoin(AuthMePlayerListener.java:636) [AuthMe.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PlayerList.onPlayerJoin(PlayerList.java:272) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PlayerList.a(PlayerList.java:156) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.LoginListener.b(LoginListener.java:109) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.LoginListener.c(LoginListener.java:41) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.NetworkManager.a(NetworkManager.java:159) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.ServerConnection.c(ServerConnection.java:82) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:800) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:316) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:634) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:537) [spigot.jar:git-Spigot-550ebac-7019900]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: java.lang.IllegalArgumentException: Invalid inventory size; expected 36 or less
+	at org.bukkit.craftbukkit.v1_8_R1.inventory.CraftInventory.setContents(CraftInventory.java:66) ~[spigot.jar:git-Spigot-550ebac-7019900]
+	at com.onarandombox.multiverseinventories.api.share.Sharables$3.updatePlayer(Sharables.java:115) ~[?:?]
+	at com.onarandombox.multiverseinventories.ShareHandler.updatePlayer(ShareHandler.java:140) ~[?:?]
+	at com.onarandombox.multiverseinventories.ShareHandler.completeSharing(ShareHandler.java:89) ~[?:?]
+	at com.onarandombox.multiverseinventories.ShareHandler.handleSharing(ShareHandler.java:60) ~[?:?]
+	at com.onarandombox.multiverseinventories.InventoriesListener.playerChangedWorld(InventoriesListener.java:183) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) ~[spigot.jar:git-Spigot-550ebac-7019900]
+	... 26 more
+[09:21:16] [Server thread/INFO]: Fhavyre[/82.117.245.191:27173] logged in with entity id 547 at ([main] 635.0, 10.0, 980.0)
+[09:21:18] [Craft Scheduler Thread - 4/INFO]: [SG]Checking for updates
+[09:21:18] [Craft Scheduler Thread - 17/INFO]: Checking for updates
+[09:21:30] [Server thread/INFO]: [AuthMe] Fhavyre logged in!
+[09:21:39] [Server thread/INFO]: Fhavyre issued server command: /mw goto HG
+[09:21:39] [Server thread/ERROR]: Could not pass event PlayerChangedWorldEvent to Multiverse-Inventories v1.4
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:305) ~[spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PlayerList.moveToWorld(PlayerList.java:588) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.craftbukkit.v1_8_R1.entity.CraftPlayer.teleport(CraftPlayer.java:475) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.craftbukkit.v1_8_R1.entity.CraftEntity.teleport(CraftEntity.java:223) [spigot.jar:git-Spigot-550ebac-7019900]
+	at multiworld.data.PlayerHandler.movePlayer(PlayerHandler.java:77) [multiworld.jar:?]
+	at multiworld.command.move.GotoCommand.runCommand(GotoCommand.java:82) [multiworld.jar:?]
+	at multiworld.command.Command.excute(Command.java:55) [multiworld.jar:?]
+	at multiworld.command.CommandMap.parseCommand(CommandMap.java:37) [multiworld.jar:?]
+	at multiworld.command.CommandMap.runCommand(CommandMap.java:67) [multiworld.jar:?]
+	at multiworld.command.Command.excute(Command.java:55) [multiworld.jar:?]
+	at multiworld.MultiWorldPlugin.pushCommandStack(MultiWorldPlugin.java:221) [multiworld.jar:?]
+	at multiworld.MultiWorldPlugin.onCommand(MultiWorldPlugin.java:206) [multiworld.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) [spigot.jar:git-Spigot-550ebac-7019900]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:646) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1115) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:950) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(PacketPlayInChat.java:26) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(PacketPlayInChat.java:53) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [spigot.jar:git-Spigot-550ebac-7019900]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_131]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_131]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:696) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:316) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:634) [spigot.jar:git-Spigot-550ebac-7019900]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:537) [spigot.jar:git-Spigot-550ebac-7019900]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: java.lang.IllegalArgumentException: Invalid inventory size; expected 36 or less
+	at org.bukkit.craftbukkit.v1_8_R1.inventory.CraftInventory.setContents(CraftInventory.java:66) ~[spigot.jar:git-Spigot-550ebac-7019900]
+	at com.onarandombox.multiverseinventories.api.share.Sharables$3.updatePlayer(Sharables.java:110) ~[?:?]
+	at com.onarandombox.multiverseinventories.ShareHandler.updatePlayer(ShareHandler.java:140) ~[?:?]
+	at com.onarandombox.multiverseinventories.ShareHandler.completeSharing(ShareHandler.java:89) ~[?:?]
+	at com.onarandombox.multiverseinventories.ShareHandler.handleSharing(ShareHandler.java:60) ~[?:?]
+	at com.onarandombox.multiverseinventories.InventoriesListener.playerChangedWorld(InventoriesListener.java:183) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) ~[spigot.jar:git-Spigot-550ebac-7019900]
+	... 29 more
+[09:21:39] [Server thread/INFO]: [MultiWorld] Fhavyre: Moved player Fhavyre to world HG

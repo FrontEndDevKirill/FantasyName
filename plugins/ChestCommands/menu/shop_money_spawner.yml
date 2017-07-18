@@ -1,0 +1,87 @@
+menu-settings:
+
+  name: '&8Торговец'
+
+  rows: 6
+
+
+block_1:
+  COMMAND: 'console: give {player} 52 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_spawner.yml'
+  PRICE: 450000
+  NAME: '&7Спавнер свиней: 1 шт.'
+  LORE:
+    - '&7Цена: &6450000 &7$'
+  ID: '52, 1'
+  POSITION-X: 5
+  POSITION-Y: 1
+block_2:
+  COMMAND: 'console: give {player} 383:92 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_spawner.yml'
+  PRICE: 25000
+  NAME: '&7Яйцо коровы: 1 шт.'
+  LORE:
+    - '&7Цена: &625000 &7$'
+  ID: '383, 1'
+  POSITION-X: 3
+  POSITION-Y: 2
+block_3:
+  COMMAND: 'console: give {player} 383:91 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_spawner.yml'
+  PRICE: 25000
+  NAME: '&7Яйцо овцы: 1 шт.'
+  LORE:
+    - '&7Цена: &625000 &7$'
+  ID: '383, 1'
+  POSITION-X: 4
+  POSITION-Y: 2
+block_4:
+  COMMAND: 'console: give {player} 383:93 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_spawner.yml'
+  PRICE: 25000
+  NAME: '&7Яйцо курицы: 1 шт.'
+  LORE:
+    - '&7Цена: &625000 &7$'
+  ID: '383, 1'
+  POSITION-X: 5
+  POSITION-Y: 2
+block_5:
+  COMMAND: 'console: give {player} 383:120 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_spawner.yml'
+  PRICE: 50000
+  NAME: '&7Яйцо жителя: 1 шт.'
+  LORE:
+    - '&7Цена: &650000 &7$'
+  ID: '383, 1'
+  POSITION-X: 6
+  POSITION-Y: 2
+block_6:
+  COMMAND: 'console: give {player} 383:101 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_spawner.yml'
+  PRICE: 25000
+  NAME: '&7Яйцо кролика: 1 шт.'
+  LORE:
+    - '&7Цена: &625000 &7$'
+  ID: '383, 1'
+  POSITION-X: 7
+  POSITION-Y: 2
+block_7:
+  COMMAND: 'console: give {player} 383:54 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_spawner.yml'
+  PRICE: 35000
+  NAME: '&7Яйцо зимби: 1 шт.'
+  LORE:
+    - '&7Цена: &635000 &7$'
+  ID: '383, 1'
+  POSITION-X: 4
+  POSITION-Y: 4
+block_8:
+  COMMAND: 'console: give {player} 383:51 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_spawner.yml'
+  PRICE: 35000
+  NAME: '&7Яйцо скелета: 1 шт.'
+  LORE:
+    - '&7Цена: &635000 &7$'
+  ID: '383, 1'
+  POSITION-X: 6
+  POSITION-Y: 4
+
+
+back:
+  COMMAND: 'open:shop.yml; sound: ENTITY_ARROW_SHOOT, 3.0, 3.0'
+  NAME: '&aВернуться...'
+  ID: 381
+  POSITION-X: 5
+  POSITION-Y: 6

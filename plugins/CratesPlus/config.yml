@@ -1,0 +1,180 @@
+# [][][][][][][][][][][][][][][][][][][][][]
+#  CratesPlus V4.4.1 Config
+# [][][][][][][][][][][][][][][][][][][][][]
+# ------------------------------------------
+# There are many placeholders that can now be used withing the config and messages file, placeholders are as followed:
+# - %name% - Replaces with the players name, Example: "Notch".
+# - %displayname% - Replaces with the players display name, Example: "[Owner] Notch".
+# - %uuid% - Replaces with the players UUID.
+# - %crate% - The crate types name.
+# - %prize% - The name of the winning.
+# - %percentage% - Percentage of the winning, useful for "Chance Message".
+# - %rand;100;500% - Generates a random number between two numbers, example is between 100 and 500.
+# ------------------------------------------
+# Don't change the config version!
+
+Config Version: 6
+Update Checks: true
+Update Branch: spigot
+Metrics: true
+Default Opener: BasicGUI
+Default Cooldown: 1
+Crate Protection: false
+Disable Key Swapping: false
+Default Hologram Text:
+- '%crate%'
+- '&d&lПКМ что бы открыть!'
+- '&9&lЛКМ что бы посмотреть!'
+Crates:
+  CASE:
+    Winnings:
+      '1':
+        Type: COMMAND
+        Item Type: LEATHER
+        Percentage: 30
+        Commands:
+        - pex user %name% group set pro
+        - tm bc &3%name% выиграл &5PRO
+        - say %name% выиграл PRO
+        - 'tm abc &0&lКупи себе такой же на : &5&lFantasy&f-&2&lMine.ru'
+        Name: '&e&lPRO'
+        Item Data: 0
+        Amount: 1
+        Enchantments:
+        - FIRE_ASPECT-1
+      '2':
+        Type: COMMAND
+        Item Type: FEATHER
+        Percentage: 20
+        Commands:
+        - pex user %name% group set fly
+        - tm bc &3%name% выиграл &5FLY
+        - say %name% выиграл FLY
+        - 'tm abc &0&lКупи себе такой же на : &5&lFantasy&f-&2&lMine.ru'
+        Name: '&e&lFLY'
+        Item Data: 0
+        Amount: 1
+        Enchantments:
+        - FIRE_ASPECT-1
+      '3':
+        Type: COMMAND
+        Item Type: COAL
+        Percentage: 10
+        Commands:
+        - pex user %name% group set vip
+        - tm bc &3%name% выиграл &5VIP
+        - say %name% выиграл VIP
+        - 'tm abc &0&lКупи себе такой же на : &5&lFantasy&f-&2&lMine.ru'
+        Name: '&e&lVIP'
+        Item Data: 0
+        Amount: 1
+        Enchantments:
+        - FIRE_ASPECT-1
+      '4':
+        Type: COMMAND
+        Item Type: FLINT
+        Percentage: 10
+        Commands:
+        - pex user %name% group set prem
+        - tm bc &3%name% выиграл &5PREMIUM
+        - say %name% выиграл PREMIUM
+        - 'tm abc &0&lКупи себе такой же на : &5&lFantasy&f-&2&lMine.ru'
+        Name: '&e&lPREMIUM'
+        Item Data: 0
+        Amount: 1
+        Enchantments:
+        - FIRE_ASPECT-1
+      '5':
+        Type: COMMAND
+        Item Type: IRON_INGOT
+        Percentage: 5
+        Commands:
+        - pex user %name% group set creat
+        - tm bc &3%name% выиграл &5CREATIVE
+        - say %name% выиграл CREATIVE
+        - 'tm abc &0&lКупи себе такой же на : &5&lFantasy&f-&2&lMine.ru'
+        Name: '&e&lCREATIVE'
+        Item Data: 0
+        Amount: 1
+        Enchantments:
+        - FIRE_ASPECT-1
+      '6':
+        Type: COMMAND
+        Item Type: GOLD_INGOT
+        Percentage: 5
+        Commands:
+        - pex user %name% group set creat+
+        - tm bc &3%name% выиграл &5SUPORT
+        - say %name% выиграл SUPORT
+        - 'tm abc &0&lКупи себе такой же на : &5&lFantasy&f-&2&lMine.ru'
+        Name: '&e&lSUPORT'
+        Item Data: 0
+        Amount: 1
+        Enchantments:
+        - FIRE_ASPECT-1
+      '7':
+        Type: COMMAND
+        Item Type: DIAMOND
+        Percentage: 4
+        Commands:
+        - pex user %name% group set moder
+        - tm bc &3%name% выиграл &5MODER
+        - say %name% выиграл MODER
+        - 'tm abc &0&lКупи себе такой же на : &5&lFantasy&f-&2&lMine.ru'
+        Name: '&e&lMODER'
+        Item Data: 0
+        Amount: 1
+        Enchantments:
+        - FIRE_ASPECT-1
+      '8':
+        Type: COMMAND
+        Item Type: EMERALD
+        Percentage: 3
+        Commands:
+        - pex user %name% group set bog
+        - tm bc &3%name% выиграл &5ADMIN
+        - say %name% выиграл ADMIN
+        - 'tm abc &0&lКупи себе такой же на : &5&lFantasy&f-&2&lMine.ru'
+        Name: '&e&lADMIN'
+        Item Data: 0
+        Amount: 1
+        Enchantments:
+        - FIRE_ASPECT-1
+      '9':
+        Type: COMMAND
+        Item Type: NETHER_STAR
+        Percentage: 2
+        Commands:
+        - pex user %name% group set admin
+        - tm bc &3%name% выиграл &5ST.ADMIN
+        - say %name% выиграл ST.ADMIN
+        - 'tm abc &0&lКупи себе такой же на : &5&lFantasy&f-&2&lMine.ru'
+        Name: '&e&lST.ADMIN'
+        Item Data: 0
+        Amount: 1
+        Enchantments:
+        - FIRE_ASPECT-1
+      '10':
+        Type: COMMAND
+        Item Type: BEACON
+        Percentage: 1
+        Commands:
+        - pex user %name% group set gladmin
+        - tm bc &3%name% выиграл &5GL.ADMIN
+        - say %name% выиграл GL.ADMIN
+        - 'tm abc &0&lКупи себе такой же на : &5&lFantasy&f-&2&lMine.ru'
+        Name: '&e&lGL.ADMIN'
+        Item Data: 0
+        Amount: 1
+        Enchantments:
+        - FIRE_ASPECT-1
+    Knockback: 0.0
+    Block: ENDER_CHEST
+    Color: DARK_PURPLE
+    Broadcast: false
+    Firework: true
+    Preview: true
+    Key:
+      Item: BLAZE_ROD
+      Name: '%type% Ключь от Донат-кейса'
+      Enchanted: true

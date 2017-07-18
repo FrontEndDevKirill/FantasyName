@@ -1,0 +1,86 @@
+socialspy: false
+lastAccountName: zLane
+timestamps:
+  login: 1500239053915
+  logout: 1500239083347
+  kits:
+    firework: 1484580654549
+    premium: 1500139147505
+    start: 1484677737709
+    vip: 1500139112451
+    pro: 1500139140604
+  lastteleport: 1500229684346
+ipAddress: 109.87.99.85
+lastlocation:
+  world: minigames
+  x: -268.7264967469237
+  y: 63.5
+  z: -65.72774560426573
+  yaw: -7.4999986
+  pitch: 7.649999
+logoutlocation:
+  world: main
+  x: 635.0
+  y: 10.0
+  z: 980.0
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+money: '2100.0'
+homes:
+  home:
+    world: world
+    x: 2364.541074728796
+    y: 95.5
+    z: 853.9048946265544
+    yaw: 213.31152
+    pitch: 17.549889
+  gg:
+    world: world
+    x: 2379.504098303811
+    y: 95.0
+    z: 853.9716897643817
+    yaw: 271.21143
+    pitch: 70.19989
+  pvp:
+    world: world
+    x: 100033.33814178481
+    y: 249.0
+    z: 100057.4421973784
+    yaw: -265.94992
+    pitch: 47.399982
+  hyi:
+    world: world
+    x: -2296.188736214782
+    y: 63.0
+    z: 302.72425368352424
+    yaw: 139.19745
+    pitch: 3.4500597
+  dom:
+    world: world
+    x: 64.42402982549169
+    y: 67.25894424086678
+    z: 31.525387989102686
+    yaw: -358.35028
+    pitch: 6.449996
+  warp:
+    world: minigames
+    x: -186.4680294375537
+    y: 53.0
+    z: 34.660685549629555
+    yaw: 179.99219
+    pitch: 75.750145
+  ggggg:
+    world: minigames
+    x: 2938.0809094519027
+    y: 68.0
+    z: 2141.9311847062063
+    yaw: -8.25
+    pitch: 13.05
+  derevn9:
+    world: survival
+    x: 2188.4242417369633
+    y: 65.0
+    z: -7291.133956449947
+    yaw: 278.5451
+    pitch: 63.450035

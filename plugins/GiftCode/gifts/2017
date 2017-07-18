@@ -1,0 +1,5 @@
+fantasy:
+  type: cmd
+  commands:
+  - pex user $name group set vip
+  date: 01.08.17

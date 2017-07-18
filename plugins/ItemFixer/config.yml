@@ -1,0 +1,28 @@
+remove-invalid-enchants: false
+nbt:
+- ActiveEffects
+- CustomName
+- AttributeModifiers
+- Unbreakable
+- CustomPotionEffects
+armorstand:
+- EntityTag
+writtenbook:
+- ClickEvent
+- run_command
+inventory:
+- BlockEntityTag
+Timer:
+  delay: 120
+  CheckInventory: false
+  CheckArmor: true
+  Enabled: true
+fix-skull-exploit: true
+ignoreTag: unknown1484502215118
+spawneggs:
+- Fuse
+- CustomNames
+- powered
+- ActiveEffects
+- ExplosionPower
+- Size

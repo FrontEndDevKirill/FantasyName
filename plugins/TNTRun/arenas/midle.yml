@@ -1,0 +1,38 @@
+world: minigames
+p1:
+  ==: Vector
+  x: 2923.0
+  y: 51.0
+  z: 2125.0
+p2:
+  ==: Vector
+  x: 2943.0
+  y: 72.0
+  z: 2145.0
+gameleveldestroydelay: 8
+loselevel:
+  p1:
+    ==: Vector
+    x: 2924.0
+    y: 51.0
+    z: 2126.0
+  p2:
+    ==: Vector
+    x: 2942.0
+    y: 51.0
+    z: 2144.0
+spawnpoint:
+  ==: Vector
+  x: 2933.5159238430933
+  y: 68.0
+  z: 2135.374266985238
+maxPlayers: 6
+minPlayers: 2
+votePercent: 0.75
+timelimit: 180
+countdown: 10
+teleportto: PREVIOUS
+damageenabled: 'NO'
+reward:
+  money: 100
+  items: []

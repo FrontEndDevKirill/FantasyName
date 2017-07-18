@@ -1,0 +1,24 @@
+lastAccountName: greyg2000
+timestamps:
+  login: 1500174561594
+  lastteleport: 1500173398244
+  kits:
+    start: 1500173614997
+  logout: 1500174687518
+ipAddress: 176.59.146.128
+lastlocation:
+  world: main
+  x: -95.67146212668881
+  y: 7.0
+  z: 295.0091355669354
+  yaw: -200.25003
+  pitch: -82.950005
+money: '280.0'
+logoutlocation:
+  world: survival
+  x: 15.142119427822013
+  y: 64.0625
+  z: 238.68189235371796
+  yaw: -65.69769
+  pitch: -9.000048
+socialspy: false

@@ -1,0 +1,25 @@
+lastAccountName: SUICIDEBOY
+timestamps:
+  login: 1484934970543
+  lastteleport: 1484934571627
+  kits:
+    firework: 1484934676063
+    food: 1484934732194
+  logout: 1484935490440
+ipAddress: 91.217.3.226
+lastlocation:
+  world: world
+  x: 1816.5379447512557
+  y: 28.5
+  z: 544.7554692863285
+  yaw: 125.45913
+  pitch: 21.722012
+socialspy: false
+afk: false
+logoutlocation:
+  world: world
+  x: 2897.2769440997067
+  y: 64.0
+  z: -1711.7741493821254
+  yaw: 238.16797
+  pitch: 15.150749

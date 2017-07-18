@@ -1,0 +1,21 @@
+lastAccountName: dimansterus
+timestamps:
+  login: 1500205476845
+  logout: 1500205716164
+ipAddress: 46.174.126.50
+lastlocation:
+  world: world
+  x: 2380.5
+  y: 87.0
+  z: 875.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: survival
+  x: 27.616407662893955
+  y: 64.0
+  z: 249.55504089908476
+  yaw: 186.07063
+  pitch: 4.247415
+socialspy: false
+money: '80.0'

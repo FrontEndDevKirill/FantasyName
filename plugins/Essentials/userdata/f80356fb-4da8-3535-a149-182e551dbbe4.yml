@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Chop
+timestamps:
+  login: 1499185100816
+  logout: 1499185128733
+ipAddress: 91.222.251.50
+lastlocation:
+  world: world
+  x: 2372.526711284529
+  y: 87.5
+  z: 872.4340776644026
+  yaw: -359.9885
+  pitch: 34.49988
+logoutlocation:
+  world: world
+  x: 2372.5
+  y: 87.5
+  z: 872.5
+  yaw: -289.18854
+  pitch: -24.000118
+money: '200.0'

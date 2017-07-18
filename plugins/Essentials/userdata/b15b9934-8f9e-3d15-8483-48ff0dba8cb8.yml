@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: GODFOL
+timestamps:
+  login: 1499093398922
+  lastteleport: 1499093443975
+  logout: 1499093775061
+ipAddress: 109.172.59.115
+lastlocation:
+  world: world
+  x: 2381.9794107298003
+  y: 66.0
+  z: 876.440947016746
+  yaw: 128.41135
+  pitch: -54.299946
+logoutlocation:
+  world: world
+  x: 2582.299951934118
+  y: 68.0
+  z: 858.2678544446624
+  yaw: 268.66174
+  pitch: -7.1999884
+money: '208.07999999999998'

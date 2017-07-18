@@ -1,0 +1,6 @@
+ARENA_JOIN: '&c&lTNTRun &e%player% &aприсоединился к игре'
+ARENA_LEFT: '&c&lTNTRun &e%player% &aпокинул игру'
+ARENA_LOST: '&c&lTNTRun &e%player% &aпроиграл'
+ARENA_WIN: '&c&lTNTRun &e%player% &awon TNTRun на арене &e%arena%'
+ARENA_FULL: '&c&lTNTRun &eАрена заполнена!'
+NOPERM: '&c&lTNTRun &aНе разрешено!'

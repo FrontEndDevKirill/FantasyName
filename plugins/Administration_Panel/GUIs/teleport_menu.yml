@@ -1,0 +1,37 @@
+title: "&dТелепорт меню"
+
+buttons:
+
+  0:
+  
+    type: ME_TO_PLAYER
+  
+    item: ENDER_PEARL
+    
+    slot: 0
+    
+    title: "&dТелепортировать вас к игрокуr ..."
+    
+    permission: "clicker-to-target"
+    
+    lore:
+    
+     1: "&fТелепортирует вас"
+     2: "&fк игроку."
+     
+  1:
+  
+    type: PLAYER_TO_ME
+  
+    item: ENDER_PEARL
+    
+    slot: 1
+    
+    title: "&dТелепортирует игрока к вам  ..."
+    
+    permission: "target-to-clicker"
+    
+    lore:
+    
+     1: "&fТелепортировать игрока"
+     2: "&fк себе."

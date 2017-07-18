@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: Dantezzz_YT_RUS
+timestamps:
+  login: 1500236057192
+  lastteleport: 1500145952726
+  logout: 1500236165116
+  kits:
+    start: 1500064177631
+ipAddress: 95.27.170.118
+lastlocation:
+  world: main
+  x: 632.5422184055942
+  y: 9.0
+  z: 984.4718159360955
+  yaw: 0.5982666
+  pitch: 20.250015
+logoutlocation:
+  world: survival
+  x: 2167.64496491945
+  y: 71.462329187023
+  z: -7317.214730665006
+  yaw: -147.91321
+  pitch: 6.3313932

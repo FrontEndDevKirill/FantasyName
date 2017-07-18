@@ -1,0 +1,126 @@
+Themes:
+- Creeper
+Metrics: true
+Language: en
+Debug: false
+TimeBeforeStart: 45
+Sounds: true
+CmdWhitelist:
+- bb
+- buildbattle
+OfflinePlayers: []
+ItemBlackList: []
+StartCommand:
+  Enabled: false
+  Command: ''
+Rewards:
+  Vault:
+    Enabled: false
+    Winner: 5
+    Second: 5
+    Third: 5
+    Rest: 5
+  PlayerPoints:
+    Enabled: false
+    Winner: 5
+    Second: 5
+    Third: 5
+    Rest: 5
+  Command:
+    Enabled: false
+    Winner: ''
+    Second: ''
+    Third: ''
+    Rest: ''
+Arenas:
+  '1':
+    Time: 5
+    VotingTime: 11
+    MinPlayers: 2
+    MaxPlayers: 8
+    Spawn:
+      World: minigames
+      X: 10335.797680769325
+      Y: 79.0
+      Z: -7252.759897060043
+    Region:
+      '1':
+        World: minigames
+        Min:
+          x: 10377.0
+          y: 79.0
+          z: -7288.0
+        Max:
+          x: 10394.0
+          y: 98.0
+          z: -7272.0
+      '2':
+        World: minigames
+        Min:
+          x: 10356.0
+          y: 79.0
+          z: -7288.0
+        Max:
+          x: 10375.0
+          y: 98.0
+          z: -7272.0
+      '3':
+        World: minigames
+        Min:
+          x: 10356.0
+          y: 79.0
+          z: -7270.0
+        Max:
+          x: 10375.0
+          y: 98.0
+          z: -7254.0
+      '4':
+        World: minigames
+        Min:
+          x: 10377.0
+          y: 79.0
+          z: -7270.0
+        Max:
+          x: 10394.0
+          y: 98.0
+          z: -7254.0
+      '5':
+        World: minigames
+        Min:
+          x: 10377.0
+          y: 79.0
+          z: -7252.0
+        Max:
+          x: 10394.0
+          y: 98.0
+          z: -7235.0
+      '6':
+        World: minigames
+        Min:
+          x: 10356.0
+          y: 79.0
+          z: -7252.0
+        Max:
+          x: 10375.0
+          y: 98.0
+          z: -7235.0
+      '7':
+        World: minigames
+        Min:
+          x: 10356.0
+          y: 79.0
+          z: -7233.0
+        Max:
+          x: 10375.0
+          y: 98.0
+          z: -7214.0
+      '8':
+        World: minigames
+        Min:
+          x: 10377.0
+          y: 79.0
+          z: -7233.0
+        Max:
+          x: 10394.0
+          y: 98.0
+          z: -7214.0

@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Dimans
+timestamps:
+  login: 1499083094183
+  logout: 1499083307861
+ipAddress: 95.27.172.148
+lastlocation:
+  world: world
+  x: 2372.4355940959044
+  y: 80.0
+  z: 872.5034043504787
+  yaw: 0.61120605
+  pitch: 77.54992
+logoutlocation:
+  world: world
+  x: 2587.291135793896
+  y: 67.0
+  z: 889.6020033532584
+  yaw: 253.06033
+  pitch: 22.19995

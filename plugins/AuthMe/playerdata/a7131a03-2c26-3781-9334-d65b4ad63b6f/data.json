@@ -1,0 +1,15 @@
+{
+  "group": "creat+",
+  "location": {
+    "world": "survival",
+    "x": 2150.209418922569,
+    "y": 83.29545924614021,
+    "z": -7338.477301861123,
+    "yaw": 26.893267,
+    "pitch": 56.681053
+  },
+  "operator": false,
+  "can-fly": true,
+  "walk-speed": 0.2,
+  "fly-speed": 0.1
+}

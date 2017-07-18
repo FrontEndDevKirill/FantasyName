@@ -1,0 +1,116 @@
+# xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx #	
+# This is the MarioKart plugin's configuration file. For more        #	
+# information contact storm345                                       #	
+# Plugin by storm345	                                             #	
+# xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx #	
+# 
+# If you are viewing this on notepad then view it on a text editor designed for use with yaml files. Such as wordpad or notetab (Lite). 
+# Information on setting the config:
+# 
+# +----------------------------------------------------------------+ #	
+# |                                                                | #	
+# |                           -General-                            | #	
+# |                                                                | #	
+# +----------------------------------------------------------------+ #	
+# These are the settings for the plugin!
+# +----------------------------------------------------------------+ #	
+# |                                                                | #	
+# |                           -colorScheme-                        | #	
+# |                                                                | #	
+# +----------------------------------------------------------------+ #
+# This is where you pick the colours for the plugin to use.	
+# Dont know what the colours are? http://lpminecraft.com/wiki/lib/exe/fetch.php?w=429&media=lpminecraft:plugins:quicksign:minecraftcolorcodes.png	
+# 
+# Let's begin:
+
+setup:
+  create:
+    wand: 280
+misc:
+  configVersion: 1.1
+general:
+  server:
+    control: false
+    restartStopsServer: false
+    bungeelobby: lobby
+    gamelobby: world:2372.0,89.0,872.0:0.0,0.0
+  logger:
+    colour: true
+  raceLimit: 3
+  raceTickrate: 10
+  checkpointRadius: 15.0
+  raceGracePeriod: 10.0
+  race:
+    timed:
+      log: true
+    maxTimePerCheckpoint: 60
+    enableTimeLimit: true
+    targetPlayers: 5
+    rewards:
+      enable: true
+      command:
+        enable: false
+        say: true
+        command: givetokens <name> <amount>
+      win: 10.0
+      second: 5.0
+      third: 2.0
+      currency: Dollars
+    music:
+      enable: true
+    waterDamage:
+      enable: true
+      tracks:
+      - TrackName
+      - TrackName
+    lavaDamage:
+      enable: true
+      tracks:
+      - TrackName
+      - TrackName
+  upgrades:
+    enable: true
+    useSQL: false
+    sqlHostName: localhost
+    sqlPort: '3306'
+    sqlDataBaseName: myDataBase
+    sqlUsername: root
+    sqlPassword: password123
+  ensureEqualCarSpeed: true
+  optimiseAtRuntime: true
+race:
+  que:
+    minPlayers: 2
+bitlyUrlShortner: true
+mariokart:
+  resourcePack: DEFAULT_CURSEFORGE_PACK
+  enable: true
+  redShell: INK_SACK:1
+  greenShell: INK_SACK:2
+  blueShell: INK_SACK:12
+  banana: INK_SACK:11
+  star: NETHER_STAR:0
+  lightning: INK_SACK:7
+  bomb: TNT:0
+  boo: BONE
+  pow: ICE
+  random: STAINED_CLAY:4
+  mushroom: RED_MUSHROOM
+colorScheme:
+  success: '&c'
+  error: '&7'
+  info: '&6'
+  title: '&4'
+  tp: '&1'
+music:
+  configVersion: 1.0
+  tracks:
+    defaultSong1:
+      length: 68.0
+      path: mariokart.music.music1
+    defaultSong2:
+      length: 125.0
+      path: mariokart.music.music2
+    defaultSong3:
+      length: 132.0
+      path: mariokart.music.music3

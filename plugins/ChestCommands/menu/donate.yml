@@ -1,0 +1,273 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&4&l* &1Донат &4&l*'
+
+  # rows - the num6er of rows of the chest - REQUIRED
+  rows: 2
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'donate;donat;донат'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item to 0)
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+1:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lNEBIROS (PRO)&7] &d20 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6/jump &e-пругнуть на гору'
+    - '&6/kit pro'
+    - ''
+    - '&6Дополнительно:'
+    - ''
+    - '&eУведомление о Вашем входе'
+    - '&ePrefix в чате и в табе'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye
+  KEEP-OPEN: false
+  POSITION-X: 1
+  POSITION-Y: 1
+2:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lSARGATANAS (FLY)&7] &d35 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6/fly - возможность летать'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУведомление о Вашем входе'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности &7[&cPRO&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:2
+  KEEP-OPEN: false
+  POSITION-X: 2
+  POSITION-Y: 1
+3:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lFLEURETY (VIP)&7] &d50 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6/kit vip'
+    - '&6/god - режим бога'
+    - '&6/feed - востановить сытость'
+    - '&6/heal - вылечить себя'
+    - '&6/near - игроки по близости'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУ Вас будет несколько точек домов'
+    - '&eВход на заполненый сервер'
+    - '&eУведомление о Вашем входе'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности &7[&cFLY&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:3
+  KEEP-OPEN: false
+  POSITION-X: 3
+  POSITION-Y: 1
+4:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lAGALIAREPT (PREMIUM)&7] &d70 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6/kit premium'
+    - '&6/back - вернуться на место смерти'
+    - '&6/ptime - изменить себе время'
+    - '&6/hat - одеть блок на голову'
+    - '&6/clear - почистить инвентарь'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУ Вас будет несколько точек домов'
+    - '&eУведомление о Вашем входе'
+    - '&eВход на заполненый сервер'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности &7[&cVIP&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:4
+  KEEP-OPEN: false
+  POSITION-X: 4
+  POSITION-Y: 1
+5:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lSATANACHIA (CREATIVE)&7] &d100 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6/back - вернуться обратно'
+    - '&6/gm 1 /gm 0'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУ Вас будет несколько точек домов'
+    - '&eУведомление о Вашем входе'
+    - '&eВход на заполненый сервер'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности &7[&cPREMIUM&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:5
+  KEEP-OPEN: false
+  POSITION-X: 5
+  POSITION-Y: 1
+6:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lLUCIFUGE (SUPORT)&7] &d120 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6/gm 1'
+    - '&6/gm 2'
+    - '&6/gm 3'
+    - '&6/gm 0'
+    - '&6/suicide'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУ Вас будет несколько точек домов'
+    - '&eУведомление о Вашем входе'
+    - '&eВход на заполненый сервер'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности &7[&cCREATIVE&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:6
+  KEEP-OPEN: false
+  POSITION-X: 6
+  POSITION-Y: 1
+7:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lASTAROTH (MODERATOR)&7] &d200 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6/kick - кикать игроков'
+    - '&6/home <ник_игрока>'
+    - '&6/wether <значение> - изменить погоду'
+    - '&6/heal <ник_игрока>'
+    - '&6/time set 0 - сделать день'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУ Вас будет несколько точек домов'
+    - '&eУведомление о Вашем входе'
+    - '&eВход на заполненый сервер'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности &7[&cSUPORT&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:7
+  KEEP-OPEN: false
+  POSITION-X: 7
+  POSITION-Y: 1
+8:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lBELZEBUTH (ADMIN)&7] &d300 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6/repair - ченить вещи'
+    - '&6/firework - запускать фейерверки'
+    - '&6/skull - получить голову игрока'
+    - '&6/ptime - изменить время игроку'
+    - '&6/tp - переместиться к любому игроку'
+    - '&6/tp - по координатам'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУ Вас будет несколько точек домов'
+    - '&eУведомление о Вашем входе'
+    - '&eВход на заполненый сервер'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности [&cMODERATOR&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:8
+  KEEP-OPEN: false
+  POSITION-X: 8
+  POSITION-Y: 1
+9:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lLUCIFER (ST.ADMIN)&7] &d400 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6/vanish'
+    - '&6/afk'
+    - '&6/kill - ибивать игроков'
+    - '&6/openinv <ник_игрока>'
+    - '&6/ap - админ меню'
+    - '&6/mute'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУ Вас будет несколько точек домов'
+    - '&eУведомление о Вашем входе'
+    - '&eВход на заполненый сервер'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности [&cADMIN&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:9
+  KEEP-OPEN: false
+  POSITION-X: 9
+  POSITION-Y: 1
+10:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lDEVIL (GL.ADMIN)&7] &d500 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6Доступ ко всем приватам'
+    - '&6Доступ ко всем командам'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУ Вас будет несколько точек домов'
+    - '&eУведомление о Вашем входе'
+    - '&eВход на заполненый сервер'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности [&cST.ADMIN&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:10
+  KEEP-OPEN: false
+  POSITION-X: 1
+  POSITION-Y: 2
+11:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lDIABLO (OWNER)&7] &d1000 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6Доступ ко всем приватам'
+    - '&6Доступ ко всем командам'
+    - '&6Все возможности создателя'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУ Вас будет несколько точек домов'
+    - '&eУведомление о Вашем входе'
+    - '&eВход на заполненый сервер'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности [&cGL.ADMIN&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:11
+  KEEP-OPEN: false
+  POSITION-X: 5
+  POSITION-Y: 2
+12:
+  COMMAND: 'tell:&e&lПокупать донат на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  NAME: '&7[&c&lCANSOLE&7] &d1000 &bрублей&7/&bНавсегда'
+  LORE:
+    - '&6Доступ ко всем приватам'
+    - '&6Доступ ко всем командам'
+    - '&6Все возможности создателя'
+    - '&6Можно выдавать привилегии'
+    - '&6Делать все что захочиться'
+    - '&6Для вас правил нет'
+    - ''
+    - '&6Дополнительно'
+    - ''
+    - '&eУ Вас будет несколько точек домов'
+    - '&eУведомление о Вашем входе'
+    - '&eВход на заполненый сервер'
+    - '&ePrefix в чате и в табе'
+    - '&7[&2+&7] &bВозможности [&cOWNER&7]'
+    - '&4&lКупи донат на сейте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
+  ID: dye:12
+  KEEP-OPEN: false
+  POSITION-X: 9
+  POSITION-Y: 2

@@ -1,0 +1,31 @@
+spleef:
+  arenas:
+    arenano: 1
+    '1':
+      enabled: true
+      warps:
+        join:
+          world: world
+          x: 685
+          y: 245
+          z: 2054
+        win:
+          world: world
+          x: 686
+          y: 249
+          z: 2040
+        lose:
+          world: world
+          x: 684
+          y: 249
+          z: 2040
+      floorno: 1
+      floor:
+        '1':
+          world: world
+          x1: 696
+          y1: 244
+          z1: 2061
+          x2: 674
+          y2: 244
+          z2: 2044

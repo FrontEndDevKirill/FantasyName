@@ -1,0 +1,8 @@
+midle: {}
+low: {}
+tntrun:
+  '0':
+    x: -280
+    y: 65
+    z: -71
+    world: minigames

@@ -1,0 +1,5 @@
+WinnyLaPooh:
+  type: cmd
+  commands:
+  - pex user $name group add vip
+  used: true

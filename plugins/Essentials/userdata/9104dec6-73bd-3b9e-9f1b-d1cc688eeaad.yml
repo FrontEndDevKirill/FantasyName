@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Zord
+timestamps:
+  login: 1500057409973
+  logout: 1500059615757
+  lastteleport: 1500059204178
+  kits:
+    premium: 1499858400856
+ipAddress: 82.117.245.191
+lastlocation:
+  world: survival
+  x: 31.058689503842462
+  y: 64.0
+  z: 244.47565787337032
+  yaw: 277.19998
+  pitch: 57.0
+logoutlocation:
+  world: survival
+  x: 2172.672988382206
+  y: 7.021605573055167
+  z: -7211.359082104834
+  yaw: 44.551426
+  pitch: 8.2500515
+money: '4388.48'

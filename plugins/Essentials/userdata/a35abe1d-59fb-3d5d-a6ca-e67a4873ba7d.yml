@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: LemixYT
+timestamps:
+  login: 1499435782262
+  logout: 1499435809987
+ipAddress: 178.150.15.60
+lastlocation:
+  world: world
+  x: 2380.5
+  y: 87.0
+  z: 875.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: main
+  x: -79.5
+  y: 64.0
+  z: 265.5
+  yaw: 179.54988
+  pitch: 8.699949
+money: '200.0'

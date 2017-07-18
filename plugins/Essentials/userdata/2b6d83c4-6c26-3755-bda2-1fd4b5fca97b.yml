@@ -1,0 +1,21 @@
+lastAccountName: Donate
+timestamps:
+  login: 1500173974977
+  lastteleport: 1500174046498
+  logout: 1500174236708
+ipAddress: 212.96.79.164
+lastlocation:
+  world: main
+  x: -68.4670710998057
+  y: 7.0
+  z: 268.328834882002
+  yaw: -105.450005
+  pitch: 8.85
+logoutlocation:
+  world: survival
+  x: 21.972777462282224
+  y: 64.0625
+  z: 245.12427280037414
+  yaw: -41.247704
+  pitch: 33.0
+socialspy: false

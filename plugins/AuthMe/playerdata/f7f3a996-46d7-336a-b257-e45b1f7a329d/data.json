@@ -1,0 +1,15 @@
+{
+  "group": "default",
+  "location": {
+    "world": "minigames",
+    "x": -269.0,
+    "y": 67.0,
+    "z": -87.0,
+    "yaw": -1.8000004,
+    "pitch": 73.35001
+  },
+  "operator": false,
+  "can-fly": false,
+  "walk-speed": 0.2,
+  "fly-speed": 0.1
+}

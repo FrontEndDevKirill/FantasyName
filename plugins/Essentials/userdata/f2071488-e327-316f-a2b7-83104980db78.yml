@@ -1,0 +1,31 @@
+lastAccountName: Miley
+timestamps:
+  login: 1485103048949
+  lastteleport: 1485104164402
+  logout: 1485104403389
+  lastheal: 1485104402690
+ipAddress: 185.32.134.113
+lastlocation:
+  world: world
+  x: -828.5235035193027
+  y: 63.62872620025753
+  z: -303.47497738282
+  yaw: -302.82574
+  pitch: 14.879252
+homes:
+  home:
+    world: world
+    x: -758.4687238184644
+    y: 63.0625
+    z: -287.82441105374966
+    yaw: 109.732086
+    pitch: 32.48549
+afk: false
+logoutlocation:
+  world: world
+  x: -873.0987034567912
+  y: 68.0
+  z: -258.21241293856554
+  yaw: 259.82352
+  pitch: 31.87035
+socialspy: false

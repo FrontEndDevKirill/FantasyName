@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: Demon666
+timestamps:
+  login: 1500233661818
+  logout: 1500233674869
+  lastteleport: 1500212364450
+ipAddress: 95.27.172.148
+lastlocation:
+  world: main
+  x: 630.4081571817109
+  y: 9.0
+  z: 982.6002065923923
+  yaw: -64.80169
+  pitch: -1.9500968
+afk: false
+logoutlocation:
+  world: main
+  x: 635.0
+  y: 9.5
+  z: 980.0
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: survival
+    x: 2195.731384378026
+    y: 65.0
+    z: -7299.105284713362
+    yaw: -232.49951
+    pitch: 44.10007
+money: '3013.43'

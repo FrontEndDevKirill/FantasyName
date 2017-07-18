@@ -1,0 +1,35 @@
+title: "&7Мут меню"
+
+buttons:
+
+  0:
+  
+    type: MUTE
+  
+    item: GHAST_TEAR
+    
+    slot: 0
+    
+    title: "&7МУТ..."
+    
+    permission: "mute" # NOTE: The plugin adds automatically "AdministrationPanel.functions." infront of it.
+    
+    lore:
+    
+      1: "&fЗамутить игрока."
+    
+  1:
+  
+    type: UNMUTE
+    
+    item: GHAST_TEAR
+    
+    slot: 1
+    
+    title: "&7Размут ..."
+    
+    permission: "mute" # NOTE: The plugin adds automatically "AdministrationPanel.functions." infront of it.
+    
+    lore:
+    
+      1: "&fРазмутить игрока."

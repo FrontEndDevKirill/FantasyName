@@ -1,0 +1,33 @@
+usingConfig: true
+config-version: 3
+using-bungeecord: false
+legacy-client-support: false
+updater:
+  check-automatically: true
+tabmenu:
+  enabled: true
+  header: \n&6Fantasy&2Mine\n
+  footer: \n&eСоздатели:&4 Fhavyre
+welcome_message:
+  enabled: true
+  title: '&7Вы зашли на &6Fantasy&2Mine'
+  subtitle: '&3Приветствуем вас'
+  fadeIn: 20
+  stay: 40
+  fadeOut: 20
+  first-join:
+    title: '&7Добро пожаловать &a{PLAYER}'
+    subtitle: '&7Вы на спавне!'
+actionbar-welcome:
+  enabled: false
+  message: '&a&lДобро пожаловать!!'
+  first-join:
+    message: '&2&lПрвиет!! это твой первый раз!'
+number-format:
+  enabled: true
+  format: '#,###.##'
+date-format:
+  format: EEE, dd MMM yyyy HH:mm:ss z
+disabled-variables:
+- my-disabled-variable
+- also-called-placeholders

@@ -1,0 +1,173 @@
+name: BedWars
+world: BedWars
+loc1:
+  world: BedWars
+  x: 387.6415260779807
+  y: 62.65113392163509
+  z: -549.2457794478222
+  pitch: 20.700010299682617
+  yaw: -220.3487548828125
+loc2:
+  world: BedWars
+  x: 204.8972205151537
+  y: 62.65113392163509
+  z: -739.8479835610078
+  pitch: 24.900020599365234
+  yaw: -41.54884719848633
+lobby:
+  world: BedWars
+  x: 293.4704379935457
+  y: 102.0
+  z: -650.9921117319643
+  pitch: 7.050025939941406
+  yaw: 179.70089721679688
+minplayers: 4
+record: 204
+record-holders:
+- Fhavyre
+regionname: BedWars
+time: 1000
+targetmaterial: BED_BLOCK
+mainlobby:
+  world: BedWars
+  x: 293.4704379935457
+  y: 102.0
+  z: -650.9921117319643
+  pitch: 6.900025844573975
+  yaw: 179.70089721679688
+autobalance: false
+spawner:
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: BedWars
+    x: 285.5121188119303
+    y: 41.0
+    z: -554.4853803142713
+    pitch: 35.40000534057617
+    yaw: -86.84911346435547
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: BedWars
+    x: 389.31168301674785
+    y: 41.0
+    z: -644.7465241986494
+    pitch: 87.00010681152344
+    yaw: -209.09938049316406
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: BedWars
+    x: 384.38073442985444
+    y: 41.0
+    z: -647.4463591897867
+    pitch: 85.49996948242188
+    yaw: 61.0506706237793
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: BedWars
+    x: 285.54466594043134
+    y: 41.0
+    z: -554.4232303965631
+    pitch: 33.14977264404297
+    yaw: 186.45083618164062
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: BedWars
+    x: 288.7759325082857
+    y: 41.0
+    z: -559.8377299366568
+    pitch: 47.84976577758789
+    yaw: 236.85081481933594
+- ==: RessourceSpawner
+  name: gold
+  location:
+    world: BedWars
+    x: 285.5530339159316
+    y: 41.0
+    z: -651.4782089755454
+    pitch: 90.0
+    yaw: -1.1991283893585205
+- ==: RessourceSpawner
+  name: gold
+  location:
+    world: BedWars
+    x: 292.57469726078716
+    y: 41.0
+    z: -644.4760312162482
+    pitch: 87.15007019042969
+    yaw: -88.79911041259766
+- ==: RessourceSpawner
+  name: gold
+  location:
+    world: BedWars
+    x: 299.44185842882604
+    y: 41.0
+    z: -651.5745873969772
+    pitch: 90.0
+    yaw: -194.09918212890625
+- ==: RessourceSpawner
+  name: gold
+  location:
+    world: BedWars
+    x: 292.4219511229518
+    y: 41.0
+    z: -658.5535000926651
+    pitch: 88.94998931884766
+    yaw: -283.048828125
+teams:
+  Red:
+    ==: Team
+    bedfeed:
+      world: BedWars
+      x: 292.0
+      y: 41.0
+      z: -551.0
+      pitch: 0.0
+      yaw: 0.0
+    spawn:
+      world: BedWars
+      x: 285.54183242713583
+      y: 41.0
+      z: -554.4766525527654
+      pitch: 1.2000436782836914
+      yaw: -139.4991455078125
+    color: RED
+    name: Red
+    maxplayers: 1
+    bedhead:
+      world: BedWars
+      x: 292.0
+      y: 41.0
+      z: -550.0
+      pitch: 0.0
+      yaw: 0.0
+  Green:
+    ==: Team
+    bedfeed:
+      world: BedWars
+      x: 393.0
+      y: 41.0
+      z: -652.0
+      pitch: 0.0
+      yaw: 0.0
+    spawn:
+      world: BedWars
+      x: 389.9838052802329
+      y: 41.0
+      z: -644.1811304110719
+      pitch: 4.6500163078308105
+      yaw: -228.14910888671875
+    color: GREEN
+    name: Green
+    maxplayers: 1
+    bedhead:
+      world: BedWars
+      x: 394.0
+      y: 41.0
+      z: -652.0
+      pitch: 0.0
+      yaw: 0.0

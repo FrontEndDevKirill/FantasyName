@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: Dark
+timestamps:
+  login: 1499681980008
+  lastteleport: 1499682171613
+  logout: 1499635778630
+ipAddress: 82.117.245.191
+lastlocation:
+  world: ASkyBlock
+  x: -154.0
+  y: -276.64925018225017
+  z: -232.0
+  yaw: -24.000002
+  pitch: -10.650002
+afk: false
+unlimited: []
+nickname: Dark
+logoutlocation:
+  world: main
+  x: -79.28508715906403
+  y: 63.0
+  z: 231.5593301840448
+  yaw: 3.4497986
+  pitch: -0.30005667
+money: '228.0'

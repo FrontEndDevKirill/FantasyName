@@ -1,0 +1,33 @@
+lastAccountName: jafter156423
+timestamps:
+  login: 1485005745277
+  lastteleport: 1484981261083
+  logout: 1485007507260
+  kits:
+    start: 1484955284536
+ipAddress: 77.122.247.251
+lastlocation:
+  world: world
+  x: 366.6852274298919
+  y: 68.66763193196391
+  z: 902.1268817180833
+  yaw: -143.55463
+  pitch: 34.94999
+logoutlocation:
+  world: world
+  x: 378.2215383606267
+  y: 69.12926573716386
+  z: 891.6914216655988
+  yaw: 21.444132
+  pitch: 3.600094
+socialspy: false
+afk: false
+homes:
+  home:
+    world: world
+    x: 2646.3752405983537
+    y: 65.0
+    z: 845.1623530234757
+    yaw: -78.44936
+    pitch: 21.900002
+money: '21000.45'

@@ -1,0 +1,23 @@
+lastAccountName: fhnf
+timestamps:
+  login: 1500257070852
+  logout: 1500257075638
+  kits:
+    start: 1500255646970
+  lastteleport: 1500174545606
+ipAddress: 188.162.228.106
+lastlocation:
+  world: main
+  x: 30.480173180869084
+  y: 7.0
+  z: 240.03169112968163
+  yaw: 162.44992
+  pitch: 57.15
+logoutlocation:
+  world: main
+  x: 635.0
+  y: 9.5
+  z: 980.0
+  yaw: -141.00002
+  pitch: 78.149994
+socialspy: false

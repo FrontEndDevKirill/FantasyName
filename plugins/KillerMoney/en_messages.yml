@@ -1,0 +1,137 @@
+MESSAGE:
+    Prefix: "&8[ &fKillerMoney &8]"
+    ConfigReloaded: "Файл конфигураций был перезагружен"
+    NoPermission: "Вы не имеете права к этой команде!"
+
+PIG:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bсвинью&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+SHEEP:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bовцу&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+CHICKEN:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bкупицу&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+   
+COW:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bкорову&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"  
+        
+HORSE:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bлошадь&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+
+RABBIT:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bкролика&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+WOLF:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bволка&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+   
+OCELOT:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убилиn &bоцелота&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+       
+BAT:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bлетучую мышь&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+BLAZE:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bифрита&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+CAVE_SPIDER:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bпещерный паук&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+      
+CREEPER:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bКрипера&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+ENDER_DRAGON:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bдракона&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+ENDERMAN:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убилиn &bэндермена&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+
+ENDERMITE:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убилиn &bчешуйницу эндера7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+GHAST:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bгаста&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+GIANT:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bгиганта&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+
+GUARDIAN:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bстража&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+
+IRON_GOLEM:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убилиn &bжелезного голема&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+MAGMA_CUBE:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bлавовый куб&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+MUSHROOM_COW:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bгрибная корова&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+PIG_ZOMBIE:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bзомби-свиночеловека&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+PLAYER:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bPLAYER&7 (&b%victim&7)&b! &7Вы заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+    ToVictim: "&7Упс&b! &7вы потеряли &b%currency%money&7, потому-что вы убиты от &b%playername&7!"
+        
+SILVERFISH:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bчешуйницу&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+SKELETON:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bскелета&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+SLIME:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bслизня&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+
+SNOWMAN:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bснеговика&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+SPIDER:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bпаука&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+SQUID:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bСпрута&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+VILLAGER:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bжителя&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+       
+WITCH:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bведьму&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+WITHER:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bиссушителя&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"
+        
+ZOMBIE:
+    Positive: "&bПоздравляем &7%playername&b! &7вы убили &bзомби&7 и заработали: &b%currency%money"
+    Negative: "&bУпс! &7%playername&b, &7вы потеряли &b%currency%money"

@@ -1,0 +1,32 @@
+lastAccountName: YanS
+timestamps:
+  login: 1484945714484
+  logout: 1484946436210
+  lastheal: 1484938895521
+  lastteleport: 1484946007090
+ipAddress: 80.80.202.74
+lastlocation:
+  world: world
+  x: -1048.3604529503045
+  y: 58.0
+  z: -214.25599215659832
+  yaw: -237.75282
+  pitch: 15.749981
+logoutlocation:
+  world: world
+  x: -1037.7449118139675
+  y: 73.78904218061744
+  z: -209.8069013896482
+  yaw: 178.94635
+  pitch: 46.34999
+socialspy: false
+afk: false
+money: '239.720000000001'
+homes:
+  home:
+    world: world
+    x: 2698.7021659001525
+    y: 71.0
+    z: 850.7701289243121
+    yaw: 88.05073
+    pitch: 19.350012

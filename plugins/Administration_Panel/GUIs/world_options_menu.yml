@@ -1,0 +1,54 @@
+title: "&1Настройки мира"
+
+buttons:
+
+  0:
+  
+    type: TIME
+    
+    item: WATCH
+    
+    slot: 0
+    
+    title: "&2Изменить Время ..."
+    
+    permission: "change-time"
+    
+    lore:
+    
+      1: "&fИспользуйте что бы"
+      2: "&fизменить время."
+      
+  1:
+  
+    type: WEATHER
+    
+    item: WATCH
+    
+    slot: 1
+    
+    title: "&9Изменить Погоду ..."
+    
+    permission: "change-weather"
+    
+    lore:
+    
+      1: "&fИзпользуйте что бы"
+      2: "&fИзменить погоду."
+    
+  2:
+    
+    type: PLAYER_TIME
+    
+    item: WATCH
+    
+    slot: 2
+    
+    title: "&aCИзменить время игроку ..."
+    
+    permission: "change-time"
+    
+    lore:
+      
+      1: "&fИспользуйте что бы"
+      2: "&fизменить время игроку."

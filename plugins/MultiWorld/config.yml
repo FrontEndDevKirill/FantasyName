@@ -1,0 +1,114 @@
+# # options.debug: must the debug output be printed?
+# # options.difficulty: what is the server diffeculty?
+# # options.locale: what set of lang files must be used, supported: en_US, nl_NL, de_DE, it_IT
+# # spawnGroup: used to set withs worlds have what spawn, difficult to use. see official site for details
+options:
+  debug: false
+  difficulty: NORMAL
+  usecreativemode: false
+  usecreativemodeinv: true
+  blockEnderChestInCrea: false
+  useEndPortalHandler: false
+  useportalhandler: false
+  useWorldSpawnHandler: false
+  useWorldChatSeperator: false
+  craftbukkitHooks: true
+worlds:
+  ASkyBlock:
+    seed: 7211417751451658244
+    worldgen: Normal
+    options: ''
+    difficulty: EASY
+    autoload: true
+  ASkyBlock_nether:
+    seed: 5130010182938331852
+    worldgen: Nether
+    options: ''
+    difficulty: EASY
+    autoload: true
+  BedWars:
+    seed: 4852716725120896501
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  HG:
+    seed: 1786444811818789756
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  SkyWars:
+    seed: -3337812903726121565
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  carting:
+    seed: 9151145365936994671
+    worldgen: SuperFlat
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  creative:
+    seed: 4875957466979340071
+    worldgen: SuperFlat
+    options: ''
+    difficulty: PEACEFUL
+    autoload: true
+    flags:
+      CREATIVEWORLD: true
+  lobby:
+    seed: 6798541225522475852
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  lobby1:
+    seed: -7771342485745830286
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  lobby2:
+    seed: -4556232813610208730
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  main:
+    seed: 8419661600693686319
+    worldgen: Normal
+    options: ''
+    difficulty: PEACEFUL
+    autoload: true
+  minigames:
+    seed: 1146878957039619795
+    worldgen: Normal
+    options: ''
+    difficulty: PEACEFUL
+    autoload: true
+  survival:
+    seed: 4570462347090503602
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  world:
+    seed: -4603673054668157229
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  world_nether:
+    seed: -3005602080784247995
+    worldgen: Nether
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  world_the_end:
+    seed: -6285007306704416254
+    worldgen: The_End
+    options: ''
+    difficulty: NORMAL
+    autoload: true

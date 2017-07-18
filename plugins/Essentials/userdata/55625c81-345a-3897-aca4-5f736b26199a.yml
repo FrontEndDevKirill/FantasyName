@@ -1,0 +1,37 @@
+lastlocation:
+  world: world
+  x: -941.7431381432316
+  y: 77.5
+  z: -254.10739860871968
+  yaw: 96.95685
+  pitch: 31.350016
+lastAccountName: imalo
+timestamps:
+  login: 1485128958262
+  lastteleport: 1485111506872
+  kits:
+    firework: 1485014020822
+    premium: 1484918648299
+    start: 1485092543782
+    vip: 1485011240948
+    food: 1484902392617
+  logout: 1485129232418
+ipAddress: 93.125.23.18
+socialspy: false
+afk: false
+homes:
+  home:
+    world: world_the_end
+    x: 1981.699999988079
+    y: 158.5
+    z: -2795.699999988079
+    yaw: 68.67996
+    pitch: 35.85008
+logoutlocation:
+  world: world
+  x: -948.3281898502261
+  y: 67.0
+  z: -261.09727801606266
+  yaw: 41.850044
+  pitch: 9.450001
+money: '187141.77'

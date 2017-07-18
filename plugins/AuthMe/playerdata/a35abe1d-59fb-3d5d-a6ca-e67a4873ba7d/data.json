@@ -1,0 +1,15 @@
+{
+  "group": "default",
+  "location": {
+    "world": "main",
+    "x": -79.46954241524969,
+    "y": 64.0,
+    "z": 265.1026378013171,
+    "yaw": 179.54988,
+    "pitch": 8.699949
+  },
+  "operator": false,
+  "can-fly": false,
+  "walk-speed": 0.2,
+  "fly-speed": 0.1
+}

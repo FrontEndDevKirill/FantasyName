@@ -1,0 +1,101 @@
+donatesur:
+  location: survival, 19.576, 67.988, 244.541
+  lines:
+  - '&4&l[&2&l/DONATE&4&l]'
+  - '&6&l---------------------------'
+  - '&7&l[FLY] - 10p'
+  - '&d&l[VIP] - 30p'
+  - '&e&l[PREMIUM] - 50p'
+  - '&a&l[CREATIVE] - 70p'
+  - '&2&l[CREATIVE+] - 90p'
+  - '&c&l[MODERATOR] - 100p'
+  - '&5&l[GOD] - 200p'
+  - '&4&l[ADMIN] - 300p'
+  - '&6&l---------------------------'
+  - '&b&l[DONATECASE] - 30p'
+  - '&6&l---------------------------'
+  - '&f&l[fantasy-mine.mcdonate.ru]'
+survival:
+  location: main, 632.466, 13.000, 973.642
+  lines:
+  - '&a&lSURVIVAL'
+minigames:
+  location: main, 643.672, 13.000, 984.456
+  lines:
+  - '&c&lMINIGAMES'
+skyblock:
+  location: main, 621.542, 13.000, 984.533
+  lines:
+  - '&b&lSKYBLOCK'
+survival2:
+  location: main, 632.518, 13.000, 995.525
+  lines:
+  - '&a&lSURVIVAL'
+d1:
+  location: main, 638.381, 15.000, 990.416
+  lines:
+  - '&4&l[&2&l/DONATE&4&l]'
+  - '&6&l---------------------------'
+  - '&7&l[FLY] - 10p'
+  - '&d&l[VIP] - 30p'
+  - '&e&l[PREMIUM] - 50p'
+  - '&a&l[CREATIVE] - 70p'
+  - '&2&l[CREATIVE+] - 90p'
+  - '&c&l[MODERATOR] - 100p'
+  - '&5&l[GOD] - 200p'
+  - '&4&l[ADMIN] - 300p'
+  - '&6&l---------------------------'
+  - '&b&l[DONATECASE] - 30p'
+  - '&6&l---------------------------'
+  - '&f&l[fantasy-mine.mcdonate.ru]'
+d2:
+  location: main, 626.402, 15.000, 990.610
+  lines:
+  - '&4&l[&2&l/DONATE&4&l]'
+  - '&6&l---------------------------'
+  - '&7&l[FLY] - 10p'
+  - '&d&l[VIP] - 30p'
+  - '&e&l[PREMIUM] - 50p'
+  - '&a&l[CREATIVE] - 70p'
+  - '&2&l[CREATIVE+] - 90p'
+  - '&c&l[MODERATOR] - 100p'
+  - '&5&l[GOD] - 200p'
+  - '&4&l[ADMIN] - 300p'
+  - '&6&l---------------------------'
+  - '&b&l[DONATECASE] - 30p'
+  - '&6&l---------------------------'
+  - '&f&l[fantasy-mine.mcdonate.ru]'
+d3:
+  location: main, 638.461, 15.000, 978.537
+  lines:
+  - '&4&l[&2&l/DONATE&4&l]'
+  - '&6&l---------------------------'
+  - '&7&l[FLY] - 10p'
+  - '&d&l[VIP] - 30p'
+  - '&e&l[PREMIUM] - 50p'
+  - '&a&l[CREATIVE] - 70p'
+  - '&2&l[CREATIVE+] - 90p'
+  - '&c&l[MODERATOR] - 100p'
+  - '&5&l[GOD] - 200p'
+  - '&4&l[ADMIN] - 300p'
+  - '&6&l---------------------------'
+  - '&b&l[DONATECASE] - 30p'
+  - '&6&l---------------------------'
+  - '&f&l[fantasy-mine.mcdonate.ru]'
+d4:
+  location: main, 626.494, 15.000, 978.476
+  lines:
+  - '&4&l[&2&l/DONATE&4&l]'
+  - '&6&l---------------------------'
+  - '&7&l[FLY] - 10p'
+  - '&d&l[VIP] - 30p'
+  - '&e&l[PREMIUM] - 50p'
+  - '&a&l[CREATIVE] - 70p'
+  - '&2&l[CREATIVE+] - 90p'
+  - '&c&l[MODERATOR] - 100p'
+  - '&5&l[GOD] - 200p'
+  - '&4&l[ADMIN] - 300p'
+  - '&6&l---------------------------'
+  - '&b&l[DONATECASE] - 30p'
+  - '&6&l---------------------------'
+  - '&f&l[fantasy-mine.mcdonate.ru]'

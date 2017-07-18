@@ -1,0 +1,270 @@
+name: bw
+world: BedWars
+loc1:
+  world: BedWars
+  x: 173.18320069413247
+  y: 64.8913466135477
+  z: -773.5019870473818
+  pitch: 14.100013732910156
+  yaw: 319.0498046875
+loc2:
+  world: BedWars
+  x: 403.0363581921441
+  y: -21.338283081036906
+  z: -530.3839941934802
+  pitch: -10.799994468688965
+  yaw: 136.7987060546875
+lobby:
+  world: BedWars
+  x: 292.4453944131621
+  y: 103.0
+  z: -651.3371692861704
+  pitch: 7.800014972686768
+  yaw: 268.8044738769531
+minplayers: 2
+record: 49
+record-holders:
+- Fhavyre
+regionname: BedWars
+time: 1000
+targetmaterial: BED_BLOCK
+mainlobby:
+  world: minigames
+  x: -269.0
+  y: 67.0
+  z: -87.0
+  pitch: 13.35000991821289
+  yaw: 0.9000002145767212
+autobalance: false
+spawner:
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: BedWars
+    x: 285.4865056551774
+    y: 41.0
+    z: -554.6036238522037
+    pitch: 89.69999694824219
+    yaw: 179.70074462890625
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: BedWars
+    x: 288.4804477369104
+    y: 41.0
+    z: -559.6197661761556
+    pitch: 90.0
+    yaw: 175.65106201171875
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: BedWars
+    x: 389.5490253910021
+    y: 41.0
+    z: -644.4758143088657
+    pitch: 84.60010528564453
+    yaw: 87.449951171875
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: BedWars
+    x: 384.5896029670361
+    y: 41.0
+    z: -647.5166996548978
+    pitch: 87.4499740600586
+    yaw: 85.34912109375
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: BedWars
+    x: 296.45214409172434
+    y: 41.0
+    z: -743.5348979430627
+    pitch: 88.19998168945312
+    yaw: 352.6484375
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: BedWars
+    x: 299.4568399335916
+    y: 41.0
+    z: -748.6629336325764
+    pitch: 90.0
+    yaw: 179.3975830078125
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: BedWars
+    x: 200.4195205948364
+    y: 41.0
+    z: -655.5989302272886
+    pitch: 90.0
+    yaw: 205.0494384765625
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: BedWars
+    x: 195.50564617578388
+    y: 41.0
+    z: -658.4185316807731
+    pitch: 88.34998321533203
+    yaw: 161.3992919921875
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: BedWars
+    x: 288.57783183703924
+    y: 41.0
+    z: -559.5760677209475
+    pitch: 89.69999694824219
+    yaw: 110.699462890625
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: BedWars
+    x: 285.55393803098355
+    y: 41.0
+    z: -554.4153588533923
+    pitch: 90.0
+    yaw: 48.2999267578125
+- ==: RessourceSpawner
+  name: gold
+  location:
+    world: BedWars
+    x: 292.3825099770913
+    y: 41.0
+    z: -644.5579034273885
+    pitch: 90.0
+    yaw: 178.949951171875
+- ==: RessourceSpawner
+  name: gold
+  location:
+    world: BedWars
+    x: 299.4519657299462
+    y: 41.0
+    z: -651.5711825835743
+    pitch: 85.65005493164062
+    yaw: 216.89990234375
+- ==: RessourceSpawner
+  name: gold
+  location:
+    world: BedWars
+    x: 292.4576563349091
+    y: 41.0
+    z: -658.5215266417346
+    pitch: 90.0
+    yaw: 84.5986328125
+- ==: RessourceSpawner
+  name: gold
+  location:
+    world: BedWars
+    x: 285.4685806984496
+    y: 41.0
+    z: -651.3769048076193
+    pitch: 90.0
+    yaw: 41.9993896484375
+teams:
+  Red:
+    ==: Team
+    bedfeed:
+      world: BedWars
+      x: 292.0
+      y: 41.0
+      z: -551.0
+      pitch: 0.0
+      yaw: 0.0
+    spawn:
+      world: BedWars
+      x: 291.37713596732647
+      y: 41.0
+      z: -547.3000000119209
+      pitch: 1.7999694347381592
+      yaw: 182.3993682861328
+    color: RED
+    name: Red
+    maxplayers: 5
+    bedhead:
+      world: BedWars
+      x: 292.0
+      y: 41.0
+      z: -550.0
+      pitch: 0.0
+      yaw: 0.0
+  Blue:
+    ==: Team
+    bedfeed:
+      world: BedWars
+      x: 292.0
+      y: 41.0
+      z: -753.0
+      pitch: 0.0
+      yaw: 0.0
+    spawn:
+      world: BedWars
+      x: 293.3174124785938
+      y: 41.0
+      z: -755.6999999880791
+      pitch: 4.799988269805908
+      yaw: -1.350484013557434
+    color: BLUE
+    name: Blue
+    maxplayers: 5
+    bedhead:
+      world: BedWars
+      x: 292.0
+      y: 41.0
+      z: -754.0
+      pitch: 0.0
+      yaw: 0.0
+  Yellow:
+    ==: Team
+    bedfeed:
+      world: BedWars
+      x: 191.0
+      y: 41.0
+      z: -652.0
+      pitch: 0.0
+      yaw: 0.0
+    spawn:
+      world: BedWars
+      x: 188.30000001192093
+      y: 41.0
+      z: -652.7333720293045
+      pitch: 6.899968147277832
+      yaw: -90.15062713623047
+    color: YELLOW
+    name: Yellow
+    maxplayers: 5
+    bedhead:
+      world: BedWars
+      x: 190.0
+      y: 41.0
+      z: -652.0
+      pitch: 0.0
+      yaw: 0.0
+  Green:
+    ==: Team
+    bedfeed:
+      world: BedWars
+      x: 393.0
+      y: 41.0
+      z: -652.0
+      pitch: 0.0
+      yaw: 0.0
+    spawn:
+      world: BedWars
+      x: 396.69999998807907
+      y: 41.0
+      z: -650.2434821870802
+      pitch: 2.8499693870544434
+      yaw: 91.3492431640625
+    color: GREEN
+    name: Green
+    maxplayers: 5
+    bedhead:
+      world: BedWars
+      x: 394.0
+      y: 41.0
+      z: -652.0
+      pitch: 0.0
+      yaw: 0.0

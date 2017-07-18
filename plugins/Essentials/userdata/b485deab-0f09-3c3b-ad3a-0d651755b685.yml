@@ -1,0 +1,22 @@
+lastAccountName: Volk0909
+timestamps:
+  login: 1500168403667
+  kits:
+    start: 1500164317818
+  logout: 1500168413014
+ipAddress: 46.173.163.238
+lastlocation:
+  world: world
+  x: 2380.5
+  y: 87.0
+  z: 875.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: main
+  x: -72.12298335314895
+  y: 7.0
+  z: 297.23896130135245
+  yaw: 9.450001
+  pitch: 18.3
+socialspy: false

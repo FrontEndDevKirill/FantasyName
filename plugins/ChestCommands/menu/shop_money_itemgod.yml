@@ -1,0 +1,36 @@
+menu-settings:
+
+  name: '&6[+] Торговец [+]'
+
+  rows: 2
+
+
+block_1:
+  COMMAND: 'console: give {player} 322 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_itemgod.yml'
+  PRICE: 500
+  NAME: '&7Золотое яблоко: 1 шт.'
+  LORE:
+    - '&7Цена: &6500 &7$'
+  ID: '322, 1'
+  POSITION-X: 1
+  POSITION-Y: 1
+
+
+block_2:
+  COMMAND: 'console: give {player} 384 16; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_itemgod.yml'
+  PRICE: 4000
+  NAME: '&7Пузырек опыта: 16 шт.'
+  LORE:
+    - '&7Цена: &64000 &7$'
+  ID: '384, 16'
+  POSITION-X: 2
+  POSITION-Y: 1
+
+back:
+  COMMAND: 'open:shop.yml; sound: ENTITY_ARROW_SHOOT, 3.0, 3.0'
+  NAME: '&aВернуться...'
+  ID: 381
+  POSITION-X: 5
+  POSITION-Y: 2
+
+

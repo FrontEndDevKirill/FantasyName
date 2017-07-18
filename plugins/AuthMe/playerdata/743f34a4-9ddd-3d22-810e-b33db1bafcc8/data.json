@@ -1,0 +1,15 @@
+{
+  "group": "glav",
+  "location": {
+    "world": "survival",
+    "x": 2185.481634235453,
+    "y": 63.0,
+    "z": -6948.345781174268,
+    "yaw": 76.20093,
+    "pitch": 17.699831
+  },
+  "operator": true,
+  "can-fly": true,
+  "walk-speed": 0.19991614,
+  "fly-speed": 0.09995807
+}

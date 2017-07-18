@@ -1,0 +1,22 @@
+lastAccountName: SnowBlock
+timestamps:
+  login: 1500174386707
+  kits:
+    start: 1500174548580
+  lastteleport: 1500174597725
+  logout: 1500174677493
+ipAddress: 37.150.3.15
+lastlocation:
+  world: main
+  x: 633.1769651802865
+  y: 9.0
+  z: 990.1239188373695
+  yaw: -158.25168
+  pitch: -20.250013
+logoutlocation:
+  world: survival
+  x: 17.8214832145471
+  y: 64.0625
+  z: 243.68656424991326
+  yaw: -168.89743
+  pitch: 10.649947

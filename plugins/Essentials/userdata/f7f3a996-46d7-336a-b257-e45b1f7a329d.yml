@@ -1,0 +1,26 @@
+lastAccountName: admintest
+timestamps:
+  login: 1500151701661
+  lastteleport: 1499586568855
+  logout: 1500151860908
+  lastheal: 1498991700840
+  kits:
+    start: 1499187743547
+ipAddress: 91.222.251.50
+lastlocation:
+  world: minigames
+  x: -1582.8741573365796
+  y: 118.0
+  z: 1772.7761504374002
+  yaw: 353.99976
+  pitch: -0.7499281
+socialspy: false
+afk: false
+logoutlocation:
+  world: minigames
+  x: -269.0
+  y: 67.0
+  z: -87.0
+  yaw: -1.8000004
+  pitch: 73.35001
+money: '736.8900000000001'

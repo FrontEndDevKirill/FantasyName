@@ -1,0 +1,81 @@
+title: "&7Выбор времени"
+
+slots: 9
+
+buttons:
+
+  0:
+
+    item: WATCH
+
+    title: "Утро"
+
+    slot: 0
+
+    ticks: 23000
+
+    permission: "change-time"
+
+    lore:
+    
+      1: "&fSets the time in"
+      2: "&fthe current world"
+      3: "&fto morning time."
+      4: "&f(23000 ticks)"
+      
+  1:
+  
+    item: WATCH
+    
+    title: "День"
+    
+    slot: 1
+    
+    ticks: 0
+    
+    permission: "change-time"
+    
+    lore:
+    
+      1: "&fSets the time in"
+      2: "&fthe current world"
+      3: "&fto noon time."
+      4: "&f(0 ticks)"
+      
+  2:
+
+    item: WATCH
+
+    title: "Вечер"
+
+    slot: 2
+
+    ticks: 13000
+
+    permission: "change-time"
+
+    lore:
+    
+      1: "&fSets the time in"
+      2: "&fthe current world"
+      3: "&fto evening time."
+      4: "&f(12500 ticks)"
+      
+  3:
+
+    item: WATCH
+
+    title: "Ночь"
+
+    slot: 3
+
+    ticks: 14500
+
+    permission: "change-time"
+
+    lore:
+    
+      1: "&fSets the time in"
+      2: "&fthe current world"
+      3: "&fto night time."
+      4: "&f(14500 ticks)"

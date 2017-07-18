@@ -1,0 +1,33 @@
+permission: ''
+world: world
+X: 2345
+Y: 80
+Z: 904
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /tp <name> 2339 117 904
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+heldItems: []
+hi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+cancel_mode: ALWAYS
+confirmationMessage: ''
+loops: -1
+loop_delay: 1
+uses_limit: 0
+uses_tally: 0

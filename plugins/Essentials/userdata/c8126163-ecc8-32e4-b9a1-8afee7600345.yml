@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: laggerden
+timestamps:
+  login: 1500231300664
+  lastteleport: 1500231758431
+  kits:
+    premium: 1500231593164
+    start: 1500061451232
+  logout: 1500231794186
+ipAddress: 91.77.251.119
+lastlocation:
+  world: ASkyBlock
+  x: -169.96789574212994
+  y: 234.5
+  z: -211.3936020728851
+  yaw: -169.9502
+  pitch: -9.299998
+money: '1199.72'
+homes:
+  home:
+    world: survival
+    x: 2108.7523348211853
+    y: 65.0
+    z: -7322.091539327165
+    yaw: 270.3329
+    pitch: 1.6500256
+logoutlocation:
+  world: survival
+  x: 2131.283812335336
+  y: 73.18187038724776
+  z: -7337.906687724872
+  yaw: -249.267
+  pitch: 6.150027
+afk: false

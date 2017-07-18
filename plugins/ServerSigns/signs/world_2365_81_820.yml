@@ -1,0 +1,34 @@
+permission: ''
+world: world
+X: 2365
+Y: 81
+Z: 820
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /money take <name> 1000000
+- /enchant all
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+heldItems: []
+hi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+cancel_mode: ALWAYS
+confirmationMessage: ''
+loops: -1
+loop_delay: 1
+uses_limit: 0
+uses_tally: 0

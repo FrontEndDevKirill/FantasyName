@@ -1,0 +1,15 @@
+{
+  "group": "Helperbuilder",
+  "location": {
+    "world": "survival",
+    "x": 2124.4991048953875,
+    "y": 102.73683579995291,
+    "z": -7330.945829071635,
+    "yaw": 85.4998,
+    "pitch": 35.250004
+  },
+  "operator": false,
+  "can-fly": true,
+  "walk-speed": 0.2,
+  "fly-speed": 0.1
+}

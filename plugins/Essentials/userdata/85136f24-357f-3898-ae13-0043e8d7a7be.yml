@@ -1,0 +1,45 @@
+socialspy: false
+lastAccountName: Fhavyre
+timestamps:
+  login: 1500276076239
+  logout: 1500238248056
+  kits:
+    firework: 1500042388351
+    donor: 1484517321617
+    premium: 1500137249327
+    color: 1500042327328
+    bonus: 1484508628449
+    start: 1500134161501
+    notch: 1500042317323
+    vip: 1500139289788
+    dtools: 1500042309109
+    pro: 1500044018444
+    tools: 1500042302359
+    food: 1497893733045
+  lastteleport: 1500238242975
+ipAddress: 82.117.245.191
+lastlocation:
+  world: main
+  x: 632.7036147387381
+  y: 9.0
+  z: 986.6847160593147
+  yaw: 357.1474
+  pitch: -0.3000997
+logoutlocation:
+  world: main
+  x: 633.0086110267466
+  y: 22.855928599570337
+  z: 983.0821163519579
+  yaw: -21.749908
+  pitch: 60.600006
+godmode: false
+afk: false
+money: '6405349.590000001'
+homes:
+  home:
+    world: carting
+    x: 10593.57578071778
+    y: 70.79999999105931
+    z: -14504.955576869901
+    yaw: -192.71411
+    pitch: -0.30004925

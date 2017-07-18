@@ -1,0 +1,31 @@
+spleef:
+  arenas:
+    arenano: 1
+    '1':
+      enabled: true
+      warps:
+        join:
+          world: minigames
+          x: 14418
+          y: 77
+          z: -9625
+        lose:
+          world: minigames
+          x: -269
+          y: 67
+          z: -87
+        win:
+          world: minigames
+          x: -269
+          y: 67
+          z: -87
+      floorno: 1
+      floor:
+        '1':
+          world: minigames
+          x1: 14433
+          y1: 75
+          z1: -9616
+          x2: 14404
+          y2: 75
+          z2: -9635

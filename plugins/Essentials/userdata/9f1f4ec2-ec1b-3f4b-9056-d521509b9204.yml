@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: lolololog
+timestamps:
+  login: 1499675818229
+  lastteleport: 1499676172901
+  logout: 1499676529053
+ipAddress: 82.117.245.191
+lastlocation:
+  world: creative
+  x: -343.90751100946824
+  y: 4.0
+  z: 466.0232877476648
+  yaw: 48.450226
+  pitch: -13.199964
+logoutlocation:
+  world: creative
+  x: -356.0042186432797
+  y: 4.0
+  z: 458.41480650612425
+  yaw: 159.30017
+  pitch: -29.549988
+money: '254.0'

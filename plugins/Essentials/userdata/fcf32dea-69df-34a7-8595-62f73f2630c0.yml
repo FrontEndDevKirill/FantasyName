@@ -1,0 +1,22 @@
+lastAccountName: AnimePro
+timestamps:
+  login: 1500180986944
+  lastteleport: 1500181009969
+  kits:
+    start: 1500181045019
+  logout: 1500181081427
+ipAddress: 178.91.18.220
+lastlocation:
+  world: main
+  x: -68.70226165399582
+  y: 7.0
+  z: 279.8445285250086
+  yaw: -182.69998
+  pitch: 23.55001
+logoutlocation:
+  world: survival
+  x: -19.054646858830324
+  y: 64.0
+  z: 241.27958794925345
+  yaw: 276.45233
+  pitch: 12.299947

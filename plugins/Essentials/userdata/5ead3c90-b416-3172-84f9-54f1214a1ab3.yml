@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: _Jurik_
+timestamps:
+  login: 1499865087307
+  lastteleport: 1499865148099
+  logout: 1499865292858
+ipAddress: 176.110.44.51
+lastlocation:
+  world: main
+  x: -95.21425317051695
+  y: 68.0
+  z: 222.19436557288083
+  yaw: -287.88052
+  pitch: 25.548061
+money: '33.0'
+logoutlocation:
+  world: main
+  x: 60.39738735762427
+  y: 65.0
+  z: 10.46793442557932
+  yaw: 88.45655
+  pitch: 51.266106

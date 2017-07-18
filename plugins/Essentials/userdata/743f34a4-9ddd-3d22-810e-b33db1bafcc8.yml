@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: Vlad_Filatov
+timestamps:
+  login: 1500118803097
+  logout: 1500119159477
+  lastteleport: 1500109685303
+  kits:
+    vip: 1500058609712
+ipAddress: 91.193.173.3
+lastlocation:
+  world: main
+  x: 14471.432089728332
+  y: 7.0
+  z: -1859.6201025815492
+  yaw: -151.50052
+  pitch: 26.400011
+logoutlocation:
+  world: survival
+  x: 2185.481634235453
+  y: 63.0
+  z: -6948.345781174268
+  yaw: 76.20093
+  pitch: 17.699831
+afk: false
+money: '380.0'

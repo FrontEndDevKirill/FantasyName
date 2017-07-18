@@ -1,0 +1,21 @@
+lastAccountName: KRAFTER
+timestamps:
+  login: 1485009346167
+  logout: 1485009390107
+  lastteleport: 1484924153026
+ipAddress: 95.57.241.78
+lastlocation:
+  world: world
+  x: -1017.0530033219376
+  y: 63.0
+  z: -214.44993543586784
+  yaw: -129.5974
+  pitch: 13.35012
+logoutlocation:
+  world: world
+  x: -1033.9443218341999
+  y: 63.0
+  z: -237.7703683892934
+  yaw: 1.0526123
+  pitch: 27.750122
+socialspy: false

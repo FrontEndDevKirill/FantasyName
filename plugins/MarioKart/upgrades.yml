@@ -1,0 +1,39 @@
+upgrades:
+  speedBurstI:
+    name: Speed Burst I (5s)
+    id: aa
+    type: SPEED_BOOST
+    item: APPLE
+    length: 5000
+    power: 10.0
+    useItem: true
+    useUpgrade: true
+    price: 3.0
+  speedBurstII:
+    name: Speed Burst II (10s)
+    id: ab
+    type: SPEED_BOOST
+    item: CARROT_ITEM
+    length: 10000
+    power: 13.0
+    useItem: true
+    useUpgrade: true
+    price: 6.0
+  immunityI:
+    name: Immunity I (5s)
+    id: ac
+    type: IMMUNITY
+    item: IRON_HELMET
+    length: 5000
+    useItem: true
+    useUpgrade: true
+    price: 6.0
+  immunityII:
+    name: Immunity II (10s)
+    id: ad
+    type: IMMUNITY
+    item: GOLD_HELMET
+    length: 10000
+    useItem: true
+    useUpgrade: true
+    price: 12.0

@@ -1,0 +1,19 @@
+## SignColorz Configuration ##
+#
+# If you don't want everybody to be able to create colored signs, set this to true.
+# If you want everybody to be able to use the colored signs, set this to false.
+# Permission if set to true: 'sc.coloredsigns'
+permission_based: false
+#
+# What message should be displayed if the player hasn't got the permission and 'permission_based' is set to true?
+# Color codes can also be used.
+permission_message: '&4 You are not allowed to color signs.'
+#
+# If you don't want everybody to be able to create signs with magic font, set this to true.
+# If you want everybody to be able to use the signs with magic font, set this to false.
+# Permission if set to true: 'sc.magic'
+magic_permission_based: false
+#
+# What message should be displayed if the player hasn't got the permission to write with magic font and 'magic_permission_based' is set to true?
+# Color codes can also be used.
+magic_permission_message: '&4 You are not allowed to use magic font on signs.'

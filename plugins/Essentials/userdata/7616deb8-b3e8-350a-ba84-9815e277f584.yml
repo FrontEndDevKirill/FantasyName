@@ -1,0 +1,23 @@
+lastAccountName: PetiliLuna
+timestamps:
+  login: 1500173341496
+  lastteleport: 1500172689252
+  kits:
+    start: 1500172753955
+  logout: 1500173363245
+ipAddress: 37.23.131.136
+lastlocation:
+  world: main
+  x: -72.62036863346167
+  y: 7.0
+  z: 262.43040726157454
+  yaw: -24.299992
+  pitch: 9.900003
+logoutlocation:
+  world: main
+  x: 635.1876486871076
+  y: 10.0
+  z: 988.2506108025048
+  yaw: 121.648285
+  pitch: 28.049982
+socialspy: false

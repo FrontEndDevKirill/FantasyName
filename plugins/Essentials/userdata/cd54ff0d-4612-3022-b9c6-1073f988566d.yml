@@ -1,0 +1,36 @@
+lastAccountName: vaag
+timestamps:
+  login: 1484985732436
+  logout: 1484986133891
+  kits:
+    premium: 1484933679947
+    start: 1484934305733
+    vip: 1484933686898
+    food: 1484933967067
+  lastteleport: 1484934517506
+ipAddress: 37.157.217.235
+lastlocation:
+  world: world_the_end
+  x: 31.81427514145681
+  y: 94.0592373329619
+  z: -21.074732687342088
+  yaw: -143.6998
+  pitch: 42.29995
+logoutlocation:
+  world: world
+  x: -934.7392492649574
+  y: 81.71241568554166
+  z: -203.68740993587934
+  yaw: -336.0003
+  pitch: 34.80004
+socialspy: false
+afk: false
+godmode: false
+homes:
+  home:
+    world: world
+    x: 1937.8940089989208
+    y: 88.0
+    z: -1794.4246871011214
+    yaw: 76.34938
+    pitch: 57.30001

@@ -1,0 +1,563 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '                 &0&nМеню'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'menu; m; меню'
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+1:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 5
+  POSITION-Y: 1
+2:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 5
+  POSITION-Y: 2
+3:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 5
+  POSITION-Y: 3
+4:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 5
+  POSITION-Y: 4
+5:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 5
+  POSITION-Y: 5
+6:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 5
+  POSITION-Y: 6
+7:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 4
+  POSITION-Y: 1
+8:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lМеню полезностей &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 278
+  POSITION-X: 3
+  POSITION-Y: 1
+9:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 2
+  POSITION-Y: 1
+10:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 1
+11:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 2
+12:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 3
+13:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 4
+14:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 5
+15:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 6
+16:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 2
+  POSITION-Y: 6
+17:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 3
+  POSITION-Y: 6
+18:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 4
+  POSITION-Y: 6
+19:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 6
+  POSITION-Y: 6
+20:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 7
+  POSITION-Y: 6
+21:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 8
+  POSITION-Y: 6
+22:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 6
+23:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 5
+24:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 4
+25:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 3
+26:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 2
+27:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 1
+28:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 8
+  POSITION-Y: 1
+29:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lМеню донатеров &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 276
+  POSITION-X: 7
+  POSITION-Y: 1
+30:
+  COMMAND: ''
+  ENCHANTMENT: 'fire aspect, 1'
+  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: stained_glass_pane:15
+  POSITION-X: 6
+  POSITION-Y: 1
+31:
+  COMMAND: 'spawn'
+  NAME: '&c&l☻ &a&lНа спавн &c&l☻'
+  LORE:
+    - '&3&l/spawn'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 345
+  POSITION-X: 2
+  POSITION-Y: 2
+32:
+  COMMAND: 'home'
+  NAME: '&c&l۩ &5&lДомой &c&l۩'
+  LORE:
+    - '&3&l/home'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 355
+  POSITION-X: 3
+  POSITION-Y: 2
+33:
+  COMMAND: 'kit start'
+  NAME: '&c&l■ &5&lПолучить kit &c&l■'
+  LORE:
+    - '&3&l/kit start'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 268
+  POSITION-X: 2
+  POSITION-Y: 3
+34:
+  COMMAND: 'kit food'
+  NAME: '&c&l■ &5&lПолучить еду &c&l■'
+  LORE:
+    - '&3&l/kit food'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 260
+  POSITION-X: 3
+  POSITION-Y: 3
+35:
+  COMMAND: 'open: lobby.yml'
+  NAME: '&c&l■ &1&lМеню выбора лоби &c&l■'
+  LORE:
+    - '&3&l/lobby'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 387
+  POSITION-X: 4
+  POSITION-Y: 2
+36:
+  COMMAND: 'open: shop.yml'
+  NAME: '&c&l■ &3&lМагазин &c&l■'
+  LORE:
+    - '&3&l/shop'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 38
+  POSITION-X: 4
+  POSITION-Y: 3
+37:
+  COMMAND: 'open: donate.yml'
+  NAME: '&c&l■ &4&lДонат Привилегии &c&l■'
+  LORE:
+    - '&3&l/donate'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 352
+  POSITION-X: 4
+  POSITION-Y: 4
+38:
+  COMMAND: 'open: donate2.yml'
+  NAME: '&c&l■ &2&lДонат Услуги &c&l■'
+  LORE:
+    - '&3&l/donate2'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 289
+  POSITION-X: 4
+  POSITION-Y: 5
+39:
+  COMMAND: 'warp pvp'
+  NAME: '&c&l■ &6&lPVP Arena &c&l■'
+  LORE:
+    - '&3&l/warp pvp'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 267
+  POSITION-X: 2
+  POSITION-Y: 4
+40:
+  COMMAND: 'warp mine'
+  NAME: '&c&l■ &6&lАвто Шахта &c&l■'
+  LORE:
+    - '&3&l/warp mine'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 257
+  POSITION-X: 3
+  POSITION-Y: 4
+41:
+  COMMAND: 'code WinnyLaPooh'
+  NAME: '&c&l■ &6&lПолучить PRO безплатно &c&l■'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 57
+  POSITION-X: 2
+  POSITION-Y: 5
+42:
+  COMMAND: 'warp city'
+  NAME: '&c&l■ &6&lГород &c&l■'
+  LORE:
+    - '&9В городе ты можешь купить или арендовать себе дом'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 388
+  POSITION-X: 3
+  POSITION-Y: 5
+#Донат меню
+43:
+  COMMAND: 'kit pro'
+  NAME: '&c&l■ &7&lНабор PRO &c&l■'
+  LORE:
+    - '&9/kit pro'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 280
+  POSITION-X: 6
+  POSITION-Y: 2
+44:
+  COMMAND: 'kit fly'
+  NAME: '&c&l■ &6&lНабор FLY &c&l■'
+  LORE:
+    - '&9/kit fly'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 288
+  POSITION-X: 6
+  POSITION-Y: 3
+45:
+  COMMAND: 'kit vip'
+  NAME: '&c&l■ &d&lНабор VIP &c&l■'
+  LORE:
+    - '&9/kit vip'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 266
+  POSITION-X: 6
+  POSITION-Y: 4
+46:
+  COMMAND: 'kit premium'
+  NAME: '&c&l■ &b&lНабор PREMIUM &c&l■'
+  LORE:
+    - '&9/kit premium'
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 264
+  POSITION-X: 6
+  POSITION-Y: 5
+47:
+  COMMAND: 'fly'
+  NAME: '&c&l■ &1&lВключить FLY &c&l■'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 326
+  POSITION-X: 7
+  POSITION-Y: 2
+48:
+  COMMAND: 'god'
+  NAME: '&c&l■ &8&lВключить GOD &c&l■'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 327
+  POSITION-X: 7
+  POSITION-Y: 3
+49:
+  COMMAND: 'heal'
+  NAME: '&c&l■ &5&lВылечить себя &c&l■'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 322
+  POSITION-X: 7
+  POSITION-Y: 4
+50:
+  COMMAND: 'clear'
+  NAME: '&c&l■ &3&lОтчистить инвентарь &c&l■'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 339
+  POSITION-X: 7
+  POSITION-Y: 5
+51:
+  COMMAND: 'gm 0'
+  NAME: '&c&l■ &6&lВключить режим выживания /gm 0 &c&l■'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 2256
+  POSITION-X: 8
+  POSITION-Y: 3
+52:
+  COMMAND: 'gm 1'
+  NAME: '&c&l■ &6&lВключить режим креатива /gm 1 &c&l■'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 2257
+  POSITION-X: 8
+  POSITION-Y: 2
+53:
+  COMMAND: 'gm 2'
+  NAME: '&c&l■ &6&lВключить режим приключения /gm 2 &c&l■'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 2259
+  POSITION-X: 8
+  POSITION-Y: 4
+54:
+  COMMAND: 'gm 3'
+  NAME: '&c&l■ &6&lВключить режим наблюдателя /gm 3 &c&l■'
+  LORE:
+    - '&6Сайт Авто-Доната:'
+    - '&a&lfantasy-mine.mcdonate.ru'
+  ID: 2264
+  POSITION-X: 8
+  POSITION-Y: 5

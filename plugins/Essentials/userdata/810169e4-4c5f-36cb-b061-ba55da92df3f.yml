@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: kiril2548
+timestamps:
+  login: 1498050772492
+  lastteleport: 1485138203223
+  logout: 1498050663099
+  kits:
+    firework: 1484566936259
+    premium: 1485088949282
+    start: 1484566819288
+    vip: 1485088877681
+    food: 1484566927500
+ipAddress: 25.39.230.76
+lastlocation:
+  world: world
+  x: -1033.9443218341999
+  y: 63.0
+  z: -237.7703683892934
+  yaw: 1.0526123
+  pitch: 27.750122
+money: '6731.69'
+logoutlocation:
+  world: world
+  x: -1033.9443218341999
+  y: 63.0
+  z: -237.7703683892934
+  yaw: 1.0526123
+  pitch: 27.750122
+afk: false

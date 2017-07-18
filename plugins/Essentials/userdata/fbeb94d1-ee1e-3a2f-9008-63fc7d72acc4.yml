@@ -1,0 +1,25 @@
+lastAccountName: magister835
+timestamps:
+  login: 1500174800187
+  kits:
+    start: 1500173059227
+  logout: 1500174952743
+  lastheal: 1500174472560
+  lastteleport: 1500174554832
+ipAddress: 188.212.44.78
+lastlocation:
+  world: world
+  x: 100009.6175797896
+  y: 270.6867673773959
+  z: 100056.37709401363
+  yaw: -23.849998
+  pitch: 33.15001
+money: '932.31'
+logoutlocation:
+  world: main
+  x: 632.5131161296804
+  y: 9.0
+  z: 984.2282251882498
+  yaw: 166.19997
+  pitch: 69.59995
+socialspy: false

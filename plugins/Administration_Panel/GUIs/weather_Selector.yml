@@ -1,0 +1,59 @@
+title: "&7Погода"
+
+slots: 9
+
+buttons:
+
+  0:
+
+    item: WATCH
+
+    title: "Солнечно"
+
+    slot: 0
+
+    weather: SUN
+
+    permission: "change-weather"
+
+    lore:
+    
+      1: "&fSets the weather in"
+      2: "&fthe current world"
+      3: "&fto sunny."
+      
+  1:
+  
+    item: WATCH
+    
+    title: "Дождливо"
+    
+    slot: 1
+    
+    weather: THUNDER
+    
+    permission: "change-weather"
+    
+    lore:
+    
+      1: "&fSets the weather in"
+      2: "&fthe current world"
+      3: "&fto rainy."
+      
+  2:
+
+    item: WATCH
+
+    title: "Шторм"
+
+    slot: 2
+
+    weather: STORM
+
+    permission: "change-weather"
+
+    lore:
+    
+      1: "&fSets the weather in"
+      2: "&fthe current world"
+      3: "&fto stormy."

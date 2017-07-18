@@ -1,0 +1,30 @@
+lastAccountName: Maervel_YT12
+timestamps:
+  login: 1484934677918
+  logout: 1484941450011
+  lastteleport: 1484921843561
+ipAddress: 77.93.6.131
+lastlocation:
+  world: world
+  x: 2706.8468690436257
+  y: 65.0
+  z: 914.847288349797
+  yaw: 131.24011
+  pitch: 62.099827
+afk: false
+socialspy: false
+logoutlocation:
+  world: world
+  x: -990.3962971424285
+  y: 58.0
+  z: -186.23104083250394
+  yaw: -78.59744
+  pitch: -10.650008
+homes:
+  home:
+    world: world
+    x: 2631.143259641425
+    y: 67.15638558122345
+    z: 837.4055297091253
+    yaw: -256.49994
+    pitch: 49.950012

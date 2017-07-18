@@ -1,0 +1,20 @@
+lastAccountName: sasdasd
+timestamps:
+  login: 1500164446935
+  logout: 1500164447488
+ipAddress: 77.51.4.183
+lastlocation:
+  world: world
+  x: 2380.5
+  y: 87.0
+  z: 875.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: main
+  x: -80.0
+  y: 64.0
+  z: 265.0
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false

@@ -1,0 +1,27 @@
+# GiftCode v1.3 Configuration
+# by Mik1313
+
+Lang:
+  Error:
+    Arguments: §4Недопустимое значение!
+    Permissions: §4У Вас нет разрешения на данное действие!
+  Info:
+    Addcode:
+      Use: '§7Используйте: /code add <code> <type> <commands/items id> <amount>'
+      Done: §2Ваш код добавлен!
+      Error: §4Такой код уже существует!
+    Delcode:
+      Use: '§7Используйте: /code del <code>'
+      Done: §2Код удалён!
+    Code:
+      Use: '§7Используйте: /code <code>'
+      Done: §2Код активирован!
+      Error: Ваш код уже активирован или удалён!
+    Action:
+      Time:
+        Error: §4Время этого действия истекло!
+      User:
+        Error: §4Вы уже использовали этот код!
+Random:
+  Part-Size: 4
+  Part-Count: 3

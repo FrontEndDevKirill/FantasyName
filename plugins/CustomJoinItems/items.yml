@@ -1,0 +1,79 @@
+first-item:
+  name: '&a&lMENU'
+  id: 387
+  slot: 1
+  lore:
+    - '&6Сайт авто-доната :'
+  command: 'menu'
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: BedWars, carting, creative, askyblock, world_nether, world_the_end
+  give-on-world-change: true
+second-item:
+  name: '&c&lDONATE'
+  id: 352
+  slot: 2
+  lore:
+    - '&6Сайт авто-доната :'
+  command: 'donate'
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: BedWars, carting, creative, askyblock, world_nether, world_the_end
+  give-on-world-change: true
+third-item:
+  name: '&9&lSHOP'
+  id: 38
+  slot: 3
+  lore:
+    - '&6Сайт авто-доната :'
+  command: 'shop'
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: BedWars, carting, creative, askyblock, world_nether, world_the_end
+  give-on-world-change: true
+fourth-item:
+  name: '&b&lLOBBY'
+  id: 175
+  slot: 4
+  lore:
+    - '&6Сайт авто-доната :'
+  command: 'lobby'
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: BedWars, carting, creative, askyblock, world_nether, world_the_end
+  give-on-world-change: true
+fifth-item:
+  name: '&b&lMINIGAMES'
+  id: 86
+  slot: 5
+  lore:
+    - '&6Сайт авто-доната :'
+  command: 'mgame'
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: BedWars, carting, survival, world, ASkyBlock_nether, creative, askyblock, world_nether, world_the_end, main
+  give-on-world-change: true
+all-the-possible-nodes:
+  name: '&e&lADMIN MENU'
+  id: 347
+  slot: 9
+  data-value: 0
+  lore:
+    - '&6Все для вас парни'
+  command: 'ap'
+  permission: 'customjoinitems.admin'
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  give-on-world-change: true

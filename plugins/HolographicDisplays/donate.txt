@@ -1,0 +1,14 @@
+&4&l[&2&l/DONATE&4&l]
+&6&l---------------------------
+&7&l[FLY] - 10p
+&d&l[VIP] - 30p
+&e&l[PREMIUM] - 50p
+&a&l[CREATIVE] - 70p
+&2&l[CREATIVE+] - 90p
+&c&l[MODERATOR] - 100p
+&5&l[GOD] - 200p
+&4&l[ADMIN] - 300p
+&6&l---------------------------
+&b&l[DONATECASE] - 30p
+&6&l---------------------------
+&f&l[fantasy-mine.mcdonate.ru]

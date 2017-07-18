@@ -1,0 +1,4 @@
+BuyRegionMax: 0
+CheckExpirationsInMins: 5
+RequireBuyMode: true
+RentRegionMax: 0

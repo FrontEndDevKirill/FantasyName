@@ -1,0 +1,26 @@
+#Plugin prefix on chat
+chatPrefix: '[Кто первый ?] '
+
+#Delay before games
+gameDelay: 15
+#Game period
+gamePeriod: 30
+
+#Award mode (0 - item award, 1 - money award (need Vault)
+awardMode: 1
+
+#Award cost
+awardCost: 100
+
+#Count of items those player got when win
+awardCount: 16
+#Award's id
+awardId: 265
+#Award's string name
+awardName: 'iron'
+
+
+#Minimum players online for game
+minPlayers: 2
+#Mode	(0 - random int, 1 - examples, 2 - hard examples) 
+mode: 1

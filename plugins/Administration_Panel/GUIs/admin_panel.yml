@@ -1,0 +1,227 @@
+title: "&cАдмин Панель" # This is the title of the panel / inventory GUI.
+
+slots: 18 # These are the slots the GUI will have. It MUST be divisible by 9.
+
+buttons: # Nothing here. ;)
+
+  0: # Can be whatever you want.
+    
+    type: KICK_PLAYER # This is the type of the button. At the plugin's bukkit dev page is a list of all types.
+    
+    item: LEATHER_BOOTS # This is the item which represents the button. ONLY names, NOT IDs.
+    
+    slot: 0 # This is the slot the button is in. Starting from 0, so the last slot is always 1 smaller then the total amount of slots the GUI has.
+    
+    title: "&cКикнуть игрока ..." # This is the name of the item, the title of the button. It should be short and descriptive.
+    
+    # Bellow is the custom permission. Choose wisely. ;) You can also have 2 buttons with the same permissions to use only that 1 permission for both buttons.
+    permission: "kick-player" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore: # Nothing here, but it tells that here the lores starts. (important!)
+    
+      1: "&fИспользуте что бы кикнуть игрока." # This is the first line of the lore. that 1 isn't needed, you can also name it l1 or first, but I think numbers are pretty good if you have 10 lines.
+     
+  # Now it continues exactly the same like above. 
+  1: 
+  
+    type: BAN_PLAYER
+    
+    item: DIAMOND_BOOTS
+    
+    slot: 1
+    
+    title: "&4Забанить игрока ..."
+    
+    permission: "ban-player" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+    
+      1: "&fИспользуйте что бы забанить игрока."
+      
+  2:
+  
+    type: TELEPORT
+    
+    item: ENDER_PEARL
+    
+    slot: 2
+    
+    title: "&dТелепортировать игрока ..."
+    
+    permission: "teleport"
+    
+    lore:
+     
+      1: "&fИспользуйте что бы "
+      2: "&fоткрыть меню телепорта."
+      
+  3:
+  
+    type: MUTE_PLAYER
+    
+    item: GHAST_TEAR
+    
+    slot: 3
+    
+    title: "&7Замутить игрока ..."
+    
+    permission: "mute-player" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+    
+      1: "&fИспользуйте для мута игрока."
+      
+  4:
+  
+    type: FREEZE_PLAYER
+    
+    item: SNOW_BALL
+    
+    slot: 4
+    
+    title: "&bЗаморозить игрока ..."
+    
+    permission: "freeze-player" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+    
+      1: "&fИспользуйте что бы заморозить игрока."
+      
+  5:
+  
+    type: WORLD_OPTIONS
+    
+    item: SAPLING
+    
+    slot: 5
+    
+    title: "&2Настройки мира ..."
+    
+    permission: "world-options" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+      
+      1: "&fИспользуйте что бы"
+      2: "&fоткрыть меню настроек мира."
+      
+  6:
+  
+    type: GAMEMODE
+    
+    item: LEATHER_CHESTPLATE
+    
+    slot: 6
+    
+    title: "&dИзменить режим игры ..."
+    
+    permission: "gamemode" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+    
+      1: "&fУ вас: &5%gamemode%"
+      2: "&d- - - - - -"
+      3: "&fИспользуйте что бы "
+      4: "&fИзменить."
+      
+  7:
+  
+    type: GHOSTMODE
+    
+    item: CHAINMAIL_CHESTPLATE
+    
+    slot: 7
+    
+    title: "&7Стать невидимым ..."
+    
+    permission: "ghostmode" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+    
+      1: "&fСейчас вы: &8%ghostmode%"
+      2: "&7- - - - - -"
+      3: "&fИспользуйте что бы"
+      4: "&fизменить."
+      
+  8:
+  
+    type: BROADCAST
+    
+    item: BOOK
+    
+    slot: 8
+    
+    title: "&4Объявление всем игрокам"
+    
+    permission: "broadcast"
+    
+    lore:
+    
+      1: "&fОткройте что бы"
+      2: "&fотправить сообщение всем."
+      
+  9:
+  
+    type: PLAYER_INFO
+    
+    item: PAPER
+    
+    slot: 9
+    
+    title: "&eИнформания о игроке"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&fОткройте что бы"
+      2: "&fпосмотреть информанию."
+      3: "&fо игроке"
+      
+  10:
+  
+    type: CUSTOM
+    
+    item: PAPER
+    
+    slot: 10
+    
+    title: "&9Безполезная вещь"
+    
+    permission: "commander"
+    
+    lore:
+    
+      1: "&fЗабейте на эту"
+      2: "&fштуку."
+      
+  11:
+  
+    type: ITEM_GIVER
+    
+    item: GRASS
+    
+    slot: 11
+    
+    title: "&2Выдать вещь"
+    
+    permission: "item-sender"
+    
+    lore:
+    
+      1: "&fОткройте что бы выдать вещь"
+      
+  12:
+  
+    type: CRAFTING_TABLE
+    
+    item: WORKBENCH
+    
+    slot: 12
+    
+    title: "&6Крафт стол"
+    
+    permission: "crafting-table"
+    
+    lore:
+    
+      1: "&fОткрыть крафт стол."

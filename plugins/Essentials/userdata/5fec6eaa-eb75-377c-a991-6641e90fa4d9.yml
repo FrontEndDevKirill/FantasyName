@@ -1,0 +1,26 @@
+lastAccountName: _MrCreativchik_
+timestamps:
+  login: 1484935008261
+  lastteleport: 1484935043878
+  kits:
+    premium: 1484935226338
+    vip: 1484934094550
+  lastheal: 1484934655101
+  logout: 1484936251655
+ipAddress: 176.213.73.166
+lastlocation:
+  world: world
+  x: 2283.0331286003443
+  y: 66.0
+  z: -329.3544274409651
+  yaw: -120.0
+  pitch: 29.249989
+afk: false
+socialspy: false
+logoutlocation:
+  world: world
+  x: -1035.984710135712
+  y: 63.0
+  z: -209.30000001192093
+  yaw: -5.549011
+  pitch: 90.0

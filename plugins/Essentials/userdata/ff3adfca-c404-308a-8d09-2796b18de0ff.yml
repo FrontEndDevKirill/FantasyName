@@ -1,0 +1,23 @@
+lastAccountName: Modik_Pro
+timestamps:
+  login: 1500182089584
+  lastteleport: 1500182101778
+  logout: 1500182129180
+  kits:
+    start: 1500182107728
+ipAddress: 46.41.109.135
+lastlocation:
+  world: main
+  x: 632.3181378108808
+  y: 9.0
+  z: 994.402029512428
+  yaw: 2.0982983
+  pitch: 1.0499741
+logoutlocation:
+  world: survival
+  x: 26.05000001192093
+  y: 64.5
+  z: 249.69999998807907
+  yaw: 80.25233
+  pitch: 21.899942
+socialspy: false

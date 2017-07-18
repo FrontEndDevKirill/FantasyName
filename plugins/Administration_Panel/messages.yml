@@ -1,0 +1,127 @@
+administration-panel:
+
+  player-not-online:
+    
+    message: "&cИгрок %player% не онлайн!"
+
+kick-player:
+
+  target:
+  
+    message: "&4Вы были кикнуты администрацией. Причина: %reason%."
+    
+  clicker:
+  
+    message: "&cВы кикнули %target%&c."
+    
+ban-player:
+
+  target:
+  
+    message: "&4Вы были забанены администраторок. Причина: %reason%."
+    
+  clicker:
+  
+    message: "&cВы забанили %target%&c."
+  
+teleport:
+
+  target-to-clicker:
+  
+    target:
+    
+      message: "&cВас телепортировали к %clicker%."
+      
+    clicker: 
+      
+      message: "&cВы телепортировани %target% &cк себе."
+      
+  clicker-to-target:
+  
+    clicker:
+    
+      message: "&cВы телепортировались к %target%."
+    
+mute-player:
+
+  target:
+  
+    message: "&cВы были замучены администрацией. Причина: %reason%."
+    
+  clicker:
+  
+    message: "&cВы замутели %target%&c."
+    
+unmute-player:
+
+  target:
+  
+    message: "&cВы были размучены администрацией."
+    
+  clicker:
+  
+    message: "&cВы размутели %target%&c."
+    
+freeze-player:
+
+  target:
+  
+    message: "&cВы были заморожены администрацией. Причина: %reason%."
+    
+  clicker:
+  
+    message: "&cВы заморозили %target%&c."
+    
+unfreeze-player:
+
+  target:
+  
+    message: "&cВы были разморожены администрацией."
+    
+  clicker:
+  
+    message: "&cВы разморозили %target%&c."
+    
+world-options:
+
+  change-time:
+  
+    clicker:
+    
+      message: "&cВы изменили время в мире %world% на %name% (%ticks% ticks)."
+      
+  change-player-time:
+  
+    clicker:
+    
+      message: "&cВы изменили %target% время в мире %world% на %name% (%ticks% ticks)."
+      
+    target:
+    
+      message: "&cВаше время в мире %world% изменино на  %name% Администрацией."
+      
+  change-weather:
+  
+    clicker:
+    
+      message: "&cВы изменили погоду в мире %world% на %name%."
+      
+item-giver:
+
+  clicker:
+    
+    message: "&cВы выдали %amount%  %item% игроку %player%."
+    
+  target:
+  
+    message: "&cВы взяли %amount%  %item%  %clicker%!"
+    
+player-information:
+
+  kick-message: "&cВы были кикнуты админисраией."
+  
+  ban-message: "&cYВы были забанены администрацией."
+  
+info-tool:
+
+  useNoPermissions: "Не крадите инструменты у администраторов, у вас нет прав на использование этого инструмента!"

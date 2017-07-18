@@ -1,0 +1,102 @@
+error:
+  memoryLockdown: Operation failed due to lack of System Memory!
+general:
+  disabled: 'Error: Disabled'
+  cmd:
+    leave:
+      success: Successfully left %name%!
+      fail: You aren't in a game/que!
+    page: 'Page [%page%/%total%]:'
+    full: There are no race tracks available!
+    noRaces: There are no races for that track current running!
+    forceEnd: Game terminated by an admin!
+    endSuccess: Terminated race!
+    overflow: Queues/Tracks are full, joining new low-priority queue!
+    playersOnly: This command is for players only!
+    setlaps:
+      success: Successfully set laps for track %name%!
+    setMinPlayers:
+      success: Successfully set the minimum players for track %name%!
+    setRewards:
+      success: Successfully set the rewards for track %name%!
+    delete:
+      success: Successfully deleted track %name%!
+      exists: That track doesn't exist!
+    racetimes: 'Top %n% times for track %track%:'
+  shop:
+    notEnoughMoney: You don't have enough %currency% for that item!
+    maxUpgrades: You are not allowed to own more than 64 of an upgrade!
+    success: Successfully bought %name% for %price% %currency%! You now have %balance% %currency%!
+    sellSuccess: Successfully removed %amount% of %name% from your upgrades list!
+    error: An error occured. Please contact a member of staff. (No economy found)
+setup:
+  create:
+    exists: This track already exists! Please do /urace delete %name% before proceeding!
+    start: 'Wand: %id% (%name%)'
+    lobby: Stand in the lobby and right click anywhere with the wand
+    exit: Stand at the track exit and right click anywhere with the wand
+    grid: Stand where you want a car to start the race and right click anywhere (Without the wand). Repeat for all the starting positions. When done, right click anywhere with the wand
+    checkpoints: Stand at each checkpoint along the track (Checkpoint 10x10 radius) and right click anywhere (Without the wand). Repeat for all checkpoints. When done, right click anywhere with the wand
+    notEnoughCheckpoints: 'You must have at least 3 checkpoints! You only have: %num%'
+    line1: Stand at one end of the start/finish line and right click anywhere with the wand
+    line2: Stand at the other end of the start/finish line and right click anywhere with the wand
+    done: Successfully created Race Track %name%!
+    queueSign: Successfully registered queue sign!
+  fail:
+    queueSign: That track doesn't exist!
+race:
+  que:
+    existing: You are already in a game/que! Please leave it before joining this one!
+    other: 'Unavailable! Current queue race type: %type%'
+    full: Race que full!
+    success: In Race Que!
+    joined: ' joined the race que!'
+    left: ' left the race que!'
+    players: Acquired minimum players for race! Waiting %time% seconds for additional players to join...
+    preparing: Preparing race...
+    starting: Race starting in...
+    go: Go!
+  end:
+    timeLimit: Time Limit exceeded!
+    won: ' won the race!'
+    rewards: '&6+&a%amount%&6 %currency% for %position%! You now have %balance% %currency%!'
+    time: Your time was %time% seconds!
+    soon: You have 1 minute before the race ends!
+    position: You finished %position%!
+  mid:
+    miss: You missed a section of the track! Please go back and do it!
+    backwards: You are going the wrong way!
+    lap: Lap [%lap%/%total%]
+  upgrades:
+    use: '&c[-]&6 Consumed Upgrade'
+resource:
+  download: Downloading resources...
+  downloadHelp: 'If the resources aren''t downloaded automatically. Download it at:
+    %url%'
+  clear: Switching back to default minecraft textures...
+mario:
+  hit: You were hit by a %name%!
+  shop:
+    title: MarioKart Shop
+    exit:
+      title: Exit Menu
+      info: Exit this Menu!
+    buyUpgrades:
+      title: Buy Upgrades
+      info: Upgrade your Kart!
+    myUpgrades:
+      title: My Upgrades
+      info: View and Remove Kart upgrades!
+    page: 'Page:'
+    back:
+      title: Back to menu
+      info: Return back to the selection menu
+      previous:
+        title: Previous Page
+        info: Go to the previous page
+      next:
+        title: Next Page
+    next:
+      info: Go to the next page
+    price: 'Price: %amount% %currency%'
+    delete: Click to delete

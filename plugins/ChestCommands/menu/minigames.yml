@@ -1,0 +1,46 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&4&l* &1Выбор миниигры &4&l*'
+
+  # rows - the num6er of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'mgame;minig;минигры'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item to 0)
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+1:
+  COMMAND: 'tp -279 66 -72'
+  NAME: '&b&lTNTRUN'
+  ID: tnt
+  KEEP-OPEN: false
+  POSITION-X: 4
+  POSITION-Y: 2
+2:
+  COMMAND: 'ss join 1'
+  NAME: '&a&lSPLEEF'
+  ID: 269
+  KEEP-OPEN: false
+  POSITION-X: 5
+  POSITION-Y: 2
+3:
+  COMMAND: 'ma join'
+  NAME: '&c&lMOBARENA'
+  ID: diamond_helmet
+  KEEP-OPEN: false
+  POSITION-X: 6
+  POSITION-Y: 2

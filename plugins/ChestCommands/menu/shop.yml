@@ -1,0 +1,126 @@
+menu-settings:
+
+  name: '&4&l* &1Магазин &4&l*'
+  command: 'shop; магазин'
+
+  rows: 6
+
+
+blocks:
+  COMMAND: 'open:shop_money_blocks.yml'
+  NAME: '&eБлоки...'
+  ID: stone:6
+  POSITION-X: 3
+  POSITION-Y: 2
+  
+
+tree:
+  COMMAND: 'open:shop_money_tree.yml'
+  NAME: '&aДерево...'
+  ID: 17
+  POSITION-X: 4
+  POSITION-Y: 2
+
+
+wool:
+  COMMAND: 'open:shop_money_wool.yml'
+  NAME: '&aШерсть...'
+  ID: 35
+  POSITION-X: 5
+  POSITION-Y: 2
+
+
+clay:
+  COMMAND: 'open:shop_money_clay.yml'
+  NAME: '&cГлина...'
+  ID: 172
+  POSITION-X: 6
+  POSITION-Y: 2
+
+
+table:
+  COMMAND: 'open:shop_money_table.yml'
+  NAME: '&5Другое...'
+  ID: 58
+  POSITION-X: 7
+  POSITION-Y: 2
+
+
+stand:
+  COMMAND: 'open:shop_money_stand.yml'
+  NAME: '&6Зельеварение...'
+  ID: 379
+  POSITION-X: 3
+  POSITION-Y: 3
+
+
+redstone:
+  COMMAND: 'open:shop_money_redstone.yml'
+  NAME: '&cРедстоун...'
+  ID: 331
+  POSITION-X: 4
+  POSITION-Y: 3
+
+
+flag:
+  COMMAND: 'open:shop_money_flag.yml'
+  NAME: '&fФлаги...'
+  ID: banner:15
+  POSITION-X: 5
+  POSITION-Y: 3
+
+
+mine:
+  COMMAND: 'open:shop_money_mine.yml'
+  NAME: '&bРесурсы...'
+  ID: 14
+  POSITION-X: 6
+  POSITION-Y: 3
+
+
+music:
+  COMMAND: 'open:shop_money_music.yml'
+  NAME: '&bПластинки...'
+  ID: 2256
+  POSITION-X: 7
+  POSITION-Y: 3
+
+
+food:
+  COMMAND: 'open:shop_money_food.yml'
+  NAME: '&aЕда...'
+  ID: 424
+  POSITION-X: 4
+  POSITION-Y: 4
+
+
+seed:
+  COMMAND: 'open:shop_money_seed.yml'
+  NAME: '&3Семена...'
+  ID: 295
+  POSITION-X: 5
+  POSITION-Y: 4
+
+
+spawner:
+  COMMAND: 'open:shop_money_spawner.yml'
+  NAME: '&5Спавнер...'
+  ID: 52
+  POSITION-X: 6
+  POSITION-Y: 4
+
+
+itemgod:
+  COMMAND: 'open:shop_money_itemgod.yml'
+  NAME: '&2&lСуперПредметы'
+  ID: 322
+  POSITION-X: 5
+  POSITION-Y: 5
+
+
+back:
+  COMMAND: 'open:menu.yml; sound'
+  NAME: '&aВернуться...'
+  ID: 381
+  POSITION-X: 5
+  POSITION-Y: 6
